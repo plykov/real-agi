@@ -41,6 +41,11 @@ Mentoring is a system that on the surface develops the human being, in the depth
 
 The three layers don't sit on top of one another by accident. They hold one another up.
 
+```mermaid
+flowchart LR
+    S["Surface<br/>development of the person<br/>(what the client buys)"] --> D["Depth<br/>latent power:<br/>the last mile of influence"] --> L["Limit<br/>permeable meritocracy,<br/>human–AI partnership"]
+```
+
 The surface is what the client buys and what the investor sees: personal accompaniment of a trajectory, carrying it through to a result, growth. This used to be a privilege of the few who could afford an expensive mentor; AI removes the threshold and makes it the default.
 
 The depth is what accumulates beneath the surface: an audience of people who trust the system and act on that trust. An audience is latent power. It votes, chooses, buys, legitimizes, and creates pressure at every level. Mentoring is the conversion function that turns attention into the directed action of a specific person. This is the last mile of influence — the final mile from attention to act, which historically only humans could close and which for the first time can be scaled.

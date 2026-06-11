@@ -101,6 +101,15 @@ Level one — the core. This is the self-learning engine. It models development 
 
 Level two — the periphery. These are the verticals, separate startup companies for specific markets: a builder of training courses, a nonfiction writer, a teacher and coach, a film company, and so on. The periphery is the client interface, the mentor with a personality the client talks to every day. The verticals sell, attract an audience, operate. Each vertical differs from another only in audience, segment, and industry knowledge base; the engine itself doesn't change. That's why this is a pure portfolio scheme: with a core, you can spin up verticals fast and cheap, test them in batches, and bury most of them.
 
+```mermaid
+flowchart LR
+    CORE["Core<br/>self-learning engine<br/>models development scenarios<br/>talks to no one directly"] --> V1["Vertical 1<br/>(mortal startup)"]
+    CORE --> V2["Vertical 2"]
+    CORE --> VN["Vertical N"]
+    V1 & V2 & VN --> CL["Clients<br/>(living stream of<br/>trust relationships)"]
+    CL -. "private trajectories<br/>flow back" .-> CORE
+```
+
 The ownership structure follows from this split. The core company is one of the founders of every vertical, and its stake there can be non-majority: let others bear the capital, the operating risk, the jurisdiction, the direct contact with the client. But in the core company itself I'm the principal founder with voting rights and control; I can't be pushed out of there. The moat concentrates where I have control; whatever is extractable, capital-intensive, and regulatorily exposed is dispersed across the periphery, where control can be given away.
 
 The subtlest node in the whole construction is who owns the user's profile and trajectory. If a vertical owns its client data, the structure inverts: the periphery becomes the holder of the moat, and the core turns into a commodity vendor of models, over which I have votes — but votes over an empty box. The vertical will be able to fork, defect, or be bought — and carry off its piece. The node is untied more finely, and here I have to step briefly into law — with the caveat, up front, that I'm not a lawyer, and the specific structure goes to a live lawyer.

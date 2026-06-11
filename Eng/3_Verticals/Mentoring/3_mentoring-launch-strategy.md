@@ -47,6 +47,12 @@ Home is a university or a club, not free-to-play. Retention through growing real
 
 Everything is deferred except the launch-time invariant: control over the channel and ownership of the core. That's the single irreversible decision. "I'll deal with it later" turns into "they'll decide for me" on exactly the day the channel is controllable from a single center that power can seize.
 
+```mermaid
+flowchart LR
+    A["Commercial start<br/>(money, customers,<br/>feedback immediately)"] --> B["One nested narrative<br/>(all layers true,<br/>not parallel ones)"] --> C["Bootstrap from<br/>familiar verticals<br/>(verticals are mortal;<br/>engine + relationships survive)"] --> D["Legal frame as<br/>a transparent game<br/>(rules open, no deception)"]
+    D -.-> INV["Launch-time invariant:<br/>control over the channel +<br/>ownership of the core"]
+```
+
 ---
 
 ## 1. Why a commercial start <a id="1-commercial-start"></a>

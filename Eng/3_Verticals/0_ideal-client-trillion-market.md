@@ -90,6 +90,11 @@ The basic cycle of the system is simple and painfully familiar to anyone who has
 
 challenge → action → feedback → overcoming → reward → escalation.
 
+```mermaid
+flowchart LR
+    CH["Challenge"] --> AC["Action"] --> FB["Feedback"] --> OV["Overcoming"] --> RW["Reward"] --> ES["Escalation<br/>(adaptive difficulty)"] --> CH
+```
+
 Each cycle is a short iteration with a measurable result. Each subsequent iteration is slightly harder than the one before it. Difficulty isn't set by a fixed program — it adapts to the user's actual trajectory. We don't teach everyone the same thing at the same pace. We keep each person in their own development zone — the one Vygotsky called the zone of proximal development: the distance between what a person does on their own and what they do with support[^7]. Only now the support isn't from a live mentor but from a system that sees the user's behavior in real time and picks the next step calibrated to their current level.
 
 That's what the phrase "AI as personal mentor" actually means — and it has to be unpacked, because the phrase has been resold into meaninglessness. I mean something specific: personal accompaniment that used to cost hundreds of dollars an hour and was accessible to a very narrow circle is now becoming broadly available because AI scales. That's not a marketing claim — it's a technological shift. Bloom's classic study of the two-sigma effect showed that an average student under one-on-one tutoring with mastery learning — learning to full mastery of each topic before moving to the next — ends up above 98% of students from a regular classroom[^8]. That's the "two sigma" — two standard deviation units. Later meta-analyses corrected the original number: the gap between "no help" and "human tutor" is d ≈ 0.79 by Cohen's measure (a standardized mean difference expressed in standard deviation units), and intelligent tutoring systems can close that gap almost completely, d ≈ 0.76[^9]. AI tutoring is now technically capable of reproducing Bloom's effect. Technology has caught up with the idea.

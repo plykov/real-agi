@@ -48,6 +48,14 @@ I argue a simple thing. The modern Western state is a stable corrupt system dres
 
 The stability of this system has been achieved through the simultaneous closure of three layers. Economic layer: concentrated ownership through institutional investors destroys real competition inside industries and standardizes the political interests of large capital. Cognitive layer: education and media cultivate a population incapable of systemic analysis — not because of a conspiracy, but because of how the incentives are arranged. Technological layer: AI is methodically closing the last historical exit — the possibility of economic autonomy through intellectual labor.
 
+```mermaid
+flowchart LR
+    L1["Layer 1: economic<br/>common ownership"] --> CL["Full closure<br/>of the system"]
+    L2["Layer 2: cognitive<br/>education & media"] --> CL
+    L3["Layer 3: technological<br/>AI closes the last exit"] --> CL
+    CL --> FR["Fragility"] --> FG["Fragmentation<br/>parallel economies,<br/>local networks,<br/>alternative jurisdictions"]
+```
+
 Once the three layers closed, traditional correction mechanisms work only as simulation. Elections give a choice between shades of the same thing. Protest is absorbed by police routine. Market competition is filtered through the interests of common shareholders. Professional mobility is being erased by algorithms. The real mechanism of change reduces to one thing — intra-elite conflict — and the Trump / Musk / DOGE case is not a "popular revolution" but a factional reshuffling at the top.
 
 The most uncomfortable turn in my model is this: the more stable this system becomes, the larger the share of the population that falls out — not into managed dependency, but into real poverty. That creates pressure that classical stabilization cannot absorb. Historically, such configurations do not turn into revolutions. They turn into fragmentation — the breakup of a single political field into parallel economies, local networks, alternative jurisdictions. Not because people are reasonable and organized. Simply because survival forces it.
