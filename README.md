@@ -16,6 +16,8 @@
 
 **Languages:** the primary language of the corpus is **American English** (`Eng/`). The Russian originals live in `Ru/` with an identical folder structure; every document cross-links to its counterpart in the other language.
 
+> **🧭 Roadmap:** the forward-looking view — how the core, once encapsulated, propagates as a donor across verticals and culminates in a self-learning system — lives in [`ROADMAP.md`](ROADMAP.md). (The `3_Verticals/` section is the same architecture read *backward*, as inductive proof.)
+
 ---
 
 ## 1. What This Project Is
