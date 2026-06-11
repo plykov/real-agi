@@ -1,4 +1,4 @@
-# Real AGI — A Navigator for Life Trajectories
+# Real AGI — Building Genuine AGI on Modern Technology
 
 > A corpus of essays and book drafts by Alex Krol on building "real AGI": not a chat that answers questions, but a self-learning system that navigates a person along the trajectory of their life. From the metaphysical foundation — through concept and technology — to the market and a research program.
 
