@@ -1,8 +1,7 @@
 .DS_Store
 
-# Process / working material — local-only (privacy)
+# Process / working material — local-only, never pushed (privacy).
+# The author-dialogue journal and the raw vertical-intake profiles can
+# contain private data; only the corpus (Eng/, Ru/) and portfolio cards ship.
+_dialogs/
 _vertical-intake/
-
-
-
-
