@@ -10,6 +10,16 @@ series: "Mentoring, 2 of 3 — launch (operational strategy)"
 
 **Private document. Not for public distribution.** This is the operational layer of the system, not its concept. The concept — the three layers, audience as power, mentoring as the last mile of influence — I worked out separately ("Mentoring: Development on the Surface, Power in the Depth, Meritocracy at the Limit"). Here I'm not interested in *why* the system is built the way it is; I'm interested in *how* to launch it so it solves money, customers, and law without killing the internal thesis and without provoking a premature conflict with power. I'm a pragmatist. I make money. This text is about that, and I don't soften the power layer here — there's an external version for softening.
 
+**Alex Krol** — strategy, AI, growth infrastructure
+
+[![Version](https://img.shields.io/badge/Version-1.0-blue?style=flat-square)](https://github.com/alexeykrol/real-agi)
+[![Website](https://img.shields.io/badge/Website-alexeykrol.com-FF6B35?style=flat-square&logo=safari&logoColor=white)](https://alexeykrol.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Krol-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexkrol/)
+[![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
+[![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
+
+> © 2026 Alex Krol. Private document. Not for public distribution; sharing, quotation, or translation only with the author's explicit written permission.
+
 ## Contents
 
 0. [TL;DR — the launch strategy on one page](#tldr)

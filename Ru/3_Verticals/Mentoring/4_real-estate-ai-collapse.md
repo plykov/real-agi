@@ -10,6 +10,16 @@ updated: 2026-04-27
 
 # Конец недвижимости как инвестиции. Почему ваш дом может превратиться в тыкву за 5–7 лет
 
+
+**Alex Krol** — стратегия, AI, инфраструктура роста
+
+[![Version](https://img.shields.io/badge/Version-0.9--draft-orange?style=flat-square)](https://github.com/alexeykrol/real-agi)
+[![Website](https://img.shields.io/badge/Website-alexeykrol.com-FF6B35?style=flat-square&logo=safari&logoColor=white)](https://alexeykrol.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Krol-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexkrol/)
+[![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
+[![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
+
+> © 2026 Alex Krol. Все права защищены. Перепубликация, распространение и коммерческое использование — только с письменного согласия автора.
 ## Жёсткий прогноз
 
 В горизонте ближайших 4–7 лет рынок недвижимости в развитых странах схлопнется как массовый инвестиционный актив. Не одномоментным обвалом в один понедельник, а длинной коррекцией без отскока. Жильё перестанет быть «пенсионным планом» и «тихой гаванью» для среднего класса. Сохранит инвестиционную ценность только тонкий премиальный слой — лучшие локации, действительно уникальные объекты. Всё остальное либо будет дешеветь, либо годами стоять в стагнации, медленно съедая капитал владельцев инфляцией и налогами.

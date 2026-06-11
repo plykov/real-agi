@@ -10,6 +10,16 @@ series: "Менторинг, 2 из 3 — запуск (операционная
 
 **Приватный документ. Не для открытой публикации.** Это операционный слой системы, а не её концепция. Концепцию — три слоя, аудитория как власть, менторинг как последняя миля влияния — я разобрал отдельно («Менторинг: развитие на поверхности, власть в глубине, меритократия в пределе»). Здесь меня не интересует, *почему* система устроена так; меня интересует, *как* её запустить, чтобы решить деньги, клиентов и юридику и при этом не угробить внутренний тезис и не спровоцировать преждевременный конфликт с властью. Я прагматик. Я зарабатываю деньги. Этот текст про это, и властный слой я здесь не смягчаю — для смягчения есть внешняя версия.
 
+**Alex Krol** — стратегия, AI, инфраструктура роста
+
+[![Version](https://img.shields.io/badge/Version-1.0-blue?style=flat-square)](https://github.com/alexeykrol/real-agi)
+[![Website](https://img.shields.io/badge/Website-alexeykrol.com-FF6B35?style=flat-square&logo=safari&logoColor=white)](https://alexeykrol.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Krol-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexkrol/)
+[![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
+[![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
+
+> © 2026 Alex Krol. Приватный документ. Не для открытой публикации; распространение, цитирование и перевод — только с письменного согласия автора.
+
 ## Оглавление
 
 0. [TL;DR — стратегия запуска на одной странице](#tldr)

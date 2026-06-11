@@ -10,6 +10,16 @@ series: "Mentoring, 1 of 3 — concept (core)"
 
 **Private document. Not for public distribution.** This is the honest internal version of the concept. The safe external wrapper of the same system is a separate text ("The Ideal Client and the Trillion-Dollar Market"). Here I don't soften the political and power layer: there's another document for softening. This one is the core.
 
+**Alex Krol** — strategy, AI, growth infrastructure
+
+[![Version](https://img.shields.io/badge/Version-1.0-blue?style=flat-square)](https://github.com/alexeykrol/real-agi)
+[![Website](https://img.shields.io/badge/Website-alexeykrol.com-FF6B35?style=flat-square&logo=safari&logoColor=white)](https://alexeykrol.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Krol-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexkrol/)
+[![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
+[![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
+
+> © 2026 Alex Krol. Private document. Not for public distribution; sharing, quotation, or translation only with the author's explicit written permission.
+
 ## Contents
 
 0. [TL;DR — the whole model on one page](#tldr)

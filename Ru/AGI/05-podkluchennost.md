@@ -1,5 +1,15 @@
 ### Глава 5. Подключённость
 
+
+**Alex Krol** — стратегия, AI, инфраструктура роста
+
+[![Version](https://img.shields.io/badge/Version-0.9--draft-orange?style=flat-square)](https://github.com/alexeykrol/real-agi)
+[![Website](https://img.shields.io/badge/Website-alexeykrol.com-FF6B35?style=flat-square&logo=safari&logoColor=white)](https://alexeykrol.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Krol-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexkrol/)
+[![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
+[![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
+
+> © 2026 Alex Krol. Все права защищены. Перепубликация, распространение и коммерческое использование — только с письменного согласия автора.
 Прошлая глава закончилась на очень неудобном месте. Я согласился, что инсайт — катастрофа при недостаточности контекста, как сжатая пружина, которая лопается без промежуточных стадий, — и тем самым поставил себе задачу, которая долго не давала покоя. Если в системе нет достаточного материала, чтобы вывести решение, а решение всё равно появляется — оно откуда. Не как переживание, а буквально. По какому каналу.
 
 Этот вопрос звучит как заявка на мистику, и именно поэтому большинство приличных людей его не задаёт. Лучше промолчать, чем выглядеть человеком, который верит во что-то странное. Я молчать не собираюсь, но мистики тоже не хочу. Поэтому мне нужна метафора, которая удержит вопрос в пределах инженерной речи — и при этом не размажет его до банальности.

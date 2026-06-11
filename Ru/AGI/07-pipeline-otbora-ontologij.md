@@ -1,5 +1,15 @@
 ### Глава 7. От метафизики к эксперименту
 
+
+**Alex Krol** — стратегия, AI, инфраструктура роста
+
+[![Version](https://img.shields.io/badge/Version-0.9--draft-orange?style=flat-square)](https://github.com/alexeykrol/real-agi)
+[![Website](https://img.shields.io/badge/Website-alexeykrol.com-FF6B35?style=flat-square&logo=safari&logoColor=white)](https://alexeykrol.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Krol-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexkrol/)
+[![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
+[![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
+
+> © 2026 Alex Krol. Все права защищены. Перепубликация, распространение и коммерческое использование — только с письменного согласия автора.
 Гипотеза о другой физике реальности уже сформулирована. Дальше нужно не убеждать. Дальше нужно понять, как с такой гипотезой обращаться так, чтобы это была работа, а не разговор по кругу.
 
 Первая реакция образованного человека на любую новую онтологию — то есть на любую новую картину того, из чего сделана реальность, — стандартная и почти автоматическая. Он говорит: это метафизика. Подразумевая под этим: это ненаучно. А если ненаучно — то всерьёз можно не обсуждать. Можно вежливо кивнуть и пойти дальше, к чему-нибудь, что говорит формулами.

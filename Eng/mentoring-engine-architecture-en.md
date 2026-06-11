@@ -10,6 +10,16 @@ series: "Mentoring, 3 of 3 — architecture (engineering)"
 
 **Private document. Not for public distribution.** This is the engineering layer of the series — the thing I'm building with my hands right now. The most concrete of the three texts and the least politically charged, but private all the same: it exposes the structure of the moat. The concept of power and meritocracy I keep in Essay 1; launch and the legal side in Essay 2; here they enter only as bridges, a phrase or two. This is the engine. The tone is engineering, without moralizing: the engine is amoral, and that's a correct property of it, not a defect.
 
+**Alex Krol** — strategy, AI, growth infrastructure
+
+[![Version](https://img.shields.io/badge/Version-1.0-blue?style=flat-square)](https://github.com/alexeykrol/real-agi)
+[![Website](https://img.shields.io/badge/Website-alexeykrol.com-FF6B35?style=flat-square&logo=safari&logoColor=white)](https://alexeykrol.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Krol-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexkrol/)
+[![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
+[![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
+
+> © 2026 Alex Krol. Private document. Not for public distribution; sharing, quotation, or translation only with the author's explicit written permission.
+
 ## Contents
 
 0. [TL;DR — the whole architecture on one page](#tldr)
