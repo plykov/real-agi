@@ -22,7 +22,7 @@ language: en
 [![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
 [![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
 
-> 🇷🇺 **Russian version:** [Ru/3_Verticals/Mentoring/1_state-corruption-collapse.md](../../../Ru/3_Verticals/Mentoring/1_state-corruption-collapse.md)
+> 🇷🇺 **Russian version:** [Ru/3_Verticals/mentoring/1_state-corruption-collapse.md](../../../Ru/3_Verticals/mentoring/1_state-corruption-collapse.md)
 
 > © 2026 Alex Krol. All rights reserved. This essay is shared for public reading and discussion. Republication, translation, or commercial use only with the author's written permission.
 

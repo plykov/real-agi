@@ -19,7 +19,7 @@ updated: 2026-04-27
 [![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
 [![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
 
-> 🇷🇺 **Russian version:** [Ru/3_Verticals/Mentoring/4_real-estate-ai-collapse.md](../../../Ru/3_Verticals/Mentoring/4_real-estate-ai-collapse.md)
+> 🇷🇺 **Russian version:** [Ru/3_Verticals/mentoring/4_real-estate-ai-collapse.md](../../../Ru/3_Verticals/mentoring/4_real-estate-ai-collapse.md)
 
 > © 2026 Alex Krol. All rights reserved. Republication, redistribution, or commercial use only with the author's explicit written permission.
 

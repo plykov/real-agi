@@ -18,7 +18,7 @@ series: "Mentoring, 2 of 3 — launch (operational strategy)"
 [![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
 [![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
 
-> 🇷🇺 **Russian version:** [Ru/3_Verticals/Mentoring/3_mentoring-launch-strategy.md](../../../Ru/3_Verticals/Mentoring/3_mentoring-launch-strategy.md)
+> 🇷🇺 **Russian version:** [Ru/3_Verticals/mentoring/3_mentoring-launch-strategy.md](../../../Ru/3_Verticals/mentoring/3_mentoring-launch-strategy.md)
 
 > © 2026 Alex Krol. Private document. Not for public distribution; sharing, quotation, or translation only with the author's explicit written permission.
 
