@@ -1,6 +1,6 @@
 ---
 title: "Mentoring: Development on the Surface, Power in the Depth, Meritocracy at the Limit"
-register: "private, not for publication (private-core)"
+register: public
 author: Alex Krol
 date: 2026-05-28
 series: "Mentoring, 1 of 3 — concept (core)"
@@ -8,7 +8,7 @@ series: "Mentoring, 1 of 3 — concept (core)"
 
 # Mentoring: Development on the Surface, Power in the Depth, Meritocracy at the Limit
 
-**Private document. Not for public distribution.** This is the honest internal version of the concept. The safe external wrapper of the same system is a separate text ("The Ideal Client and the Trillion-Dollar Market"). Here I don't soften the political and power layer: there's another document for softening. This one is the core.
+This is the honest internal version of the concept. The safe external wrapper of the same system is a separate text ("The Ideal Client and the Trillion-Dollar Market"). Here I don't soften the political and power layer: there's another document for softening. This one is the core.
 
 **Alex Krol** — strategy, AI, growth infrastructure
 
@@ -20,7 +20,7 @@ series: "Mentoring, 1 of 3 — concept (core)"
 
 > 🇷🇺 **Russian version:** [Ru/3_Verticals/mentoring/2_mentoring-power-meritocracy.md](../../../Ru/3_Verticals/mentoring/2_mentoring-power-meritocracy.md)
 
-> © 2026 Alex Krol. Private document. Not for public distribution; sharing, quotation, or translation only with the author's explicit written permission.
+> © 2026 Alex Krol. All rights reserved. Republication, redistribution, or commercial use only with the author's explicit written permission.
 
 ## Contents
 

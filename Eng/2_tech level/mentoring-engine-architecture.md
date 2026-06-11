@@ -1,6 +1,6 @@
 ---
 title: "Architecture: Core, Verticals, Moat"
-register: "private, not for publication (private-core)"
+register: public
 author: Alex Krol
 date: 2026-05-28
 series: "Mentoring, 3 of 3 — architecture (engineering)"
@@ -8,7 +8,7 @@ series: "Mentoring, 3 of 3 — architecture (engineering)"
 
 # Architecture: Core, Verticals, Moat
 
-**Private document. Not for public distribution.** This is the engineering layer of the series — the thing I'm building with my hands right now. The most concrete of the three texts and the least politically charged, but private all the same: it exposes the structure of the moat. The concept of power and meritocracy I keep in Essay 1; launch and the legal side in Essay 2; here they enter only as bridges, a phrase or two. This is the engine. The tone is engineering, without moralizing: the engine is amoral, and that's a correct property of it, not a defect.
+This is the engineering layer of the series — the thing I'm building with my hands right now. The most concrete of the three texts and the least politically charged, but private all the same: it exposes the structure of the moat. The concept of power and meritocracy I keep in Essay 1; launch and the legal side in Essay 2; here they enter only as bridges, a phrase or two. This is the engine. The tone is engineering, without moralizing: the engine is amoral, and that's a correct property of it, not a defect.
 
 **Alex Krol** — strategy, AI, growth infrastructure
 
@@ -20,7 +20,7 @@ series: "Mentoring, 3 of 3 — architecture (engineering)"
 
 > 🇷🇺 **Russian version:** [Ru/2_tech level/mentoring-engine-architecture.md](../../Ru/2_tech%20level/mentoring-engine-architecture.md)
 
-> © 2026 Alex Krol. Private document. Not for public distribution; sharing, quotation, or translation only with the author's explicit written permission.
+> © 2026 Alex Krol. All rights reserved. Republication, redistribution, or commercial use only with the author's explicit written permission.
 
 ## Contents
 

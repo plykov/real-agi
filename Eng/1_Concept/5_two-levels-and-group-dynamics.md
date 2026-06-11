@@ -2,8 +2,8 @@
 title: "5. Two Levels of Action and Group Dynamics: Changing the World, Changing the Player, Seeing the Team (working title)"
 type: article
 status: draft
-register: private-core
-audience: author + aligned (not for open publication)
+register: public
+audience: author + aligned
 author: Alex Krol
 updated: 2026-06-11
 series: "trajectories (5 of 5)"
@@ -11,7 +11,7 @@ series: "trajectories (5 of 5)"
 
 # 5. Two Levels of Action and Group Dynamics: Changing the World, Changing the Player, Seeing the Team
 
-**A private document. Not for open publication.** This is the fifth and final essay of the Trajectories series. In the first, I replaced the atom of intelligence — from the answer to the trajectory. In the second, I showed that a single ontology lies beneath all the verticals. In the third, I merged the verticals into one multidimensional space of life and gave the core a form — a personal analytical center. In the fourth, I brought that form to its first clients and traced the boundaries of what it is allowed to know and do. Here are the two final deepenings: a person's actions decompose into two levels — directed at the world and at the self — and navigation rises from the single person to the group. With this, the series closes.
+This is the fifth and final essay of the Trajectories series. In the first, I replaced the atom of intelligence — from the answer to the trajectory. In the second, I showed that a single ontology lies beneath all the verticals. In the third, I merged the verticals into one multidimensional space of life and gave the core a form — a personal analytical center. In the fourth, I brought that form to its first clients and traced the boundaries of what it is allowed to know and do. Here are the two final deepenings: a person's actions decompose into two levels — directed at the world and at the self — and navigation rises from the single person to the group. With this, the series closes.
 
 **Alex Krol** — strategy, AI, growth infrastructure
 
@@ -23,7 +23,7 @@ series: "trajectories (5 of 5)"
 
 > 🇷🇺 **Russian version:** [Ru/1_Concept/5_two-levels-and-group-dynamics.md](../../Ru/1_Concept/5_two-levels-and-group-dynamics.md)
 
-> © 2026 Alex Krol. Private concept document of the Trajectories series. Not for open publication; distribution, quotation, or translation only with the author's explicit written permission.
+> © 2026 Alex Krol. All rights reserved. Republication, redistribution, or commercial use only with the author's explicit written permission.
 
 ## Table of Contents
 

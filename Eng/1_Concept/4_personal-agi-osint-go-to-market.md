@@ -2,8 +2,8 @@
 title: "4. Personal AGI, OSINT, and the Illusion of Secrecy: A Go-to-Market for the Guardian (working title)"
 type: article
 status: draft
-register: private-core
-audience: author + aligned (not for open publication)
+register: public
+audience: author + aligned
 author: Alex Krol
 updated: 2026-06-10
 series: "trajectories (4 of 5)"
@@ -11,7 +11,7 @@ series: "trajectories (4 of 5)"
 
 # 4. Personal AGI, OSINT, and the Illusion of Secrecy: Whom to Begin With and How It Sells
 
-**A private document. Not for open publication.** This is the fourth of five essays in the Trajectories series. The third assembled the form: a personal analytic center for every human being — the Guardian, translated from Snegov's science fiction into engineering terms — and ended on the question of who would receive that form first, and at what price. Here I answer it: whom to begin with, how it sells, and where the boundaries of the permissible run. The fifth essay will close the series: two levels of action — changing the world and changing the actor — and the scaling from the individual to the group.
+This is the fourth of five essays in the Trajectories series. The third assembled the form: a personal analytic center for every human being — the Guardian, translated from Snegov's science fiction into engineering terms — and ended on the question of who would receive that form first, and at what price. Here I answer it: whom to begin with, how it sells, and where the boundaries of the permissible run. The fifth essay will close the series: two levels of action — changing the world and changing the actor — and the scaling from the individual to the group.
 
 **Alex Krol** — strategy, AI, growth infrastructure
 
@@ -23,7 +23,7 @@ series: "trajectories (4 of 5)"
 
 > 🇷🇺 **Russian version:** [Ru/1_Concept/4_personal-agi-osint-go-to-market.md](../../Ru/1_Concept/4_personal-agi-osint-go-to-market.md)
 
-> © 2026 Alex Krol. Private concept document of the Trajectories series. Not for open publication; distribution, quotation, or translation only with the author's explicit written permission.
+> © 2026 Alex Krol. All rights reserved. Republication, redistribution, or commercial use only with the author's explicit written permission.
 
 ## Contents
 

@@ -2,8 +2,8 @@
 title: "2. One Ontology, Many Verticals: Life as Game and Drama"
 type: article
 status: draft
-register: private-core
-audience: author + aligned (not for open publication)
+register: public
+audience: author + aligned
 author: Alex Krol
 updated: 2026-05-30
 series: "trajectories (2 of 5)"
@@ -13,7 +13,7 @@ series: "trajectories (2 of 5)"
 
 # 2. One Ontology, Many Verticals: Life as Game and Drama
 
-**Private document. Not for open publication.** This is the second of five essays in the Trajectories series, rewritten in a different language. In the first, I changed the atom of intelligence — from the answer to the trajectory — and assembled a core of three layers: a reality model, a scenario space, and a positioning layer. Here I stress-test that core, running it through several different spheres of life. But this time the language is not my own. I take two ready-made, codified professional vocabularies — game design and dramaturgy — and show that they describe the same ontology of navigation, only in the unified language of entire disciplines rather than in my private picture.
+This is the second of five essays in the Trajectories series, rewritten in a different language. In the first, I changed the atom of intelligence — from the answer to the trajectory — and assembled a core of three layers: a reality model, a scenario space, and a positioning layer. Here I stress-test that core, running it through several different spheres of life. But this time the language is not my own. I take two ready-made, codified professional vocabularies — game design and dramaturgy — and show that they describe the same ontology of navigation, only in the unified language of entire disciplines rather than in my private picture.
 
 **Alex Krol** — strategy, AI, growth infrastructure
 
@@ -25,7 +25,7 @@ series: "trajectories (2 of 5)"
 
 > 🇷🇺 **Russian version:** [Ru/1_Concept/2_one-ontology-many-verticals.variant-game-drama.md](../../Ru/1_Concept/2_one-ontology-many-verticals.variant-game-drama.md)
 
-> © 2026 Alex Krol. Private concept document of the Trajectories series. Not for open publication; distribution, quotation, or translation only with the author's explicit written permission.
+> © 2026 Alex Krol. All rights reserved. Republication, redistribution, or commercial use only with the author's explicit written permission.
 
 ## Contents
 

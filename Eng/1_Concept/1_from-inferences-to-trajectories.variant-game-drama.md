@@ -2,8 +2,8 @@
 title: "1. From Inferences to Trajectories: Memory, the Fan of Scenarios, the Reality Model"
 type: article
 status: approved
-register: private-core
-audience: author + aligned (not for open publication)
+register: public
+audience: author + aligned
 author: Alex Krol
 updated: 2026-05-31
 series: "trajectories (1 of 5)"
@@ -11,7 +11,7 @@ series: "trajectories (1 of 5)"
 
 # 1. From Inferences to Trajectories: Memory, the Fan of Scenarios, the Reality Model
 
-**Private document. Not for open publication.** This is the first of the five essays in the Trajectories series and its foundation. Here I am not building a bridge to someone else's intuition and not persuading from scratch — I am recording, for myself and a narrow circle, my bet on what intelligence is once you stop thinking of it in "query → answer" pairs. Everything that follows in the series stands on this foundation.
+This is the first of the five essays in the Trajectories series and its foundation. Here I am not building a bridge to someone else's intuition and not persuading from scratch — I am recording, for myself and a narrow circle, my bet on what intelligence is once you stop thinking of it in "query → answer" pairs. Everything that follows in the series stands on this foundation.
 
 **Alex Krol** — strategy, AI, growth infrastructure
 
@@ -23,7 +23,7 @@ series: "trajectories (1 of 5)"
 
 > 🇷🇺 **Russian version:** [Ru/1_Concept/1_from-inferences-to-trajectories.variant-game-drama.md](../../Ru/1_Concept/1_from-inferences-to-trajectories.variant-game-drama.md)
 
-> © 2026 Alex Krol. Private concept document of the Trajectories series. Not for open publication; distribution, quotation, or translation only with the author's explicit written permission.
+> © 2026 Alex Krol. All rights reserved. Republication, redistribution, or commercial use only with the author's explicit written permission.
 
 ## Contents
 

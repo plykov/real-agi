@@ -83,6 +83,8 @@ real-agi/
 │   ├── 4_MetaFoundation/ Philosophical & epistemological foundation (2 texts)
 │   └── AGI/              Book on the human/AGI boundary (intro + 8 chapters)
 ├── Ru/                   ← Russian originals, identical structure
+├── strategy/             ← Strategy memos (Russian): where to invest attention in the age of agents
+├── ROADMAP.md            ← Forward view: concept → donor core → verticals → self-learning
 └── README.md
 ```
 
@@ -101,7 +103,7 @@ Essays 1 and 2 carry a `.variant-game-drama.md` suffix for historical reasons: t
 ### `Eng/2_tech level/` — the technology level
 
 - **[`from-apprenticeship-to-machine-experience.md`](Eng/2_tech%20level/from-apprenticeship-to-machine-experience.md)** — *why*: mastery cannot be transferred as text; four levels of AI systems; self-learning arises from labeled consequences, not from data; `Knowledge < Experience < Evolving Experience`.
-- **[`mentoring-engine-architecture.md`](Eng/2_tech%20level/mentoring-engine-architecture.md)** — *how*: a two-level system of "self-learning core + mortal verticals"; what can be distilled and what cannot (stock vs. flow); the fitness function "a win = the client's flourishing." *(Private register — part 3 of the Mentoring trilogy.)*
+- **[`mentoring-engine-architecture.md`](Eng/2_tech%20level/mentoring-engine-architecture.md)** — *how*: a two-level system of "self-learning core + mortal verticals"; what can be distilled and what cannot (stock vs. flow); the fitness function "a win = the client's flourishing." *(Part 3 of the Mentoring trilogy.)*
 
 ### `Eng/3_Verticals/` — markets and the portfolio
 
@@ -135,6 +137,15 @@ A coherent book draft (introduction + 8 chapters) that grew out of the author's 
 | 6 | [`06-fizika-realnosti.md`](Eng/AGI/06-fizika-realnosti.md) | "The wrong physics": computation is a historical frame, not the nature of reality |
 | 7 | [`07-pipeline-otbora-ontologij.md`](Eng/AGI/07-pipeline-otbora-ontologij.md) | The 11-link pipeline: a machine for selecting ontologies |
 | 8 | [`08-mashina-ontologicheskogo-poiska.md`](Eng/AGI/08-mashina-ontologicheskogo-poiska.md) | The experimental rig: LLM hallucinations as ontological mutants |
+
+### `strategy/` — strategy memos (in Russian)
+
+A small, separate top-level layer: strategic memos (written in **Russian**) on **where to invest attention and time in the age of agents** — when the agents themselves, and the engineering around them, commoditize. This is the thinking layer above the corpus, not tool documentation. *(Distinct from the `Eng/3_Verticals/strategy/` project folder — same word, different thing.) Imported from the author's [`essays`](https://github.com/AI-agents-incubator/essays) repository.*
+
+- **[`Where to Invest Your Time in the Age of Agents.md`](strategy/Where%20to%20Invest%20Your%20Time%20in%20the%20Age%20of%20Agents.md)** — the lead memo: why agents become a commodity, and why the key asset shifts toward judgment, taste, and new forms of experience (the "dopamine factory" as an evolutionary content pipeline).
+- **[Addendum 1 — Judgment and Uncertainty](strategy/Addendum%201%20Judgment%20and%20Uncertainty.md)** · **[Addendum 2 — Replicability and Moat](strategy/Addendum%202%20Replicability%20and%20Moat.md)** · **[Addendum 3 — Product Segmentation Ladder](strategy/Addendum%203%20Product%20Segmentation%20Ladder.md)** · **[Add-on 4 — Navigator: Growth & Entertainment](strategy/Add-on%204%20Navigator%20%E2%80%94%20Growth%20%26%20Entertainment.md)**
+
+See [`strategy/README.md`](strategy/README.md) for the folder's own guide and reading order.
 
 ---
 
@@ -233,8 +244,8 @@ AS YOU READ, build a map of the project around these load-bearing constructions:
 RULES FOR WORKING WITH THE CORPUS:
 - Use the project's terminology precisely; terms are introduced in the essays'
   glossaries with a note on which essay "owns" them.
-- Distinguish status (approved/draft) and register (public / private-core "not for
-  publication"). Do not retell the content of private-core documents externally.
+- Distinguish status (approved/draft); the whole corpus is published under the public
+  register.
 - The author systematically marks "fact vs. my hypothesis vs. speculation" — preserve
   this marking; do not present bets as proven.
 - The 1_Concept series and the AGI book are coherent sequences: the essays reference
@@ -251,6 +262,6 @@ proposed to be tested?
 
 ## 5. Statuses, Registers, Rights
 
-- Documents carry YAML frontmatter with a status (`draft` / `approved`) and a register. Texts marked **private-core** ("not for open publication") are internal concept documents for the author and a trusted circle.
+- Documents carry YAML frontmatter with a status (`draft` / `approved`) and a register. The entire corpus is published under the **public** register.
 - Every English document links to its Russian original (and vice versa); the folder trees `Eng/` and `Ru/` are identical.
 - All texts © Alex Krol. Distribution only with the author's written permission, unless stated otherwise in the document itself.

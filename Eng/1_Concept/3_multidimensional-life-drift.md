@@ -2,8 +2,8 @@
 title: "3. The Multidimensional Space of Life and Drift: One Person, One Map, One Navigator (working title)"
 type: article
 status: draft
-register: private-core
-audience: author + aligned (not for open publication)
+register: public
+audience: author + aligned
 author: Alex Krol
 updated: 2026-05-30
 series: "trajectories (3 of 5)"
@@ -12,7 +12,7 @@ series: "trajectories (3 of 5)"
 
 # 3. The Multidimensional Space of Life and Drift: One Person, One Map, One Navigator
 
-**A private document. Not for open publication.** This is the third of five essays in the Trajectories series and its conceptual center. In the first, I changed the atom of intelligence — from the answer to the trajectory — and assembled a core of three layers. In the second, I ran that core across seven spheres of life and showed that they do not require different intelligences. Here I bring those spheres together into a single figure: the person is a point in the multidimensional space of life, and that person has a single navigator. It is here that the triad of the ontology is first explicitly named the core, and it is here that its form is born.
+This is the third of five essays in the Trajectories series and its conceptual center. In the first, I changed the atom of intelligence — from the answer to the trajectory — and assembled a core of three layers. In the second, I ran that core across seven spheres of life and showed that they do not require different intelligences. Here I bring those spheres together into a single figure: the person is a point in the multidimensional space of life, and that person has a single navigator. It is here that the triad of the ontology is first explicitly named the core, and it is here that its form is born.
 
 **Alex Krol** — strategy, AI, growth infrastructure
 
@@ -24,7 +24,7 @@ series: "trajectories (3 of 5)"
 
 > 🇷🇺 **Russian version:** [Ru/1_Concept/3_multidimensional-life-drift.md](../../Ru/1_Concept/3_multidimensional-life-drift.md)
 
-> © 2026 Alex Krol. Private concept document of the Trajectories series. Not for open publication; distribution, quotation, or translation only with the author's explicit written permission.
+> © 2026 Alex Krol. All rights reserved. Republication, redistribution, or commercial use only with the author's explicit written permission.
 
 ## Table of Contents
 
