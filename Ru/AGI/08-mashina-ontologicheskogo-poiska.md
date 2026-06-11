@@ -9,6 +9,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
 [![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
 
+> 🇬🇧 **English version:** [Eng/AGI/08-mashina-ontologicheskogo-poiska.md](../../Eng/AGI/08-mashina-ontologicheskogo-poiska.md)
+
 > © 2026 Alex Krol. Все права защищены. Перепубликация, распространение и коммерческое использование — только с письменного согласия автора.
 
 В прошлой главе я говорил о принципе. Что нужен пайплайн, через который любая картина мира должна пройти, чтобы доказать своё право на существование, — не словом, а сцеплением с реальностью. Это был контур принципа. Контур, без которого дальше не двинешься. Но сам по себе принцип ничего не делает. Принцип — это форма машины. А машину надо собрать.

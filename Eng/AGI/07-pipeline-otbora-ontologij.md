@@ -9,6 +9,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
 [![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
 
+> 🇷🇺 **Russian version:** [Ru/AGI/07-pipeline-otbora-ontologij.md](../../Ru/AGI/07-pipeline-otbora-ontologij.md)
+
 > © 2026 Alex Krol. All rights reserved. Republication, redistribution, or commercial use only with the author's explicit written permission.
 
 The hypothesis of a different physics of reality has already been stated. The next step is not to persuade anyone. The next step is to figure out how to handle a hypothesis like this so that it becomes work, not a conversation going in circles.

@@ -9,6 +9,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
 [![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
 
+> 🇷🇺 **Russian version:** [Ru/AGI/02-agi-not-llm.md](../../Ru/AGI/02-agi-not-llm.md)
+
 > © 2026 Alex Krol. All rights reserved. Republication, redistribution, or commercial use only with the author's explicit written permission.
 
 Over the past two years, the word "AGI" has entered the mass vocabulary and instantly worn itself smooth. People slap it on everything: the next generation of GPT, a new model from a startup that needs your investment, any system slightly better than the last one. At conferences they swear by it. In headlines they scare you with it. In ads they sell with it.

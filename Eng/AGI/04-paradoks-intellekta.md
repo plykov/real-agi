@@ -9,6 +9,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
 [![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
 
+> 🇷🇺 **Russian version:** [Ru/AGI/04-paradoks-intellekta.md](../../Ru/AGI/04-paradoks-intellekta.md)
+
 > © 2026 Alex Krol. All rights reserved. Republication, redistribution, or commercial use only with the author's explicit written permission.
 
 Reaching the end of the previous chapter, I was left standing on empty ground.

@@ -17,6 +17,8 @@ status: draft
 [![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
 [![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
 
+> 🇷🇺 **Russian version:** [Ru/4_MetaFoundation/01-dramaturgia-bogov.md](../../Ru/4_MetaFoundation/01-dramaturgia-bogov.md)
+
 > © 2026 Alex Krol. All rights reserved. Republication, redistribution, or commercial use only with the author's explicit written permission.
 
 For a long time I refused to write about the simulation. There's too much folklore around the subject. Too many people who utter the word "matrix" and believe they've already said something. Too many philosophers who treat the simulation like a high school probability problem and read conclusions about the nature of reality out of it. That genre doesn't convince me. Not because the question is uninteresting, but because in that framing it's dead. Nothing can grow out of it except one more argument with UFO buffs and one more academic fork on the theme of whether we're living in an ancestor's computer.

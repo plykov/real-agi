@@ -18,6 +18,8 @@ series: "Менторинг, 2 из 3 — запуск (операционная
 [![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
 [![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
 
+> 🇬🇧 **English version:** [Eng/3_Verticals/Mentoring/3_mentoring-launch-strategy.md](../../../Eng/3_Verticals/Mentoring/3_mentoring-launch-strategy.md)
+
 > © 2026 Alex Krol. Приватный документ. Не для открытой публикации; распространение, цитирование и перевод — только с письменного согласия автора.
 
 ## Оглавление

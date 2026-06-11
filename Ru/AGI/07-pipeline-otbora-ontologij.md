@@ -9,6 +9,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
 [![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
 
+> 🇬🇧 **English version:** [Eng/AGI/07-pipeline-otbora-ontologij.md](../../Eng/AGI/07-pipeline-otbora-ontologij.md)
+
 > © 2026 Alex Krol. Все права защищены. Перепубликация, распространение и коммерческое использование — только с письменного согласия автора.
 
 Гипотеза о другой физике реальности уже сформулирована. Дальше нужно не убеждать. Дальше нужно понять, как с такой гипотезой обращаться так, чтобы это была работа, а не разговор по кругу.

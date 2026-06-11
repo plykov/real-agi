@@ -18,6 +18,8 @@ series: "Mentoring, 3 of 3 — architecture (engineering)"
 [![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
 [![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
 
+> 🇷🇺 **Russian version:** [Ru/2_tech level/mentoring-engine-architecture.md](../../Ru/2_tech%20level/mentoring-engine-architecture.md)
+
 > © 2026 Alex Krol. Private document. Not for public distribution; sharing, quotation, or translation only with the author's explicit written permission.
 
 ## Contents

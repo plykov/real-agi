@@ -23,6 +23,8 @@ series: "trajectories (2 of 5) — game/drama variant"
 [![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
 [![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
 
+> 🇷🇺 **Russian version:** [Ru/1_Concept/2_one-ontology-many-verticals.variant-game-drama.md](../../Ru/1_Concept/2_one-ontology-many-verticals.variant-game-drama.md)
+
 > © 2026 Alex Krol. Private concept document of the Trajectories series. Not for open publication; distribution, quotation, or translation only with the author's explicit written permission.
 
 ## Contents

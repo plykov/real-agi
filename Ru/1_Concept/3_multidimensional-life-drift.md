@@ -22,6 +22,8 @@ series: «траектории (3 из 5)»
 [![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
 [![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
 
+> 🇬🇧 **English version:** [Eng/1_Concept/3_multidimensional-life-drift.md](../../Eng/1_Concept/3_multidimensional-life-drift.md)
+
 > © 2026 Alex Krol. Приватный концептуальный документ серии «Траектории». Не для открытой публикации; распространение, цитирование и перевод — только с письменного согласия автора.
 
 ## Оглавление

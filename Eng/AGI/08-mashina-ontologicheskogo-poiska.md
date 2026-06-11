@@ -9,6 +9,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
 [![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
 
+> 🇷🇺 **Russian version:** [Ru/AGI/08-mashina-ontologicheskogo-poiska.md](../../Ru/AGI/08-mashina-ontologicheskogo-poiska.md)
+
 > © 2026 Alex Krol. All rights reserved. Republication, redistribution, or commercial use only with the author's explicit written permission.
 
 In the last chapter I talked about the principle. That we need a pipeline every picture of the world has to pass through to prove its right to exist — not with words, but with traction against reality. That was the outline of the principle. The outline without which you can't move any further. But a principle by itself does nothing. A principle is the shape of a machine. And the machine has to be built.

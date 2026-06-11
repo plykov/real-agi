@@ -9,6 +9,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
 [![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
 
+> 🇷🇺 **Russian version:** [Ru/AGI/05-podkluchennost.md](../../Ru/AGI/05-podkluchennost.md)
+
 > © 2026 Alex Krol. All rights reserved. Republication, redistribution, or commercial use only with the author's explicit written permission.
 
 The last chapter ended in a very uncomfortable place. I agreed that insight is a catastrophe under insufficient context — like a compressed spring that snaps without intermediate stages — and in doing so I handed myself a problem that wouldn't leave me alone for a long time. If a system doesn't contain enough material to derive a solution, and the solution shows up anyway — where does it come from. Not as an experience, but literally. Through what channel.

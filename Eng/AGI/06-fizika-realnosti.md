@@ -9,6 +9,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
 [![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
 
+> 🇷🇺 **Russian version:** [Ru/AGI/06-fizika-realnosti.md](../../Ru/AGI/06-fizika-realnosti.md)
+
 > © 2026 Alex Krol. All rights reserved. Republication, redistribution, or commercial use only with the author's explicit written permission.
 
 The argument over whether a machine can reproduce human thinking almost always collapses, fast, into an argument about computation. Digital or analog. Discrete or continuous. Finite-state machine or dynamical system. It seems like picking the right side would settle the question. In fact, every one of these moves stays inside the same frame. The real question is not which physics of computation is more correct. The real question is about the frame itself.

@@ -9,6 +9,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
 [![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
 
+> 🇬🇧 **English version:** [Eng/AGI/02-agi-not-llm.md](../../Eng/AGI/02-agi-not-llm.md)
+
 > © 2026 Alex Krol. Все права защищены. Перепубликация, распространение и коммерческое использование — только с письменного согласия автора.
 
 Слово «AGI» за последние два года вошло в массовый словарь и тут же стерлось. Им называют всё подряд: следующее поколение GPT, новую модель от стартапа, который надо проинвестировать, любую систему, которая чуть лучше прошлой. На конференциях им клянутся. В заголовках им пугают. В рекламе им продают.

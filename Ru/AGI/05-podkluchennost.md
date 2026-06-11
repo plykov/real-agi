@@ -9,6 +9,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
 [![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
 
+> 🇬🇧 **English version:** [Eng/AGI/05-podkluchennost.md](../../Eng/AGI/05-podkluchennost.md)
+
 > © 2026 Alex Krol. Все права защищены. Перепубликация, распространение и коммерческое использование — только с письменного согласия автора.
 
 Прошлая глава закончилась на очень неудобном месте. Я согласился, что инсайт — катастрофа при недостаточности контекста, как сжатая пружина, которая лопается без промежуточных стадий, — и тем самым поставил себе задачу, которая долго не давала покоя. Если в системе нет достаточного материала, чтобы вывести решение, а решение всё равно появляется — оно откуда. Не как переживание, а буквально. По какому каналу.

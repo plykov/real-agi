@@ -21,6 +21,8 @@ series: "trajectories (5 of 5)"
 [![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
 [![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
 
+> 🇷🇺 **Russian version:** [Ru/1_Concept/5_two-levels-and-group-dynamics.md](../../Ru/1_Concept/5_two-levels-and-group-dynamics.md)
+
 > © 2026 Alex Krol. Private concept document of the Trajectories series. Not for open publication; distribution, quotation, or translation only with the author's explicit written permission.
 
 ## Table of Contents
