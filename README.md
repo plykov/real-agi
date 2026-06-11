@@ -99,16 +99,19 @@ The `*.variant-game-drama.md` files are alternative editions of essays 1 and 2 i
 - **[`from-apprenticeship-to-machine-experience.md`](Eng/2_tech%20level/from-apprenticeship-to-machine-experience.md)** — *why*: mastery cannot be transferred as text; four levels of AI systems; self-learning arises from labeled consequences, not from data; `Knowledge < Experience < Evolving Experience`.
 - **[`mentoring-engine-architecture.md`](Eng/2_tech%20level/mentoring-engine-architecture.md)** — *how*: a two-level system of "self-learning core + mortal verticals"; what can be distilled and what cannot (stock vs. flow); the fitness function "a win = the client's flourishing." *(Private register — part 3 of the Mentoring trilogy.)*
 
-### `Eng/3_Verticals/` — markets
+### `Eng/3_Verticals/` — markets and the portfolio
 
+This section is organized as a **portfolio of project folders** — one folder per real project, each with a product description — read backward as the inductive proof of the architecture. Start with the section hub:
+
+- **[`README.md`](Eng/3_Verticals/README.md)** — *the architecture, confirmed in practice*: a backward reading of ~100 working code projects. The same engine (reality model → scenario fan → positioning) recurs across very different markets, and the core turns out to already exist — but in pieces, never yet assembled into one. A catalog of all 21 project folders, each placed on the utility → pipeline → agent → vertical ladder, with an honest stage for each.
 - **[`0_ideal-client-trillion-market.md`](Eng/3_Verticals/0_ideal-client-trillion-market.md)** — the external frame for partners: the ideal client (the 10–15% of people with non-latent demand for growth), the mechanics of hardcore games and elite accelerators, a TAM in the trillions, the growth scoring model as the moat.
-- **`Mentoring/`** — the first vertical, in reading order:
-  - [`1_state-corruption-collapse.md`](Eng/3_Verticals/Mentoring/1_state-corruption-collapse.md) — macro context: why the old trajectories (career, education, the state) are closing down and demand for growth infrastructure emerges.
-  - [`2_mentoring-power-meritocracy.md`](Eng/3_Verticals/Mentoring/2_mentoring-power-meritocracy.md) — the vertical's concept: mentoring as development, trust, and meritocracy. *(Private register, part 1 of the trilogy.)*
-  - [`3_mentoring-launch-strategy.md`](Eng/3_Verticals/Mentoring/3_mentoring-launch-strategy.md) — the operational launch strategy: bootstrap, narrative, legal frame. *(Private register, part 2 of the trilogy.)*
-  - [`4_real-estate-ai-collapse.md`](Eng/3_Verticals/Mentoring/4_real-estate-ai-collapse.md) — a public long-read illustration: the AI-driven collapse of real estate as an investment strategy.
-  - [`5_synergy-of-conversations.md`](Eng/3_Verticals/Mentoring/5_synergy-of-conversations.md) — public phenomenology: the delayed insights of deep conversations, and AI as a cognitive partner.
-- **[`_portfolio/`](Eng/3_Verticals/_portfolio/README.md)** — *the architecture, confirmed in practice*: a backward reading of ~100 working code projects. The verticals turn out to be recurring **thematic families** (mentoring, founder, creator, personal-expert, portfolio-strategy), each appearing at several maturity stages — the inductive proof of what the essays assert deductively. Includes the [core-layers map](Eng/3_Verticals/_portfolio/core-layers.md): the engine already exists, but in pieces, never yet assembled into one.
+- **[`mentoring/`](Eng/3_Verticals/mentoring/README.md)** — the canonical first vertical and the richest folder; alongside its product description it holds the corpus's deepest concept essays, in reading order:
+  - [`1_state-corruption-collapse.md`](Eng/3_Verticals/mentoring/1_state-corruption-collapse.md) — macro context: why the old trajectories (career, education, the state) are closing down and demand for growth infrastructure emerges.
+  - [`2_mentoring-power-meritocracy.md`](Eng/3_Verticals/mentoring/2_mentoring-power-meritocracy.md) — the vertical's concept: mentoring as development, trust, and meritocracy. *(Private register, part 1 of the trilogy.)*
+  - [`3_mentoring-launch-strategy.md`](Eng/3_Verticals/mentoring/3_mentoring-launch-strategy.md) — the operational launch strategy: bootstrap, narrative, legal frame. *(Private register, part 2 of the trilogy.)*
+  - [`4_real-estate-ai-collapse.md`](Eng/3_Verticals/mentoring/4_real-estate-ai-collapse.md) — a public long-read illustration: the AI-driven collapse of real estate as an investment strategy.
+  - [`5_synergy-of-conversations.md`](Eng/3_Verticals/mentoring/5_synergy-of-conversations.md) — public phenomenology: the delayed insights of deep conversations, and AI as a cognitive partner.
+- **The other 20 project folders** — from core-engine layers ([maas](Eng/3_Verticals/maas/README.md), [essays-claude](Eng/3_Verticals/essays-claude/README.md), [autonomy-hub](Eng/3_Verticals/autonomy-hub/README.md), [expert-constructor-core](Eng/3_Verticals/expert-constructor-core/README.md)) through full verticals ([founder-pipeline](Eng/3_Verticals/founder-pipeline/README.md), [ai-video-pipeline](Eng/3_Verticals/ai-video-pipeline/README.md), [saved-downloader](Eng/3_Verticals/saved-downloader/README.md), [tracking](Eng/3_Verticals/tracking/README.md)) to production tools and knowledge bases. The [section hub](Eng/3_Verticals/README.md) catalogs them all.
 
 ### `Eng/4_MetaFoundation/` — the foundation
 
@@ -183,9 +186,9 @@ editions; Russian originals of every document live in Ru/ under identical paths)
 6. Eng/2_tech level/from-apprenticeship-to-machine-experience.md
 7. Eng/2_tech level/mentoring-engine-architecture.md
 8. Eng/3_Verticals/0_ideal-client-trillion-market.md
-9. Eng/3_Verticals/Mentoring/1_state-corruption-collapse.md
-10. Eng/3_Verticals/Mentoring/2_mentoring-power-meritocracy.md
-11. Eng/3_Verticals/Mentoring/3_mentoring-launch-strategy.md
+9. Eng/3_Verticals/mentoring/1_state-corruption-collapse.md
+10. Eng/3_Verticals/mentoring/2_mentoring-power-meritocracy.md
+11. Eng/3_Verticals/mentoring/3_mentoring-launch-strategy.md
 12. Eng/AGI/01..08 (in order — these are chapters of one book)
 13. Eng/4_MetaFoundation/hallucination-as-filter.md
 14. Eng/4_MetaFoundation/01-dramaturgia-bogov.md
