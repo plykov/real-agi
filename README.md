@@ -12,6 +12,8 @@
 
 > © 2026 Alex Krol. All rights reserved. Republication, redistribution, or commercial use only with the author's explicit written permission.
 
+> **🌐 Language:** **English** (this page) · [**Русская версия →** `README_RU.md`](README_RU.md)
+
 **Languages:** the primary language of the corpus is **American English** (`Eng/`). The Russian originals live in `Ru/` with an identical folder structure; every document cross-links to its counterpart in the other language.
 
 ---
@@ -75,7 +77,7 @@ real-agi/
 ├── Eng/                  ← PRIMARY language (American English)
 │   ├── 1_Concept/        "Trajectories" series — conceptual core (5 essays + 2 variants)
 │   ├── 2_tech level/     Technology level (2 essays)
-│   ├── 3_Verticals/      Markets & go-to-market (1 essay + the Mentoring vertical)
+│   ├── 3_Verticals/      Markets & go-to-market (portfolio of 22 project folders)
 │   ├── 4_MetaFoundation/ Philosophical & epistemological foundation (2 texts)
 │   └── AGI/              Book on the human/AGI boundary (intro + 8 chapters)
 ├── Ru/                   ← Russian originals, identical structure
@@ -101,17 +103,18 @@ The `*.variant-game-drama.md` files are alternative editions of essays 1 and 2 i
 
 ### `Eng/3_Verticals/` — markets and the portfolio
 
-This section is organized as a **portfolio of project folders** — one folder per real project, each with a product description — read backward as the inductive proof of the architecture. Start with the section hub:
+This section is organized as a **portfolio of project folders** — one folder per real project, each with a product description — read backward as the inductive proof of the architecture (the same engine recurring across very different markets; the core found to already exist, but in pieces). Two top-level documents sit alongside the folders:
 
-- **[`README.md`](Eng/3_Verticals/README.md)** — *the architecture, confirmed in practice*: a backward reading of ~100 working code projects. The same engine (reality model → scenario fan → positioning) recurs across very different markets, and the core turns out to already exist — but in pieces, never yet assembled into one. A catalog of all 22 project folders, each placed on the utility → pipeline → agent → vertical ladder, with an honest stage for each.
+- **[`README.md`](Eng/3_Verticals/README.md)** — *the architecture, confirmed in practice*: the section hub. A backward reading of ~100 working code projects, the utility → pipeline → agent → vertical ladder, the "core exists in pieces" finding, and the full catalog with an honest stage for each project.
 - **[`0_ideal-client-trillion-market.md`](Eng/3_Verticals/0_ideal-client-trillion-market.md)** — the external frame for partners: the ideal client (the 10–15% of people with non-latent demand for growth), the mechanics of hardcore games and elite accelerators, a TAM in the trillions, the growth scoring model as the moat.
-- **[`mentoring/`](Eng/3_Verticals/mentoring/README.md)** — the canonical first vertical and the richest folder; alongside its product description it holds the corpus's deepest concept essays, in reading order:
-  - [`1_state-corruption-collapse.md`](Eng/3_Verticals/mentoring/1_state-corruption-collapse.md) — macro context: why the old trajectories (career, education, the state) are closing down and demand for growth infrastructure emerges.
-  - [`2_mentoring-power-meritocracy.md`](Eng/3_Verticals/mentoring/2_mentoring-power-meritocracy.md) — the vertical's concept: mentoring as development, trust, and meritocracy. *(Private register, part 1 of the trilogy.)*
-  - [`3_mentoring-launch-strategy.md`](Eng/3_Verticals/mentoring/3_mentoring-launch-strategy.md) — the operational launch strategy: bootstrap, narrative, legal frame. *(Private register, part 2 of the trilogy.)*
-  - [`4_real-estate-ai-collapse.md`](Eng/3_Verticals/mentoring/4_real-estate-ai-collapse.md) — a public long-read illustration: the AI-driven collapse of real estate as an investment strategy.
-  - [`5_synergy-of-conversations.md`](Eng/3_Verticals/mentoring/5_synergy-of-conversations.md) — public phenomenology: the delayed insights of deep conversations, and AI as a cognitive partner.
-- **The other 21 project folders** — from core-engine layers ([maas](Eng/3_Verticals/maas/README.md), [essays-claude](Eng/3_Verticals/essays-claude/README.md), [autonomy-hub](Eng/3_Verticals/autonomy-hub/README.md), [expert-constructor-core](Eng/3_Verticals/expert-constructor-core/README.md), [synthetic-traffic-console](Eng/3_Verticals/synthetic-traffic-console/README.md)) through full verticals ([founder-pipeline](Eng/3_Verticals/founder-pipeline/README.md), [ai-video-pipeline](Eng/3_Verticals/ai-video-pipeline/README.md), [saved-downloader](Eng/3_Verticals/saved-downloader/README.md), [tracking](Eng/3_Verticals/tracking/README.md)) to production tools and knowledge bases. The [section hub](Eng/3_Verticals/README.md) catalogs them all.
+
+The 22 project folders, each with its own product description (the groupings are reading lenses, not rigid categories):
+
+- **Verticals that lead a person to a goal** — [mentoring](Eng/3_Verticals/mentoring/README.md) (also holds the corpus's deepest concept essays) · [founder-pipeline](Eng/3_Verticals/founder-pipeline/README.md) · [ai-video-pipeline](Eng/3_Verticals/ai-video-pipeline/README.md) · [saved-downloader](Eng/3_Verticals/saved-downloader/README.md) · [tracking](Eng/3_Verticals/tracking/README.md) · [ai-test01](Eng/3_Verticals/ai-test01/README.md)
+- **Organizational AI transformation** — [questions](Eng/3_Verticals/questions/README.md) · [fastbank](Eng/3_Verticals/fastbank/README.md)
+- **The core engine, in pieces** — [maas](Eng/3_Verticals/maas/README.md) · [essays-claude](Eng/3_Verticals/essays-claude/README.md) · [autonomy-hub](Eng/3_Verticals/autonomy-hub/README.md) · [expert-constructor-core](Eng/3_Verticals/expert-constructor-core/README.md) · [synthetic-traffic-console](Eng/3_Verticals/synthetic-traffic-console/README.md)
+- **Creator / expert-economy production** — [course-producer](Eng/3_Verticals/course-producer/README.md) · [course-distributor](Eng/3_Verticals/course-distributor/README.md) · [news](Eng/3_Verticals/news/README.md) · [ai-support-chat-plugin](Eng/3_Verticals/ai-support-chat-plugin/README.md) · [simple-cutter](Eng/3_Verticals/simple-cutter/README.md)
+- **Content & knowledge bases** — [agibook](Eng/3_Verticals/agibook/README.md) · [aibook](Eng/3_Verticals/aibook/README.md) · [ontology](Eng/3_Verticals/ontology/README.md) · [strategy](Eng/3_Verticals/strategy/README.md)
 
 ### `Eng/4_MetaFoundation/` — the foundation
 
@@ -149,21 +152,21 @@ The layers are read from concept to foundation — each subsequent layer explain
 
 ```mermaid
 flowchart LR
-    S1["<b>1. Concept</b><br/>essays 1 → 5"] --> S2["<b>2. Tech level</b><br/>apprenticeship →<br/>engine architecture"] --> S3["<b>3. Verticals</b><br/>0 → Mentoring 1 → 5"] --> S4["<b>4. AGI book</b><br/>chapters 01 → 08"] --> S5["<b>5. MetaFoundation</b><br/>hallucination →<br/>dramaturgy of gods"]
+    S1["<b>1. Concept</b><br/>essays 1 → 5"] --> S2["<b>2. Tech level</b><br/>apprenticeship →<br/>engine architecture"] --> S3["<b>3. Verticals</b><br/>hub → 0 → mentoring 1 → 5"] --> S4["<b>4. AGI book</b><br/>chapters 01 → 08"] --> S5["<b>5. MetaFoundation</b><br/>hallucination →<br/>dramaturgy of gods"]
 ```
 
 1. **Concept:** `Eng/1_Concept/` — essays 1 → 2 → 3 → 4 → 5 (the `.variant-game-drama` editions are optional: same idea, different vocabulary).
 2. **Technology:** `Eng/2_tech level/` — `from-apprenticeship...` → `mentoring-engine-architecture`.
-3. **Market:** `Eng/3_Verticals/` — `0_ideal-client...` → `Mentoring/1` → `2` → `3` → `4` → `5`.
+3. **Market:** `Eng/3_Verticals/` — section hub (`README.md`) → `0_ideal-client...` → the mentoring essays (`mentoring/1` → `2` → `3` → `4` → `5`).
 4. **Research frame:** `Eng/AGI/` — chapters 01 → 08 strictly in order (it is a book).
 5. **Foundation:** `Eng/4_MetaFoundation/` — `hallucination-as-filter` → `01-dramaturgia-bogov`.
 
 ### Routes by role
 
-- **Partner / investor:** `3_Verticals/0_ideal-client...` → `1_Concept/4_personal-agi-osint...` → `Mentoring/1_state-corruption-collapse` → the Mentoring trilogy (`Mentoring/2`, `Mentoring/3`, `2_tech level/mentoring-engine-architecture`).
+- **Partner / investor:** `3_Verticals/0_ideal-client...` → `1_Concept/4_personal-agi-osint...` → `mentoring/1_state-corruption-collapse` → the Mentoring trilogy (`mentoring/2`, `mentoring/3`, `2_tech level/mentoring-engine-architecture`).
 - **Engineer / AI architect:** `1_Concept/1` → `1_Concept/2` → `1_Concept/3` → `2_tech level/` (both) → `AGI/07` → `AGI/08`.
 - **Philosophically minded reader:** `Eng/AGI/` 01 → 08 → `4_MetaFoundation/` (both) → `1_Concept/3`.
-- **General reader (public texts):** `Mentoring/5_synergy-of-conversations` → `Mentoring/4_real-estate-ai-collapse` → `2_tech level/from-apprenticeship...` → `4_MetaFoundation/hallucination-as-filter`.
+- **General reader (public texts):** `mentoring/5_synergy-of-conversations` → `mentoring/4_real-estate-ai-collapse` → `2_tech level/from-apprenticeship...` → `4_MetaFoundation/hallucination-as-filter`.
 
 ---
 
