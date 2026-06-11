@@ -108,6 +108,7 @@ The `*.variant-game-drama.md` files are alternative editions of essays 1 and 2 i
   - [`3_mentoring-launch-strategy.md`](Eng/3_Verticals/Mentoring/3_mentoring-launch-strategy.md) — the operational launch strategy: bootstrap, narrative, legal frame. *(Private register, part 2 of the trilogy.)*
   - [`4_real-estate-ai-collapse.md`](Eng/3_Verticals/Mentoring/4_real-estate-ai-collapse.md) — a public long-read illustration: the AI-driven collapse of real estate as an investment strategy.
   - [`5_synergy-of-conversations.md`](Eng/3_Verticals/Mentoring/5_synergy-of-conversations.md) — public phenomenology: the delayed insights of deep conversations, and AI as a cognitive partner.
+- **[`_portfolio/`](Eng/3_Verticals/_portfolio/README.md)** — *the architecture, confirmed in practice*: a backward reading of ~100 working code projects. The verticals turn out to be recurring **thematic families** (mentoring, founder, creator, personal-expert, portfolio-strategy), each appearing at several maturity stages — the inductive proof of what the essays assert deductively. Includes the [core-layers map](Eng/3_Verticals/_portfolio/core-layers.md): the engine already exists, but in pieces, never yet assembled into one.
 
 ### `Eng/4_MetaFoundation/` — the foundation
 
