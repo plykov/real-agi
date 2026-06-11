@@ -73,7 +73,7 @@ flowchart TB
 ```
 real-agi/
 ├── Eng/                  ← PRIMARY language (American English)
-│   ├── 1_Concept/        "Trajectories" series — conceptual core (5 essays + 2 variants)
+│   ├── 1_Concept/        "Trajectories" series — conceptual core (5 essays)
 │   ├── 2_tech level/     Technology level (2 essays)
 │   ├── 3_Verticals/      Markets & go-to-market (1 essay + the Mentoring vertical)
 │   ├── 4_MetaFoundation/ Philosophical & epistemological foundation (2 texts)
@@ -92,7 +92,7 @@ Five numbered essays, each building on the previous one:
 4. **[`4_personal-agi-osint-go-to-market.md`](Eng/1_Concept/4_personal-agi-osint-go-to-market.md)** — the first market (the UHNW segment), the "first dose" model, data from OSINT and the digital footprint, ethics as a condition of the deal.
 5. **[`5_two-levels-and-group-dynamics.md`](Eng/1_Concept/5_two-levels-and-group-dynamics.md)** — the finale: operational actions vs. meta-actions ("changing the world — changing the captain"); navigating a group as a collective subject.
 
-The `*.variant-game-drama.md` files are alternative editions of essays 1 and 2 in which the maritime metaphor is replaced with the vocabulary of game design and dramaturgy. Same argument, different rendering.
+The `*.variant-game-drama.md` files (currently in `Ru/1_Concept/` only) are alternative editions of essays 1 and 2 in which the maritime metaphor is replaced with the vocabulary of game design and dramaturgy. Same argument, different rendering.
 
 ### `Eng/2_tech level/` — the technology level
 
