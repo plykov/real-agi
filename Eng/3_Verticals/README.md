@@ -46,7 +46,7 @@ flowchart LR
     GAP ==> CORE["<b>The Core</b>"]
 ```
 
-Memory ([maas](maas/README.md)), self-learning ([essays-claude](essays-claude/README.md)), the scenario/anti-paralysis loop ([autonomy-hub](autonomy-hub/README.md)), and the expert-assembly platform ([expert-constructor-core](expert-constructor-core/README.md)) exist **apart**. Fusing them — one memory feeding one scenario engine that learns from its own logged consequences — is "the project where the core itself is realized." On paper it is the center of the corpus. In the portfolio it is the one thing not yet built. That absence is not a weakness of the analysis; it is its most useful output — it names the next thing to build.
+Memory ([maas](maas/README.md)), self-learning ([essays-claude](essays-claude/README.md)), the scenario/anti-paralysis loop ([autonomy-hub](autonomy-hub/README.md)), and the expert-assembly platform ([expert-constructor-core](expert-constructor-core/README.md)) exist **apart**. Fusing them — one memory feeding one scenario engine that learns from its own logged consequences — is "the project where the core itself is realized." On paper it is the center of the corpus. In the portfolio it is the one thing not yet built. That absence is not a weakness of the analysis; it is its most useful output — it names the next thing to build. A further fragment, the operator console ([synthetic-traffic-console](synthetic-traffic-console/README.md)), is the human cockpit over that loop — contract-stabilized, but likewise not yet wired to a live runtime.
 
 ---
 
@@ -84,6 +84,7 @@ Each project below has its own folder and a product description. The lenses are 
 | [essays-claude](essays-claude/README.md) | A self-learning agent organization — the decision→result→correction loop, actually running. | core layer (self-learning) · prototype |
 | [autonomy-hub](autonomy-hub/README.md) | The anti-paralysis engine — the scenario loop that keeps a project moving through blockers. | core layer (scenario) · design-stage |
 | [expert-constructor-core](expert-constructor-core/README.md) | A constructor for grounded domain expert AI-chats — the platform verticals are assembled on. | core layer (assembly) · working prototype |
+| [synthetic-traffic-console](synthetic-traffic-console/README.md) | The operator cockpit for running synthetic-traffic learning cycles against an expert under test — the feedback loop made operable. | core layer (feedback) · spec + mock |
 
 ### Creator / expert-economy production
 
