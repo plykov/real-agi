@@ -1,12 +1,12 @@
 ---
-title: "1. From Inferences to Trajectories: Memory, the Fan of Scenarios, the Reality Model — a Game-Design and Dramaturgy Variant (working)"
+title: "1. From Inferences to Trajectories: Memory, the Fan of Scenarios, the Reality Model"
 type: article
 status: approved
 register: private-core
 audience: author + aligned (not for open publication)
 author: Alex Krol
 updated: 2026-05-31
-series: "trajectories (1 of 5) — game/drama variant"
+series: "trajectories (1 of 5)"
 ---
 
 # 1. From Inferences to Trajectories: Memory, the Fan of Scenarios, the Reality Model
