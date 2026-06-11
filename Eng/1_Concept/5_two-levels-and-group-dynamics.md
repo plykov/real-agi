@@ -1,15 +1,15 @@
 ---
-title: "5. Two Levels of Action and Group Dynamics: Changing the World, Changing the Captain, Seeing the Fleet (working title)"
+title: "5. Two Levels of Action and Group Dynamics: Changing the World, Changing the Player, Seeing the Team (working title)"
 type: article
 status: draft
 register: private-core
 audience: author + aligned (not for open publication)
 author: Alex Krol
-updated: 2026-06-10
+updated: 2026-06-11
 series: "trajectories (5 of 5)"
 ---
 
-# 5. Two Levels of Action and Group Dynamics: Changing the World, Changing the Captain, Seeing the Fleet
+# 5. Two Levels of Action and Group Dynamics: Changing the World, Changing the Player, Seeing the Team
 
 **A private document. Not for open publication.** This is the fifth and final essay of the Trajectories series. In the first, I replaced the atom of intelligence — from the answer to the trajectory. In the second, I showed that a single ontology lies beneath all the verticals. In the third, I merged the verticals into one multidimensional space of life and gave the core a form — a personal analytical center. In the fourth, I brought that form to its first clients and traced the boundaries of what it is allowed to know and do. Here are the two final deepenings: a person's actions decompose into two levels — directed at the world and at the self — and navigation rises from the single person to the group. With this, the series closes.
 
@@ -40,7 +40,7 @@ series: "trajectories (5 of 5)"
 
 ## 0. TL;DR — the navigator steers more than the route <a id="tldr"></a>
 
-For four essays in a row, my navigator worked outward: it read the model of reality, built the scenario space, chose the vector. The final move is inward and upward. Across all the verticals, a person has two levels of action: some actions change the external world; others change the person. Competencies determine the ways of acting; personality determines the capacity to act amid obstacles, uncertainty, and failure. The navigator therefore steers more than the route — it steers the captain: it recommends not only external scenarios but also investments in skills and character that widen the space of available scenarios. And it is obliged to distinguish, from observable signals, what stumbled — the scenario, a competency, or a personality resource — because these three failures call for three different answers: change the route, learn to steer better, strengthen the captain.
+For four essays in a row, my navigator worked outward: it read the model of reality, built the scenario space, chose the vector. The final move is inward and upward. Across all the verticals, a person has two levels of action: some actions change the external world; others change the person. Competencies determine the ways of acting; personality determines the capacity to act amid obstacles, uncertainty, and failure. The navigator therefore steers more than the route — it steers the player: it recommends not only external scenarios but also investments in skills and character that widen the space of available scenarios. And it is obliged to distinguish, from observable signals, what stumbled — the scenario, a competency, or a personality resource — because these three failures call for three different answers: change the route, learn to play better, strengthen the player.
 
 The second move is upward. A person does not move alone: in teams, families, communities, and organizations, trajectories are interwoven, and a collective subject emerges with its own norms, boundaries, shared resources, and feedback loops. Many "personal" failures are an effect of the group system, not an error of personality. Navigation gains one more level — from the person to the group. And at that level the series closes.
 
@@ -54,7 +54,7 @@ The first level is **operational actions** — those that change the external wo
 
 The second level is **meta-actions**: actions that change the person themselves. This includes the development of competencies — learning, training specific skills, rehearsing behavioral scenarios, reflection. And it also includes work on personality and character: resilience to uncertainty, frustration tolerance, decisiveness, willingness to take risks, the capacity to get back up after failures. A meta-action moves no external metric today. It changes what the person will act with tomorrow.
 
-The result is two axes of influence: on the world — and on one's own future capacity to influence the world. The formula I will use to the end of this essay: **changing the world — and changing the captain**.
+The result is two axes of influence: on the world — and on one's own future capacity to influence the world. The formula I will use to the end of this essay: **changing the world — and changing the player**.
 
 The difference between the levels lies not in scale but in the object of action. An operational step strikes external reactive elements — a client, a market, an organism, a relationship — and changes their state. A meta-action changes the active element itself: the one who acts. And this second level has an internal structure on which everything that follows rests: competencies and personality are different things, and confusing them is costly. Competencies determine the ways of acting: what a person knows how to do and how they do it. Personality determines the capacity to act: whether they will continue at all — amid obstacles, uncertainty, and failure. One can be brilliantly skilled and unable. One can be able — and not yet skilled.
 
@@ -62,7 +62,7 @@ The difference between the levels lies not in scale but in the object of action.
 flowchart TB
     NAV["Navigator's recommendations"]
     NAV --> OP["Operational actions<br/>change the world<br/>(here and now)"]
-    NAV --> META["Meta-actions<br/>change the captain"]
+    NAV --> META["Meta-actions<br/>change the player"]
     META --> COMP["Competencies — ways of acting<br/>(payoff horizon: weeks)"]
     META --> PERS["Personality — capacity to act<br/>amid obstacles, uncertainty, and failure<br/>(payoff horizon: seasons)"]
 ```
@@ -81,7 +81,7 @@ Personality, for all that, is not set in plaster. Traits shift: a meta-analysis 
 
 Now the consequence for which the pair was drawn apart. The navigator acquires two distinct recommendation functions. The first: external scenarios — which steps to take, which trains to board, which projects and trajectories to launch. This is the visible part of the work, the one a navigator is expected to do. The second: investments in competencies and character — which skills to develop, which practices, experiences, and changes of environment will strengthen the capacity to act under uncertainty and after failures. The second function changes not the route — it changes the fan: whole families of routes closed to the person today open up after an investment in a skill or in a piece of character. The positioning layer gains a new class of moves: not only choosing a scenario from those available, but expanding the very set of the available.
 
-And from here, the chief distinction without which the navigator is blind. It is obliged to tell "here the problem is the choice of scenario" apart from "here the current competencies and personality resources do not allow even a good scenario to be used." These are two different diagnoses with opposite therapies. In the first case, the route must change. In the second, changing the route gains nothing: on the new route the person will stumble over the same place in themselves. A navigator that can make this distinction says not only "the right route is this one," but also "if you want the ability to walk routes like these — invest in this competency and in this piece of character." It ceases to be only a navigator of the external world and becomes a navigator of changing the captain: their skills — and their capacity to act when the sea truly storms.
+And from here, the chief distinction without which the navigator is blind. It is obliged to tell "here the problem is the choice of scenario" apart from "here the current competencies and personality resources do not allow even a good scenario to be used." These are two different diagnoses with opposite therapies. In the first case, the route must change. In the second, changing the route gains nothing: on the new route the person will stumble over the same place in themselves. A navigator that can make this distinction says not only "the right route is this one," but also "if you want the ability to walk routes like these — invest in this competency and in this piece of character." It ceases to be only a navigator of the external world and becomes a navigator of changing the player: their skills — and their capacity to act when the game turns truly hard.
 
 A beautiful distinction is worth nothing if it cannot be made from data. Next — how the three causes of stalling read in observable signals.
 
@@ -104,7 +104,7 @@ The navigator's answer to this picture is fundamentally different. Not tightenin
 
 To pull the three pictures apart, three questions put to the observable stream suffice. First: are there scenarios in which this person is productive? If in other contexts — another role, niche, project — they act far more strongly, the problem lies rather in the specific scenario or in the competency for it, not in the personality: the capacity to act is in place; the context stumbled. Second: is execution stable in calm conditions? If in clear contexts the person executes well but breaks in fog and stress — a personality-level signal: the skill is there; what is lacking is load-bearing capacity. Third: what does the world criticize? If the idea and the model — the scenario level. If the execution — competencies. If they say "everything's fine, but you constantly fail to follow through, back off, bail" — the personality resource.
 
-The whole diagnostics folds into a formula of three answers: change the route; learn to steer better; strengthen the captain. For all its tidiness, it has a ceiling, and the ceiling is not technical. It tacitly assumes the person stalls alone. And a person almost never stalls alone.
+The whole diagnostics folds into a formula of three answers: change the route; learn to play better; strengthen the player. For all its tidiness, it has a ceiling, and the ceiling is not technical. It tacitly assumes the person stalls alone. And a person almost never stalls alone.
 
 ---
 
@@ -120,14 +120,14 @@ What the navigator must see from here. Not only the personal signals — the int
 
 For the core, this means a handful of new entities, and only a handful. The individual — a personal trajectory, competencies, character. The collective subject — a family, a team, a community, an organization. Ties between people — trust, power, dependency, affinity, exchange, conflict. Subsystems — coalitions, dyads, departments, the parental subsystem, a community's core. And shared resources — money, time, attention, reputation, emotional energy. Nothing more needs introducing: the rest is already in the triad.
 
-And the sharp thesis for which the group layer is worth building at all: many failures at the individual level are an effect of the group system, not an "error of personality." A competent person may be sitting inside an escalation pattern, or in a system where one person's success constantly drains another's resource — and in personal diagnostics look like a "personality failure": avoiding, not following through, breaking down. Team-level empirics confirm the direction: psychological safety — the shared belief that interpersonal risk in a team is permissible without punishment — is a property of the team, not of the individual, and on it depends whether people learn and whether they deliver results[^edmondson]. The three-level diagnostics of the previous section therefore receives a mandatory amendment: before booking a breakdown to the personality account, the navigator is obliged to check the group layer. Change the route, learn to steer, strengthen the captain — and sometimes none of these: change not the person but the structure of interaction around them.
+And the sharp thesis for which the group layer is worth building at all: many failures at the individual level are an effect of the group system, not an "error of personality." A competent person may be sitting inside an escalation pattern, or in a system where one person's success constantly drains another's resource — and in personal diagnostics look like a "personality failure": avoiding, not following through, breaking down. Team-level empirics confirm the direction: psychological safety — the shared belief that interpersonal risk in a team is permissible without punishment — is a property of the team, not of the individual, and on it depends whether people learn and whether they deliver results[^edmondson]. The three-level diagnostics of the previous section therefore receives a mandatory amendment: before booking a breakdown to the personality account, the navigator is obliged to check the group layer. Change the route, learn to play, strengthen the player — and sometimes none of these: change not the person but the structure of interaction around them.
 
 ---
 ## 5. Navigating the group: one more level of recommendations <a id="group-navigation"></a>
 
 What the group layer changes in the product. Recommendations rise one level — from "what you should do" to "how your interaction is structured." The navigator begins to see and to propose things that do not exist at the individual level. Restructure the roles in a team — because the current distribution wrings some members dry and underloads others, and no personal discipline compensates for that. Show where boundaries in a family are violated and which old patterns are stuck — where every member individually "tries hard" while the system reproduces the same conflict for years. Notice where a community slides into competition where the task demands cooperation — and where this is a question of goal structure, not of bad people. And name the places where individual effort is meaningless until the very structure of interaction is changed.
 
-To the two levels of action from the first section, this adds the third addressee of recommendations. Changing the world. Changing the captain. And changing the structure in which people act together. The third addressee does not cancel the first two — it explains why the first two sometimes fail: the best personal route and a sturdy character lose to a pattern the system reproduces on its own. One more level of navigation appears: not only the captain's route, but the dynamics of the fleet.
+To the two levels of action from the first section, this adds the third addressee of recommendations. Changing the world. Changing the player. And changing the structure in which people act together. The third addressee does not cancel the first two — it explains why the first two sometimes fail: the best personal route and a sturdy character lose to a pattern the system reproduces on its own. One more level of navigation appears: not only the player's route, but the dynamics of the team.
 
 This level is read the same way as the individual one — by behavior. Who answers whom and who ignores whom, who takes tasks on and who offloads them, where the group's time, attention, and money flow — the same stream of observable signals, only now its nodes are several people rather than one, and what matters is not only each trajectory but the ties between them. The third essay's principle — a signal for navigation, not for judgment — is doubly binding here: a group layer turned into an instrument for evaluating people instantly degenerates into corporate surveillance. The navigator adjusts the structure to the participants' vectors, not the participants to someone's rating.
 
@@ -137,7 +137,7 @@ The engineering continuation from here is plain: write out the minimal set of gr
 
 ## 6. Coda: five essays as one trajectory <a id="coda"></a>
 
-The series began with a change of atom and ended with a complete map. Five movements. The first essay changed the atom of intelligence: not the inference — the "query → answer" pair — but the trajectory: a stretch of time with long memory, over which the system plans, acts, and accumulates experience; what must be steered is the vector, not the individual step. The second ran this core through the verticals — career, business, war, the state, medicine, education, family — and showed that different spheres demand no different intelligences: only their maps differ. The third merged the verticals into the axes of one multidimensional space of life, named the triad as the core explicitly, and gave the construction a form — the personal analytical center, the Guardian carried over from science fiction into engineering terms. The fourth brought the form to its first clients and traced its boundaries: what data it lives on and what it is permitted to do with what it knows. The fifth added the two final dimensions: the navigator steers not only the route but the captain — distinguishing where the scenario stumbled, where a competency did, and where a personality resource did — and sees not only the single person but the group: interwoven trajectories, the collective subject, feedback loops.
+The series began with a change of atom and ended with a complete map. Five movements. The first essay changed the atom of intelligence: not the inference — the "query → answer" pair — but the trajectory: a stretch of time with long memory, over which the system plans, acts, and accumulates experience; what must be steered is the vector, not the individual step. The second ran this core through the verticals — career, business, war, the state, medicine, education, family — and showed that different spheres demand no different intelligences: only their maps differ. The third merged the verticals into the axes of one multidimensional space of life, named the triad as the core explicitly, and gave the construction a form — the personal analytical center, the Guardian carried over from science fiction into engineering terms. The fourth brought the form to its first clients and traced its boundaries: what data it lives on and what it is permitted to do with what it knows. The fifth added the two final dimensions: the navigator steers not only the route but the player — distinguishing where the scenario stumbled, where a competency did, and where a personality resource did — and sees not only the single person but the group: interwoven trajectories, the collective subject, feedback loops.
 
 In sum: the atom of intelligence is the trajectory; the ontology is one across all spheres; the space of life is one and multidimensional; navigation has a form, a path to market, and boundaries; action has two levels, and the subject has two scales — the person and the group. The world, the person, and the group are read by one core. The map is assembled. With this the series is closed.
 
@@ -184,7 +184,7 @@ The essay's load-bearing language is the series' concepts; at the end they are g
 
 **Meta-actions** — the second level: actions that change the person themselves. The development of competencies (learning, skill training, rehearsing behavioral scenarios, reflection) and work on personality and character. A meta-action moves no external metric today — it changes what the person will act with tomorrow. The difference between the levels lies not in scale but in the object: an operational step strikes external reactive elements; a meta-action changes the active element itself — the one who acts.
 
-**"Changing the world — changing the captain"** — the author's formula carrying the essay's central pair: two axes of influence — on the world and on one's own future capacity to influence the world. The consequence for the series' construction: the navigator steers not only the route — it steers the captain.
+**"Changing the world — changing the player"** — the author's formula carrying the essay's central pair: two axes of influence — on the world and on one's own future capacity to influence the world. The consequence for the series' construction: the navigator steers not only the route — it steers the player.
 
 **Competencies** — observable, learnable patterns of behavior and skills in specific contexts: negotiation, analysis, project management, decision-making under uncertainty. They determine the ways of acting — what a person knows how to do and how they do it; they are tied to context, visible in action, and accumulate through practice[^ericsson].
 
@@ -192,7 +192,7 @@ The essay's load-bearing language is the series' concepts; at the end they are g
 
 **The navigator's two recommendation functions** — first: external scenarios (which steps to take, which trains to board, which projects to launch). Second: investments in competencies and character. The second function changes not the route but the fan: families of routes closed to the person today open up after an investment in a skill or in a piece of character. The positioning layer gains a new class of moves — not only choosing a scenario from those available, but expanding the very set of the available.
 
-**The three diagnostic pictures ("what stumbled")** — when a person stalls, the navigator distinguishes in the observable stream: the chosen scenario is bad; the competencies fall short; the personality resource does not hold. From the outside, all three look identical ("it isn't working"), but their signals differ — and so do the treatments. The formula of three answers: change the route — learn to steer better — strengthen the captain.
+**The three diagnostic pictures ("what stumbled")** — when a person stalls, the navigator distinguishes in the observable stream: the chosen scenario is bad; the competencies fall short; the personality resource does not hold. From the outside, all three look identical ("it isn't working"), but their signals differ — and so do the treatments. The formula of three answers: change the route — learn to play better — strengthen the player.
 
 **The "scenario" picture** — the person acts energetically and competently, yet the trajectory does not move. Signals: recurring structural blocks (the same external constraints on different attempts); high quality of local steps with a weak cumulative effect; parallel cases — similar people in other scenarios show substantially better results. The diagnosis is "the wrong train" (Essay 1's metaphor); the answer is a change of scenario. The navigator's argument here is the accumulated trajectories of people with a similar profile; the status of this argument is the author's product thesis, not ready-made external statistics (Essay 3's horizon, not an existing artifact).
 
@@ -218,7 +218,7 @@ The essay's load-bearing language is the series' concepts; at the end they are g
 
 **Navigating the group** — one more level of recommendations: from "what you should do" to "how your interaction is structured." Restructure the roles in a team; show the violated boundaries and stuck patterns in a family; separate competition and cooperation through the structure of goals; name the places where individual effort is meaningless until the structure itself is changed. It is read the same way as the individual level — by behavior.
 
-**The third addressee of recommendations** — changing the world; changing the captain; changing the structure in which people act together. The third addressee does not cancel the first two — it explains why they sometimes fail: the best personal route and a sturdy character lose to a pattern the system reproduces on its own.
+**The third addressee of recommendations** — changing the world; changing the player; changing the structure in which people act together. The third addressee does not cancel the first two — it explains why they sometimes fail: the best personal route and a sturdy character lose to a pattern the system reproduces on its own.
 
 ### External concepts drawn upon
 
@@ -254,7 +254,7 @@ The essay's load-bearing language is the series' concepts; at the end they are g
 
 **Trajectory** (Essay 1) — a stretch of time over which an agent plans, acts, observes, corrects course, and accumulates experience; the atom of intelligence in place of the inference. Here — what becomes interwoven in the group.
 
-**Navigation / navigator** (Essay 1) — the system does not answer; it lays a course. Here the navigator gains two new fields of work: the captain himself and the group.
+**Navigation / navigator** (Essay 1) — the system does not answer; it lays a course. Here the navigator gains two new fields of work: the player himself and the group.
 
 **The core (the triad of the ontology)** (Essay 3; gathers the concepts of Essay 1) — model of reality → scenario space → positioning layer; the order of the layers is invariant. The group layer adds a minimal set of new entities to the core.
 
