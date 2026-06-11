@@ -2,6 +2,8 @@
 
 # Process / working material — local-only, never pushed (privacy).
 # The author-dialogue journal and the raw vertical-intake profiles can
-# contain private data; only the corpus (Eng/, Ru/) and portfolio cards ship.
+# contain private data; only the corpus (Eng/, Ru/, strategy/) and the
+# public-facing READMEs/ROADMAPs ship. Agent instructions stay local too.
 _dialogs/
 _vertical-intake/
+CLAUDE.md
