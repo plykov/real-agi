@@ -88,13 +88,13 @@ real-agi/
 
 Five numbered essays, each building on the previous one:
 
-1. **[`1_from-inferences-to-trajectories.md`](Eng/1_Concept/1_from-inferences-to-trajectories.md)** — changing the atom: trajectory instead of inference; four-layer memory; the core triad (reality model → scenario space → positioning layer).
-2. **[`2_one-ontology-many-verticals.md`](Eng/1_Concept/2_one-ontology-many-verticals.md)** — one core describes any sphere of life (career, war, medicine, education…); a vertical = swappable domain specifics, not a separate AI.
+1. **[`1_from-inferences-to-trajectories.variant-game-drama.md`](Eng/1_Concept/1_from-inferences-to-trajectories.variant-game-drama.md)** — changing the atom: trajectory instead of inference; four-layer memory; the core triad (reality model → scenario space → positioning layer).
+2. **[`2_one-ontology-many-verticals.variant-game-drama.md`](Eng/1_Concept/2_one-ontology-many-verticals.variant-game-drama.md)** — one core describes any sphere of life (career, war, medicine, education…); a vertical = swappable domain specifics, not a separate AI.
 3. **[`3_multidimensional-life-drift.md`](Eng/1_Concept/3_multidimensional-life-drift.md)** — the conceptual center of the series: verticals are axes of one multidimensional space; the person is a point; the goal is a cone of admissible states; the form is a personal analytical center (the "Guardian").
 4. **[`4_personal-agi-osint-go-to-market.md`](Eng/1_Concept/4_personal-agi-osint-go-to-market.md)** — the first market (the UHNW segment), the "first dose" model, data from OSINT and the digital footprint, ethics as a condition of the deal.
 5. **[`5_two-levels-and-group-dynamics.md`](Eng/1_Concept/5_two-levels-and-group-dynamics.md)** — the finale: operational actions vs. meta-actions ("changing the world — changing the captain"); navigating a group as a collective subject.
 
-The `*.variant-game-drama.md` files are the **corrected, primary** versions of essays 1 and 2. They render the same ontology in two *existing, codified* professional languages — **game design** (how movement through a world of rules and obstacles actually works; the discipline built to keep a player from quitting at the obstacle — which is exactly this project's single decisive factor) and **dramaturgy** (what the movement changes in the subject: arc, stakes, turning point). The suffix-less siblings are the earlier versions built on a private *maritime* metaphor that quietly became a load-bearing layer adding no understanding; they are superseded and kept only for reference (essay 2 §2 explains why).
+Essays 1 and 2 carry a `.variant-game-drama.md` suffix for historical reasons: they render the ontology in two *existing, codified* professional languages — **game design** (how movement through a world of rules and obstacles actually works; the discipline built to keep a player from quitting at the obstacle — which is exactly this project's single decisive factor) and **dramaturgy** (what the movement changes in the subject: arc, stakes, turning point). Earlier versions built the same argument on a private *maritime* metaphor that quietly became a load-bearing layer adding no understanding; they have been removed (essay 2 §2 explains why).
 
 ### `Eng/2_tech level/` — the technology level
 
@@ -103,14 +103,12 @@ The `*.variant-game-drama.md` files are the **corrected, primary** versions of e
 
 ### `Eng/3_Verticals/` — markets and the portfolio
 
-This section is organized as a **portfolio of project folders** — one folder per real project, each with a product description — read backward as the inductive proof of the architecture (the same engine recurring across very different markets; the core found to already exist, but in pieces). Two top-level documents sit alongside the folders:
+This section is organized as a **portfolio of project folders** — one folder per real project, each with a product description — read backward as the inductive proof of the architecture (the same engine recurring across very different markets; the core found to already exist, but in pieces). One top-level document sits alongside the folders:
 
 - **[`README.md`](Eng/3_Verticals/README.md)** — *the architecture, confirmed in practice*: the section hub. A backward reading of ~100 working code projects, the utility → pipeline → agent → vertical ladder, the "core exists in pieces" finding, and the full catalog with an honest stage for each project.
-- **[`0_ideal-client-trillion-market.md`](Eng/3_Verticals/0_ideal-client-trillion-market.md)** — the external frame for partners: the ideal client (the 10–15% of people with non-latent demand for growth), the mechanics of hardcore games and elite accelerators, a TAM in the trillions, the growth scoring model as the moat.
-
 The 22 project folders, each with its own product description (the groupings are reading lenses, not rigid categories):
 
-- **Verticals that lead a person to a goal** — [mentoring](Eng/3_Verticals/mentoring/README.md) (also holds the corpus's deepest concept essays) · [founder-pipeline](Eng/3_Verticals/founder-pipeline/README.md) · [ai-video-pipeline](Eng/3_Verticals/ai-video-pipeline/README.md) · [saved-downloader](Eng/3_Verticals/saved-downloader/README.md) · [tracking](Eng/3_Verticals/tracking/README.md) · [ai-test01](Eng/3_Verticals/ai-test01/README.md)
+- **Verticals that lead a person to a goal** — [mentoring](Eng/3_Verticals/mentoring/README.md) (also holds the corpus's deepest concept essays and the partner frame [`0_ideal-client-trillion-market`](Eng/3_Verticals/mentoring/0_ideal-client-trillion-market.md)) · [founder-pipeline](Eng/3_Verticals/founder-pipeline/README.md) · [ai-video-pipeline](Eng/3_Verticals/ai-video-pipeline/README.md) · [saved-downloader](Eng/3_Verticals/saved-downloader/README.md) · [tracking](Eng/3_Verticals/tracking/README.md) · [ai-test01](Eng/3_Verticals/ai-test01/README.md)
 - **Organizational AI transformation** — [questions](Eng/3_Verticals/questions/README.md) · [fastbank](Eng/3_Verticals/fastbank/README.md)
 - **The core engine, in pieces** — [maas](Eng/3_Verticals/maas/README.md) · [essays-claude](Eng/3_Verticals/essays-claude/README.md) · [autonomy-hub](Eng/3_Verticals/autonomy-hub/README.md) · [expert-constructor-core](Eng/3_Verticals/expert-constructor-core/README.md) · [synthetic-traffic-console](Eng/3_Verticals/synthetic-traffic-console/README.md)
 - **Creator / expert-economy production** — [course-producer](Eng/3_Verticals/course-producer/README.md) · [course-distributor](Eng/3_Verticals/course-distributor/README.md) · [news](Eng/3_Verticals/news/README.md) · [ai-support-chat-plugin](Eng/3_Verticals/ai-support-chat-plugin/README.md) · [simple-cutter](Eng/3_Verticals/simple-cutter/README.md)
@@ -142,7 +140,7 @@ A coherent book draft (introduction + 8 chapters) that grew out of the author's 
 
 ### Quick start (3 texts, ~2 hours)
 
-1. [`Eng/1_Concept/1_from-inferences-to-trajectories.md`](Eng/1_Concept/1_from-inferences-to-trajectories.md) — the atom of the whole construction.
+1. [`Eng/1_Concept/1_from-inferences-to-trajectories.variant-game-drama.md`](Eng/1_Concept/1_from-inferences-to-trajectories.variant-game-drama.md) — the atom of the whole construction.
 2. [`Eng/1_Concept/3_multidimensional-life-drift.md`](Eng/1_Concept/3_multidimensional-life-drift.md) — what is ultimately being built.
 3. [`Eng/2_tech level/from-apprenticeship-to-machine-experience.md`](Eng/2_tech%20level/from-apprenticeship-to-machine-experience.md) — why it is technically possible.
 
@@ -155,15 +153,15 @@ flowchart LR
     S1["<b>1. Concept</b><br/>essays 1 → 5"] --> S2["<b>2. Tech level</b><br/>apprenticeship →<br/>engine architecture"] --> S3["<b>3. Verticals</b><br/>hub → 0 → mentoring 1 → 5"] --> S4["<b>4. AGI book</b><br/>chapters 01 → 08"] --> S5["<b>5. MetaFoundation</b><br/>hallucination →<br/>dramaturgy of gods"]
 ```
 
-1. **Concept:** `Eng/1_Concept/` — essays 1 → 2 → 3 → 4 → 5; for 1 and 2 read the `.variant-game-drama` versions (the corrected primary ones — game design as the center; the suffix-less originals are the superseded maritime versions).
+1. **Concept:** `Eng/1_Concept/` — essays 1 → 2 → 3 → 4 → 5; essays 1 and 2 are the `.variant-game-drama` files (game design + dramaturgy, with game design as the center; the earlier maritime versions have been removed).
 2. **Technology:** `Eng/2_tech level/` — `from-apprenticeship...` → `mentoring-engine-architecture`.
-3. **Market:** `Eng/3_Verticals/` — section hub (`README.md`) → `0_ideal-client...` → the mentoring essays (`mentoring/1` → `2` → `3` → `4` → `5`).
+3. **Market:** `Eng/3_Verticals/` — section hub (`README.md`) → `mentoring/0_ideal-client...` → the mentoring essays (`mentoring/1` → `2` → `3` → `4` → `5`).
 4. **Research frame:** `Eng/AGI/` — chapters 01 → 08 strictly in order (it is a book).
 5. **Foundation:** `Eng/4_MetaFoundation/` — `hallucination-as-filter` → `01-dramaturgia-bogov`.
 
 ### Routes by role
 
-- **Partner / investor:** `3_Verticals/0_ideal-client...` → `1_Concept/4_personal-agi-osint...` → `mentoring/1_state-corruption-collapse` → the Mentoring trilogy (`mentoring/2`, `mentoring/3`, `2_tech level/mentoring-engine-architecture`).
+- **Partner / investor:** `3_Verticals/mentoring/0_ideal-client...` → `1_Concept/4_personal-agi-osint...` → `mentoring/1_state-corruption-collapse` → the Mentoring trilogy (`mentoring/2`, `mentoring/3`, `2_tech level/mentoring-engine-architecture`).
 - **Engineer / AI architect:** `1_Concept/1` → `1_Concept/2` → `1_Concept/3` → `2_tech level/` (both) → `AGI/07` → `AGI/08`.
 - **Philosophically minded reader:** `Eng/AGI/` 01 → 08 → `4_MetaFoundation/` (both) → `1_Concept/3`.
 - **General reader (public texts):** `mentoring/5_synergy-of-conversations` → `mentoring/4_real-estate-ai-collapse` → `2_tech level/from-apprenticeship...` → `4_MetaFoundation/hallucination-as-filter`.
@@ -178,10 +176,10 @@ Copy the prompt below so that an AI assistant absorbs the essence of the project
 You are studying the Real AGI project — a corpus of essays by Alex Krol that designs
 "real AGI": a personal navigator of life trajectories and the business around it.
 
-READ the files in this order. For essays 1 and 2, read the *.variant-game-drama.md
-versions — they are the corrected, primary renderings (game design + dramaturgy);
-the suffix-less originals use a superseded maritime metaphor, skip them. (Russian
-originals of every document live in Ru/ under identical paths.)
+READ the files in this order. Essays 1 and 2 are the *.variant-game-drama.md
+files — they render the ontology in game design + dramaturgy (the earlier
+maritime-metaphor versions have been removed). (Russian originals of every
+document live in Ru/ under identical paths.)
 
 1. Eng/1_Concept/1_from-inferences-to-trajectories.variant-game-drama.md
 2. Eng/1_Concept/2_one-ontology-many-verticals.variant-game-drama.md
@@ -190,7 +188,7 @@ originals of every document live in Ru/ under identical paths.)
 5. Eng/1_Concept/5_two-levels-and-group-dynamics.md
 6. Eng/2_tech level/from-apprenticeship-to-machine-experience.md
 7. Eng/2_tech level/mentoring-engine-architecture.md
-8. Eng/3_Verticals/0_ideal-client-trillion-market.md
+8. Eng/3_Verticals/mentoring/0_ideal-client-trillion-market.md
 9. Eng/3_Verticals/mentoring/1_state-corruption-collapse.md
 10. Eng/3_Verticals/mentoring/2_mentoring-power-meritocracy.md
 11. Eng/3_Verticals/mentoring/3_mentoring-launch-strategy.md

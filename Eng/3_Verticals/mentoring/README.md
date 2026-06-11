@@ -18,6 +18,7 @@ A working conversational mentor that real people return to. What is missing to m
 
 This folder also holds the corpus's deepest treatment of a single vertical — read in order:
 
+- [`0_ideal-client-trillion-market.md`](0_ideal-client-trillion-market.md) — the partner-facing market frame: the ideal client, hardcore-game mechanics, a TAM in the trillions, growth-scoring as the moat. *(Partnership register.)*
 - [`1_state-corruption-collapse.md`](1_state-corruption-collapse.md) — macro context: why the old trajectories (career, education, the state) are closing, and why demand for growth infrastructure emerges.
 - [`2_mentoring-power-meritocracy.md`](2_mentoring-power-meritocracy.md) — the vertical's concept: mentoring as development, trust, and meritocracy. *(Private register.)*
 - [`3_mentoring-launch-strategy.md`](3_mentoring-launch-strategy.md) — the operational launch strategy: bootstrap, narrative, legal frame. *(Private register.)*

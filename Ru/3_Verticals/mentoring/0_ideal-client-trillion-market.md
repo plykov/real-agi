@@ -19,7 +19,7 @@ updated: 2026-05-26
 [![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
 [![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
 
-> 🇬🇧 **English version:** [Eng/3_Verticals/0_ideal-client-trillion-market.md](../../Eng/3_Verticals/0_ideal-client-trillion-market.md)
+> 🇬🇧 **English version:** [Eng/3_Verticals/mentoring/0_ideal-client-trillion-market.md](../../../Eng/3_Verticals/mentoring/0_ideal-client-trillion-market.md)
 
 > © 2026 Alex Krol. Все права защищены. Перепубликация, распространение и коммерческое использование — только с письменного согласия автора.
 

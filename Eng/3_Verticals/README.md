@@ -52,9 +52,9 @@ Memory ([maas](maas/README.md)), self-learning ([essays-claude](essays-claude/RE
 
 ## 3. The catalog
 
-A top-level concept document sits alongside the project folders:
+The mentoring vertical carries a partner-facing concept document (it sits inside that folder, since it frames that vertical specifically):
 
-- [`0_ideal-client-trillion-market.md`](0_ideal-client-trillion-market.md) — the external frame for partners: the ideal client (the minority with non-latent demand for growth), the mechanics of hardcore games and elite accelerators, a market measured in the trillions, the growth-scoring model as the moat.
+- [`mentoring/0_ideal-client-trillion-market.md`](mentoring/0_ideal-client-trillion-market.md) — the external frame for partners: the ideal client (the minority with non-latent demand for growth), the mechanics of hardcore games and elite accelerators, a market measured in the trillions, the growth-scoring model as the moat.
 
 Each project below has its own folder and a product description. The lenses are reading aids, not boxes.
 

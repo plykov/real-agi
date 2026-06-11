@@ -88,13 +88,13 @@ real-agi/
 
 Пять пронумерованных эссе, каждое опирается на предыдущее:
 
-1. **[`1_from-inferences-to-trajectories.md`](Ru/1_Concept/1_from-inferences-to-trajectories.md)** — смена атома: траектория вместо инференса; четырёхслойная память; ядровая триада (модель реальности → сценарное пространство → слой позиционирования).
-2. **[`2_one-ontology-many-verticals.md`](Ru/1_Concept/2_one-ontology-many-verticals.md)** — одно ядро описывает любую сферу жизни (карьера, война, медицина, образование…); вертикаль = сменная доменная специфика, а не отдельный ИИ.
+1. **[`1_from-inferences-to-trajectories.variant-game-drama.md`](Ru/1_Concept/1_from-inferences-to-trajectories.variant-game-drama.md)** — смена атома: траектория вместо инференса; четырёхслойная память; ядровая триада (модель реальности → сценарное пространство → слой позиционирования).
+2. **[`2_one-ontology-many-verticals.variant-game-drama.md`](Ru/1_Concept/2_one-ontology-many-verticals.variant-game-drama.md)** — одно ядро описывает любую сферу жизни (карьера, война, медицина, образование…); вертикаль = сменная доменная специфика, а не отдельный ИИ.
 3. **[`3_multidimensional-life-drift.md`](Ru/1_Concept/3_multidimensional-life-drift.md)** — концептуальный центр серии: вертикали — оси одного многомерного пространства; человек — точка; цель — конус допустимых состояний; форма — персональный аналитический центр («Хранитель»).
 4. **[`4_personal-agi-osint-go-to-market.md`](Ru/1_Concept/4_personal-agi-osint-go-to-market.md)** — первый рынок (сегмент UHNW), модель «первой дозы», данные из OSINT и цифрового следа, этика как условие сделки.
 5. **[`5_two-levels-and-group-dynamics.md`](Ru/1_Concept/5_two-levels-and-group-dynamics.md)** — финал: операционные действия против мета-действий («менять мир — менять капитана»); навигация группы как коллективного субъекта.
 
-Файлы `*.variant-game-drama.md` — **исправленные, основные** версии эссе 1 и 2. Они излагают ту же онтологию на двух *существующих, кодифицированных* профессиональных языках — **гейм-дизайна** (как реально устроено движение через мир правил и препятствий; дисциплина, построенная на том, чтобы не дать игроку бросить на препятствии, — а это и есть единственный решающий фактор проекта) и **драматургии** (что движение меняет в субъекте: арка, ставки, поворотная точка). Файлы без суффикса — более ранние версии на личной *морской* метафоре, которая незаметно стала несущим слоем, не добавляя понимания; они вытеснены и оставлены лишь для справки (почему — см. эссе 2, §2).
+Эссе 1 и 2 носят суффикс `.variant-game-drama.md` по историческим причинам: они излагают онтологию на двух *существующих, кодифицированных* профессиональных языках — **гейм-дизайна** (как реально устроено движение через мир правил и препятствий; дисциплина, построенная на том, чтобы не дать игроку бросить на препятствии, — а это и есть единственный решающий фактор проекта) и **драматургии** (что движение меняет в субъекте: арка, ставки, поворотная точка). Более ранние версии строили тот же аргумент на личной *морской* метафоре, которая незаметно стала несущим слоем, не добавляя понимания; они удалены (почему — см. эссе 2, §2).
 
 ### `Ru/2_tech level/` — технологический уровень
 
@@ -103,14 +103,12 @@ real-agi/
 
 ### `Ru/3_Verticals/` — рынки и портфель
 
-Этот раздел устроен как **портфель папок-проектов** — одна папка на реальный проект, у каждой своё продуктовое описание — и читается задом наперёд как индуктивное доказательство архитектуры (один и тот же движок повторяется на дико разных рынках; ядро обнаруживается уже существующим, но по частям). Рядом с папками лежат два документа верхнего уровня:
+Этот раздел устроен как **портфель папок-проектов** — одна папка на реальный проект, у каждой своё продуктовое описание — и читается задом наперёд как индуктивное доказательство архитектуры (один и тот же движок повторяется на дико разных рынках; ядро обнаруживается уже существующим, но по частям). Рядом с папками лежит один документ верхнего уровня:
 
 - **[`README.md`](Ru/3_Verticals/README.md)** — *архитектура, подтверждённая практикой*: хаб раздела. Чтение ~100 рабочих кодовых проектов задом наперёд, лестница утилита → пайплайн → агент → вертикаль, находка «ядро существует по частям» и полный каталог с честной стадией каждого проекта.
-- **[`0_ideal-client-trillion-market.md`](Ru/3_Verticals/0_ideal-client-trillion-market.md)** — внешняя рамка для партнёров: идеальный клиент (10–15% людей с нелатентным спросом на рост), механика хардкорных игр и элитных акселераторов, рынок в триллионах, модель growth-скоринга как ров.
-
 22 папки-проекта, у каждой своё продуктовое описание (группировки — линзы для чтения, а не жёсткие категории):
 
-- **Вертикали, которые ведут человека к цели** — [mentoring](Ru/3_Verticals/mentoring/README.md) (хранит и самые глубокие концептуальные эссе корпуса) · [founder-pipeline](Ru/3_Verticals/founder-pipeline/README.md) · [ai-video-pipeline](Ru/3_Verticals/ai-video-pipeline/README.md) · [saved-downloader](Ru/3_Verticals/saved-downloader/README.md) · [tracking](Ru/3_Verticals/tracking/README.md) · [ai-test01](Ru/3_Verticals/ai-test01/README.md)
+- **Вертикали, которые ведут человека к цели** — [mentoring](Ru/3_Verticals/mentoring/README.md) (хранит и самые глубокие концептуальные эссе корпуса и партнёрскую рамку [`0_ideal-client-trillion-market`](Ru/3_Verticals/mentoring/0_ideal-client-trillion-market.md)) · [founder-pipeline](Ru/3_Verticals/founder-pipeline/README.md) · [ai-video-pipeline](Ru/3_Verticals/ai-video-pipeline/README.md) · [saved-downloader](Ru/3_Verticals/saved-downloader/README.md) · [tracking](Ru/3_Verticals/tracking/README.md) · [ai-test01](Ru/3_Verticals/ai-test01/README.md)
 - **Организационная AI-трансформация** — [questions](Ru/3_Verticals/questions/README.md) · [fastbank](Ru/3_Verticals/fastbank/README.md)
 - **Ядро-движок, по частям** — [maas](Ru/3_Verticals/maas/README.md) · [essays-claude](Ru/3_Verticals/essays-claude/README.md) · [autonomy-hub](Ru/3_Verticals/autonomy-hub/README.md) · [expert-constructor-core](Ru/3_Verticals/expert-constructor-core/README.md) · [synthetic-traffic-console](Ru/3_Verticals/synthetic-traffic-console/README.md)
 - **Производство для creator / экономики экспертов** — [course-producer](Ru/3_Verticals/course-producer/README.md) · [course-distributor](Ru/3_Verticals/course-distributor/README.md) · [news](Ru/3_Verticals/news/README.md) · [ai-support-chat-plugin](Ru/3_Verticals/ai-support-chat-plugin/README.md) · [simple-cutter](Ru/3_Verticals/simple-cutter/README.md)
@@ -142,7 +140,7 @@ real-agi/
 
 ### Быстрый старт (3 текста, ~2 часа)
 
-1. [`Ru/1_Concept/1_from-inferences-to-trajectories.md`](Ru/1_Concept/1_from-inferences-to-trajectories.md) — атом всей конструкции.
+1. [`Ru/1_Concept/1_from-inferences-to-trajectories.variant-game-drama.md`](Ru/1_Concept/1_from-inferences-to-trajectories.variant-game-drama.md) — атом всей конструкции.
 2. [`Ru/1_Concept/3_multidimensional-life-drift.md`](Ru/1_Concept/3_multidimensional-life-drift.md) — что в итоге строится.
 3. [`Ru/2_tech level/from-apprenticeship-to-machine-experience.md`](Ru/2_tech%20level/from-apprenticeship-to-machine-experience.md) — почему это технически возможно.
 
@@ -155,15 +153,15 @@ flowchart LR
     S1["<b>1. Концепция</b><br/>эссе 1 → 5"] --> S2["<b>2. Тех. уровень</b><br/>ученичество →<br/>архитектура движка"] --> S3["<b>3. Вертикали</b><br/>хаб → 0 → менторинг 1 → 5"] --> S4["<b>4. Книга AGI</b><br/>главы 01 → 08"] --> S5["<b>5. Метаоснование</b><br/>галлюцинация →<br/>драматургия богов"]
 ```
 
-1. **Концепция:** `Ru/1_Concept/` — эссе 1 → 2 → 3 → 4 → 5; для 1 и 2 читать версии `.variant-game-drama` (исправленные основные — гейм-дизайн как центр; файлы без суффикса — вытесненные морские версии).
+1. **Концепция:** `Ru/1_Concept/` — эссе 1 → 2 → 3 → 4 → 5; эссе 1 и 2 — это файлы `.variant-game-drama` (гейм-дизайн + драматургия, гейм-дизайн как центр; более ранние морские версии удалены).
 2. **Технология:** `Ru/2_tech level/` — `from-apprenticeship...` → `mentoring-engine-architecture`.
-3. **Рынок:** `Ru/3_Verticals/` — хаб раздела (`README.md`) → `0_ideal-client...` → эссе о менторинге (`mentoring/1` → `2` → `3` → `4` → `5`).
+3. **Рынок:** `Ru/3_Verticals/` — хаб раздела (`README.md`) → `mentoring/0_ideal-client...` → эссе о менторинге (`mentoring/1` → `2` → `3` → `4` → `5`).
 4. **Исследовательская рамка:** `Ru/AGI/` — главы 01 → 08 строго по порядку (это книга).
 5. **Основание:** `Ru/4_MetaFoundation/` — `hallucination-as-filter` → `01-dramaturgia-bogov`.
 
 ### Маршруты по роли
 
-- **Партнёр / инвестор:** `3_Verticals/0_ideal-client...` → `1_Concept/4_personal-agi-osint...` → `mentoring/1_state-corruption-collapse` → трилогия о менторинге (`mentoring/2`, `mentoring/3`, `2_tech level/mentoring-engine-architecture`).
+- **Партнёр / инвестор:** `3_Verticals/mentoring/0_ideal-client...` → `1_Concept/4_personal-agi-osint...` → `mentoring/1_state-corruption-collapse` → трилогия о менторинге (`mentoring/2`, `mentoring/3`, `2_tech level/mentoring-engine-architecture`).
 - **Инженер / AI-архитектор:** `1_Concept/1` → `1_Concept/2` → `1_Concept/3` → `2_tech level/` (оба) → `AGI/07` → `AGI/08`.
 - **Философски настроенный читатель:** `Ru/AGI/` 01 → 08 → `4_MetaFoundation/` (оба) → `1_Concept/3`.
 - **Широкий читатель (публичные тексты):** `mentoring/5_synergy-of-conversations` → `mentoring/4_real-estate-ai-collapse` → `2_tech level/from-apprenticeship...` → `4_MetaFoundation/hallucination-as-filter`.
@@ -178,10 +176,10 @@ flowchart LR
 Ты изучаешь проект Real AGI — корпус эссе Алексея Крола, который проектирует
 «настоящий AGI»: персональный навигатор жизненных траекторий и бизнес вокруг него.
 
-ЧИТАЙ файлы в этом порядке. Для эссе 1 и 2 читай версии *.variant-game-drama.md —
-это исправленные, основные изложения (гейм-дизайн + драматургия); файлы без суффикса
-используют вытесненную морскую метафору, пропусти их. (Англоязычные версии каждого
-документа лежат в Eng/ по идентичным путям.)
+ЧИТАЙ файлы в этом порядке. Эссе 1 и 2 — это файлы *.variant-game-drama.md —
+они излагают онтологию на языке гейм-дизайна + драматургии (более ранние версии на
+морской метафоре удалены). (Англоязычные версии каждого документа лежат в Eng/ по
+идентичным путям.)
 
 1. Ru/1_Concept/1_from-inferences-to-trajectories.variant-game-drama.md
 2. Ru/1_Concept/2_one-ontology-many-verticals.variant-game-drama.md
@@ -190,7 +188,7 @@ flowchart LR
 5. Ru/1_Concept/5_two-levels-and-group-dynamics.md
 6. Ru/2_tech level/from-apprenticeship-to-machine-experience.md
 7. Ru/2_tech level/mentoring-engine-architecture.md
-8. Ru/3_Verticals/0_ideal-client-trillion-market.md
+8. Ru/3_Verticals/mentoring/0_ideal-client-trillion-market.md
 9. Ru/3_Verticals/mentoring/1_state-corruption-collapse.md
 10. Ru/3_Verticals/mentoring/2_mentoring-power-meritocracy.md
 11. Ru/3_Verticals/mentoring/3_mentoring-launch-strategy.md
