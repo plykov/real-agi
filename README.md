@@ -31,11 +31,11 @@ This is not a code repository — it is a **design bureau on paper**: a coherent
 | Meta-foundation | Why is a unique life trajectory the ultimate value, and how should one reason about the "impossible"? | `Eng/4_MetaFoundation/` |
 
 ```mermaid
-flowchart BT
-    MF["<b>4_MetaFoundation</b><br/>Why unique trajectories matter.<br/>How to reason about the 'impossible'."]
-    AGIB["<b>AGI (book)</b><br/>The human/AGI boundary.<br/>The non-closure hypothesis and its experimental program."]
-    CON["<b>1_Concept</b><br/>Trajectories, one ontology,<br/>navigation of a multidimensional life."]
-    TECH["<b>2_tech level</b><br/>Machine experience.<br/>Architecture of the self-learning engine."]
+flowchart LR
+    MF["<b>4_MetaFoundation</b><br/>Why unique trajectories matter.<br/>How to reason about<br/>the 'impossible'."]
+    AGIB["<b>AGI (book)</b><br/>The human/AGI boundary.<br/>The non-closure hypothesis<br/>and its experimental program."]
+    CON["<b>1_Concept</b><br/>Trajectories, one ontology,<br/>navigation of a<br/>multidimensional life."]
+    TECH["<b>2_tech level</b><br/>Machine experience.<br/>Architecture of the<br/>self-learning engine."]
     VERT["<b>3_Verticals</b><br/>Markets and go-to-market.<br/>First vertical: Mentoring."]
     MF --> AGIB --> CON --> TECH --> VERT
 ```
@@ -45,10 +45,10 @@ flowchart BT
 The unit of intelligence is not an **inference** (a "query → answer" pair, an artifact of memoryless LLMs) but a **trajectory** — an episode of life with memory and consequences. Real AGI is therefore not an answering machine but a **navigator**: a system with a single core (reality model → scenario space → positioning layer) that models the multidimensional space of a person's life (career, health, family, money…), builds a fan of scenarios, and helps hold a productive vector. The core is one; the markets ("verticals") are interchangeable — the first vertical is mentoring. The system learns the way an apprentice learns from a master: from the **labeled consequences** of its own decisions, not from texts. The single deterministic point of the entire construction is the fitness function: **"a win = the client's flourishing."**
 
 ```mermaid
-flowchart TB
+flowchart LR
     subgraph CORE["The Core — one ontology, self-learning"]
-        direction TB
-        RM["Reality model<br/>(active & reactive elements)"] --> SS["Scenario space<br/>(fan of possible trajectories)"] --> PL["Positioning layer<br/>(where am I, which vector)"]
+        direction LR
+        RM["Reality model<br/>(active & reactive<br/>elements)"] --> SS["Scenario space<br/>(fan of possible<br/>trajectories)"] --> PL["Positioning layer<br/>(where am I,<br/>which vector)"]
     end
     CORE --> M["Mentoring<br/>(first vertical)"]
     CORE --> CA["Career"]
