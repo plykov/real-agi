@@ -1,7 +1,7 @@
 ---
 title: "1. From Inferences to Trajectories: Memory, the Fan of Scenarios, the Reality Model (working)"
 type: article
-status: approved
+status: archived
 register: private-core
 audience: author + aligned (not for open publication)
 author: Alex Krol
@@ -10,6 +10,8 @@ series: trajectories (1 of 5)
 ---
 
 # 1. From Inferences to Trajectories: Memory, the Fan of Scenarios, the Reality Model
+
+> **Superseded — earlier version.** This essay frames the argument through a private maritime metaphor (islands / winds / ships) that became a load-bearing layer. The corrected, primary version is [`1_from-inferences-to-trajectories.variant-game-drama.md`](1_from-inferences-to-trajectories.variant-game-drama.md), which renders the same ontology in the codified professional languages of game design and dramaturgy. See essay 2's variant, §2, for why. Kept for reference only.
 
 **Private document. Not for open publication.** This is the first of the five essays in the Trajectories series and its foundation. Here I am not building a bridge to someone else's intuition and not persuading from scratch — I am recording, for myself and a narrow circle, my bet on what intelligence is once you stop thinking of it in "query → answer" pairs. Everything that follows in the series stands on this foundation.
 

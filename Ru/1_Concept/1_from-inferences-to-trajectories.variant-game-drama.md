@@ -1,7 +1,7 @@
 ---
 title: "1. От инференсов к траекториям: память, веер сценариев, модель реальности — вариант на языке гейм-дизайна и драматургии (рабочее)"
 type: article
-status: draft
+status: approved
 register: private-core
 audience: author + aligned (не для открытой публикации)
 author: Alex Krol

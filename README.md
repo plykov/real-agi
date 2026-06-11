@@ -75,7 +75,7 @@ flowchart LR
 ```
 real-agi/
 ├── Eng/                  ← PRIMARY language (American English)
-│   ├── 1_Concept/        "Trajectories" series — conceptual core (5 essays + 2 variants)
+│   ├── 1_Concept/        "Trajectories" series — conceptual core (5 essays; 1–2 in corrected game/drama versions)
 │   ├── 2_tech level/     Technology level (2 essays)
 │   ├── 3_Verticals/      Markets & go-to-market (portfolio of 22 project folders)
 │   ├── 4_MetaFoundation/ Philosophical & epistemological foundation (2 texts)
@@ -94,7 +94,7 @@ Five numbered essays, each building on the previous one:
 4. **[`4_personal-agi-osint-go-to-market.md`](Eng/1_Concept/4_personal-agi-osint-go-to-market.md)** — the first market (the UHNW segment), the "first dose" model, data from OSINT and the digital footprint, ethics as a condition of the deal.
 5. **[`5_two-levels-and-group-dynamics.md`](Eng/1_Concept/5_two-levels-and-group-dynamics.md)** — the finale: operational actions vs. meta-actions ("changing the world — changing the captain"); navigating a group as a collective subject.
 
-The `*.variant-game-drama.md` files are alternative editions of essays 1 and 2 in which the maritime metaphor is replaced with the vocabulary of game design and dramaturgy. Same argument, different rendering.
+The `*.variant-game-drama.md` files are the **corrected, primary** versions of essays 1 and 2. They render the same ontology in two *existing, codified* professional languages — **game design** (how movement through a world of rules and obstacles actually works; the discipline built to keep a player from quitting at the obstacle — which is exactly this project's single decisive factor) and **dramaturgy** (what the movement changes in the subject: arc, stakes, turning point). The suffix-less siblings are the earlier versions built on a private *maritime* metaphor that quietly became a load-bearing layer adding no understanding; they are superseded and kept only for reference (essay 2 §2 explains why).
 
 ### `Eng/2_tech level/` — the technology level
 
@@ -155,7 +155,7 @@ flowchart LR
     S1["<b>1. Concept</b><br/>essays 1 → 5"] --> S2["<b>2. Tech level</b><br/>apprenticeship →<br/>engine architecture"] --> S3["<b>3. Verticals</b><br/>hub → 0 → mentoring 1 → 5"] --> S4["<b>4. AGI book</b><br/>chapters 01 → 08"] --> S5["<b>5. MetaFoundation</b><br/>hallucination →<br/>dramaturgy of gods"]
 ```
 
-1. **Concept:** `Eng/1_Concept/` — essays 1 → 2 → 3 → 4 → 5 (the `.variant-game-drama` editions are optional: same idea, different vocabulary).
+1. **Concept:** `Eng/1_Concept/` — essays 1 → 2 → 3 → 4 → 5; for 1 and 2 read the `.variant-game-drama` versions (the corrected primary ones — game design as the center; the suffix-less originals are the superseded maritime versions).
 2. **Technology:** `Eng/2_tech level/` — `from-apprenticeship...` → `mentoring-engine-architecture`.
 3. **Market:** `Eng/3_Verticals/` — section hub (`README.md`) → `0_ideal-client...` → the mentoring essays (`mentoring/1` → `2` → `3` → `4` → `5`).
 4. **Research frame:** `Eng/AGI/` — chapters 01 → 08 strictly in order (it is a book).
@@ -178,11 +178,13 @@ Copy the prompt below so that an AI assistant absorbs the essence of the project
 You are studying the Real AGI project — a corpus of essays by Alex Krol that designs
 "real AGI": a personal navigator of life trajectories and the business around it.
 
-READ the files in this order (skip *.variant-game-drama.md — they are alternative
-editions; Russian originals of every document live in Ru/ under identical paths):
+READ the files in this order. For essays 1 and 2, read the *.variant-game-drama.md
+versions — they are the corrected, primary renderings (game design + dramaturgy);
+the suffix-less originals use a superseded maritime metaphor, skip them. (Russian
+originals of every document live in Ru/ under identical paths.)
 
-1. Eng/1_Concept/1_from-inferences-to-trajectories.md
-2. Eng/1_Concept/2_one-ontology-many-verticals.md
+1. Eng/1_Concept/1_from-inferences-to-trajectories.variant-game-drama.md
+2. Eng/1_Concept/2_one-ontology-many-verticals.variant-game-drama.md
 3. Eng/1_Concept/3_multidimensional-life-drift.md
 4. Eng/1_Concept/4_personal-agi-osint-go-to-market.md
 5. Eng/1_Concept/5_two-levels-and-group-dynamics.md
@@ -213,6 +215,14 @@ AS YOU READ, build a map of the project around these load-bearing constructions:
   computable gets distilled).
 - The invariant of the whole system: the fitness function "A WIN = THE CLIENT'S
   FLOURISHING."
+- The single decisive factor behind that flourishing: the capacity to NOT QUIT and to
+  re-route creatively through blockers (most blockers are creativity failures, not
+  walls). The default behavior of both people and agents is to quit; the system is, at
+  bottom, an anti-quitting engine. GAME DESIGN is the center here — the most mature
+  applied science of keeping someone engaged through difficulty (its commercial telos,
+  retention, equals this project's win factor); it moves a person from "easy fun" to
+  "hard fun," i.e. rewires reward so persistence becomes intrinsic, not willpower.
+  DRAMATURGY is the amplifier (the meaning and arc of that change).
 - The AGI frame: AGI ≠ LLM (a functional definition); the hypothesis — human
   intelligence is computationally NON-CLOSED (insight under context insufficiency,
   connectedness); the test — the ontological search machine (LLM hallucinations as

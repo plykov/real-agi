@@ -9,7 +9,7 @@ updated: 2026-05-30
 series: "trajectories (2 of 5) — game/drama variant"
 ---
 
-*An alternative variant of Essay 2: the same ontology of navigation rendered in the universal language of game design and dramaturgy instead of the personal maritime metaphor — for comparison with the main version.*
+*This is the primary version of Essay 2: the ontology of navigation in the codified professional languages of game design and dramaturgy. It supersedes the earlier maritime-metaphor version (now archived); §2 explains why a private metaphor that becomes load-bearing adds no understanding, while these are existing disciplines.*
 
 # 2. One Ontology, Many Verticals: Life as Game and Drama
 

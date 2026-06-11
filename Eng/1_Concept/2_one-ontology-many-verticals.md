@@ -1,7 +1,7 @@
 ---
 title: "2. One Ontology, Many Verticals: One Core Beneath Different Spheres of Life (working title)"
 type: article
-status: draft
+status: archived
 register: private-core
 audience: author + aligned (not for open publication)
 author: Alex Krol
@@ -10,6 +10,8 @@ series: trajectories (2 of 5)
 ---
 
 # 2. One Ontology, Many Verticals: One Core Beneath Different Spheres of Life
+
+> **Superseded — earlier version.** This essay leans on the private maritime metaphor (islands / winds / ships) as its load-bearing picture. The corrected, primary version is [`2_one-ontology-many-verticals.variant-game-drama.md`](2_one-ontology-many-verticals.variant-game-drama.md), which renders the same ontology in the codified professional languages of game design and dramaturgy; its §2 explains why a private metaphor that becomes load-bearing adds no understanding. Kept for reference only.
 
 **Private document. Not for open publication.** This is the second of five essays in the Trajectories series. In the first, I changed the atom of intelligence — from the answer to the trajectory — and assembled a core of three layers: a reality model, a scenario space, and a positioning layer. Here I stress-test that core. I take one ontology and run it through several entirely different spheres of life to show that they do not require different intelligences. They require one ontology and different domain specifics.
 
