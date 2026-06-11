@@ -1,8 +1,8 @@
-# Real AGI — навигатор жизненных траекторий
+# Real AGI — A Navigator for Life Trajectories
 
-> Корпус эссе и черновиков книг Алекса Крола о построении «настоящего AGI»: не чата, который отвечает на вопросы, а самообучающейся системы, которая ведёт человека по траектории жизни. От метафизического фундамента — через концепцию и технологию — до рынка и исследовательской программы.
+> A corpus of essays and book drafts by Alex Krol on building "real AGI": not a chat that answers questions, but a self-learning system that navigates a person along the trajectory of their life. From the metaphysical foundation — through concept and technology — to the market and a research program.
 
-**Alex Krol** — стратегия, AI, инфраструктура роста
+**Alex Krol** — strategy, AI, growth infrastructure
 
 [![Version](https://img.shields.io/badge/Version-1.0-blue?style=flat-square)](https://github.com/alexeykrol/real-agi)
 [![Website](https://img.shields.io/badge/Website-alexeykrol.com-FF6B35?style=flat-square&logo=safari&logoColor=white)](https://alexeykrol.com)
@@ -10,205 +10,230 @@
 [![GitHub](https://img.shields.io/badge/GitHub-alexeykrol-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexeykrol)
 [![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
 
-> © 2026 Alex Krol. Все права защищены. Перепубликация, распространение и коммерческое использование — только с письменного согласия автора.
+> © 2026 Alex Krol. All rights reserved. Republication, redistribution, or commercial use only with the author's explicit written permission.
 
-**Язык:** основной корпус — русский (`Ru/`), часть эссе переведена на английский (`Eng/`).
+**Languages:** the primary language of the corpus is **American English** (`Eng/`). The Russian originals live in `Ru/` with an identical folder structure; every document cross-links to its counterpart in the other language.
 
 ---
 
-## 1. Что это за проект
+## 1. What This Project Is
 
-### Что он создаёт
+### What it creates
 
-Это не репозиторий кода — это **конструкторское бюро на бумаге**: связная система текстов, проектирующая персональный AGI-навигатор и бизнес вокруг него. Корпус состоит из пяти слоёв, каждый отвечает на свой вопрос:
+This is not a code repository — it is a **design bureau on paper**: a coherent system of texts that designs a personal AGI navigator and the business around it. The corpus consists of five layers, each answering its own question:
 
-| Слой | Вопрос | Где лежит |
+| Layer | Question | Location |
 |---|---|---|
-| Концепция | Что мы строим? | `Ru/1_Concept/` |
-| Технология | Как это работает и где защищаемая ценность? | `Ru/2_tech level/` |
-| Рынок | Кому и как это продаётся? | `Ru/3_Verticals/` |
-| Исследовательская рамка | Где граница человек/AGI и как её проверять? | `Ru/AGI/` |
-| Метафундамент | Почему уникальная траектория жизни — высшая ценность и как мыслить о «невозможном»? | `Ru/4_MetaFoundation/` |
+| Concept | What are we building? | `Eng/1_Concept/` |
+| Technology | How does it work, and where does the defensible value sit? | `Eng/2_tech level/` |
+| Market | Who is it sold to, and how? | `Eng/3_Verticals/` |
+| Research frame | Where is the human/AGI boundary, and how can it be tested? | `Eng/AGI/` |
+| Meta-foundation | Why is a unique life trajectory the ultimate value, and how should one reason about the "impossible"? | `Eng/4_MetaFoundation/` |
 
-### Главная идея (в одном абзаце)
+```mermaid
+flowchart BT
+    MF["<b>4_MetaFoundation</b><br/>Why unique trajectories matter.<br/>How to reason about the 'impossible'."]
+    AGIB["<b>AGI (book)</b><br/>The human/AGI boundary.<br/>The non-closure hypothesis and its experimental program."]
+    CON["<b>1_Concept</b><br/>Trajectories, one ontology,<br/>navigation of a multidimensional life."]
+    TECH["<b>2_tech level</b><br/>Machine experience.<br/>Architecture of the self-learning engine."]
+    VERT["<b>3_Verticals</b><br/>Markets and go-to-market.<br/>First vertical: Mentoring."]
+    MF --> AGIB --> CON --> TECH --> VERT
+```
 
-Единица интеллекта — не **инференс** (пара «запрос → ответ», артефакт беспамятных LLM), а **траектория** — эпизод жизни с памятью и последствиями. Поэтому настоящий AGI — это не машина ответов, а **навигатор**: система с единым ядром (модель реальности → пространство сценариев → слой позиционирования), которая моделирует многомерное пространство жизни человека (карьера, здоровье, семья, деньги…), строит веер сценариев и помогает удерживать продуктивный вектор. Ядро одно, рынки («вертикали») — сменные; первая вертикаль — менторинг. Система учится как подмастерье у мастера — на **размеченных последствиях** собственных решений, а не на текстах. Единственная детерминированная точка всей конструкции — фитнес-функция: **«победа = расцвет клиента»**.
+### The central idea (in one paragraph)
 
-### Какие задачи и проблемы решает
+The unit of intelligence is not an **inference** (a "query → answer" pair, an artifact of memoryless LLMs) but a **trajectory** — an episode of life with memory and consequences. Real AGI is therefore not an answering machine but a **navigator**: a system with a single core (reality model → scenario space → positioning layer) that models the multidimensional space of a person's life (career, health, family, money…), builds a fan of scenarios, and helps hold a productive vector. The core is one; the markets ("verticals") are interchangeable — the first vertical is mentoring. The system learns the way an apprentice learns from a master: from the **labeled consequences** of its own decisions, not from texts. The single deterministic point of the entire construction is the fitness function: **"a win = the client's flourishing."**
 
-- **Проблема атома.** Индустрия LLM оптимизирует качество ответа; жизненный результат человека определяется качеством траектории. Проект меняет единицу оптимизации.
-- **Проблема одномерных помощников.** Хороший ход в карьере, рушащий здоровье и семью, не виден ассистенту, живущему в одной вертикали. Нужен навигатор по всем осям сразу.
-- **Проблема передачи опыта.** Эксперты не делятся главным не из жадности — неявное знание не передаётся текстом. Машинный аналог ученичества: замкнутый цикл «ситуация → решение → результат → корректировка».
-- **Проблема moat.** Всё вычислимое (промпты, модели, методология) дистиллируется до коммодити. Защищаемая ценность — живой поток доверительных отношений и приватная онтология роста.
-- **Проблема границы человек/AGI.** Где у человека устойчивое преимущество перед AGI и как превратить этот метафизический вопрос в дешёвый проверяемый эксперимент.
+```mermaid
+flowchart TB
+    subgraph CORE["The Core — one ontology, self-learning"]
+        direction TB
+        RM["Reality model<br/>(active & reactive elements)"] --> SS["Scenario space<br/>(fan of possible trajectories)"] --> PL["Positioning layer<br/>(where am I, which vector)"]
+    end
+    CORE --> M["Mentoring<br/>(first vertical)"]
+    CORE --> CA["Career"]
+    CORE --> BZ["Business"]
+    CORE --> HE["Health"]
+    CORE --> ED["Education"]
+    CORE --> FA["Family"]
+```
+
+### What problems it solves
+
+- **The atom problem.** The LLM industry optimizes the quality of an answer; a person's life outcome is determined by the quality of a trajectory. The project changes the unit of optimization.
+- **The one-dimensional-assistant problem.** A strong career move that wrecks health and family is invisible to an assistant living inside a single vertical. A navigator across all axes at once is required.
+- **The experience-transfer problem.** Experts withhold what matters most not out of greed — tacit knowledge cannot be transferred as text. The machine analog of apprenticeship: a closed loop of "situation → decision → outcome → correction."
+- **The moat problem.** Everything computable (prompts, models, methodology) gets distilled into a commodity. The defensible value is the living stream of trusted relationships and a proprietary ontology of growth.
+- **The human/AGI boundary problem.** Where does a human hold a durable advantage over AGI — and how can this metaphysical question be turned into a cheap, testable experiment?
 
 ---
 
-## 2. Структура папок
+## 2. Folder Structure
 
 ```
 real-agi/
-├── Ru/
-│   ├── 1_Concept/        Серия «Траектории» — ядро концепции (5 эссе + 2 варианта)
-│   ├── 2_tech level/     Технологический уровень (2 эссе)
-│   ├── 3_Verticals/      Рынки и go-to-market (1 эссе + вертикаль Mentoring)
-│   ├── 4_MetaFoundation/ Философско-эпистемологический фундамент (2 текста)
-│   └── AGI/              Книга о границе человек/AGI (введение + 8 глав)
-├── Eng/                  Английские переводы 4 эссе
+├── Eng/                  ← PRIMARY language (American English)
+│   ├── 1_Concept/        "Trajectories" series — conceptual core (5 essays + 2 variants)
+│   ├── 2_tech level/     Technology level (2 essays)
+│   ├── 3_Verticals/      Markets & go-to-market (1 essay + the Mentoring vertical)
+│   ├── 4_MetaFoundation/ Philosophical & epistemological foundation (2 texts)
+│   └── AGI/              Book on the human/AGI boundary (intro + 8 chapters)
+├── Ru/                   ← Russian originals, identical structure
 └── README.md
 ```
 
-### `Ru/1_Concept/` — серия «Траектории» (концептуальное ядро)
+### `Eng/1_Concept/` — the "Trajectories" series (conceptual core)
 
-Пять пронумерованных эссе, каждое опирается на предыдущее:
+Five numbered essays, each building on the previous one:
 
-1. **`1_from-inferences-to-trajectories.md`** — смена атома: траектория вместо инференса; четырёхслойная память; триада ядра (модель реальности → пространство сценариев → слой позиционирования).
-2. **`2_one-ontology-many-verticals.md`** — одно ядро описывает любую сферу жизни (карьера, война, медицина, образование…); вертикаль = сменная конкретика, не отдельный ИИ.
-3. **`3_multidimensional-life-drift.md`** — концептуальный центр серии: вертикали — оси одного многомерного пространства; человек — точка; цель — конус допустимых состояний; форма — персональный аналитический центр («Охранительница»).
-4. **`4_personal-agi-osint-go-to-market.md`** — первый рынок (UHNW-сегмент), модель «первой дозы», данные из OSINT и цифрового следа, этика как условие сделки.
-5. **`5_two-levels-and-group-dynamics.md`** — финал: операционные действия vs метадействия («менять мир — менять капитана»); навигация группы как коллективного субъекта.
+1. **[`1_from-inferences-to-trajectories.md`](Eng/1_Concept/1_from-inferences-to-trajectories.md)** — changing the atom: trajectory instead of inference; four-layer memory; the core triad (reality model → scenario space → positioning layer).
+2. **[`2_one-ontology-many-verticals.md`](Eng/1_Concept/2_one-ontology-many-verticals.md)** — one core describes any sphere of life (career, war, medicine, education…); a vertical = swappable domain specifics, not a separate AI.
+3. **[`3_multidimensional-life-drift.md`](Eng/1_Concept/3_multidimensional-life-drift.md)** — the conceptual center of the series: verticals are axes of one multidimensional space; the person is a point; the goal is a cone of admissible states; the form is a personal analytical center (the "Guardian").
+4. **[`4_personal-agi-osint-go-to-market.md`](Eng/1_Concept/4_personal-agi-osint-go-to-market.md)** — the first market (the UHNW segment), the "first dose" model, data from OSINT and the digital footprint, ethics as a condition of the deal.
+5. **[`5_two-levels-and-group-dynamics.md`](Eng/1_Concept/5_two-levels-and-group-dynamics.md)** — the finale: operational actions vs. meta-actions ("changing the world — changing the captain"); navigating a group as a collective subject.
 
-Файлы `*.variant-game-drama.md` — альтернативные редакции эссе 1 и 2, где морская метафора заменена словарём гейм-дизайна и драматургии. Тот же аргумент, другая подача.
+The `*.variant-game-drama.md` files are alternative editions of essays 1 and 2 in which the maritime metaphor is replaced with the vocabulary of game design and dramaturgy. Same argument, different rendering.
 
-### `Ru/2_tech level/` — технологический уровень
+### `Eng/2_tech level/` — the technology level
 
-- **`from-apprenticeship-to-machine-experience.md`** — *почему*: мастерство не передаётся текстом; четыре уровня AI-систем; самообучение возникает из размеченных последствий, не из данных; `Знание < Опыт < Эволюционирующий опыт`.
-- **`mentoring-engine-architecture.md`** — *как*: двухуровневая система «самообучающееся ядро + смертные вертикали»; что дистиллируется, а что нет (сток vs поток); фитнес-функция «победа = расцвет клиента». *(Приватный регистр — часть 3 трилогии «Менторинг».)*
+- **[`from-apprenticeship-to-machine-experience.md`](Eng/2_tech%20level/from-apprenticeship-to-machine-experience.md)** — *why*: mastery cannot be transferred as text; four levels of AI systems; self-learning arises from labeled consequences, not from data; `Knowledge < Experience < Evolving Experience`.
+- **[`mentoring-engine-architecture.md`](Eng/2_tech%20level/mentoring-engine-architecture.md)** — *how*: a two-level system of "self-learning core + mortal verticals"; what can be distilled and what cannot (stock vs. flow); the fitness function "a win = the client's flourishing." *(Private register — part 3 of the Mentoring trilogy.)*
 
-### `Ru/3_Verticals/` — рынки
+### `Eng/3_Verticals/` — markets
 
-- **`0_ideal-client-trillion-market.md`** — внешняя рамка для партнёров: идеальный клиент (10–15% людей с нелатентным спросом на рост), механика хардкорных игр и элитных акселераторов, TAM в триллионы, growth scoring model как moat.
-- **`Mentoring/`** — первая вертикаль, по нумерации:
-  - `1_state-corruption-collapse.md` (+ `-en` перевод) — макроконтекст: почему старые траектории (карьера, образование, государство) закрываются и возникает спрос на инфраструктуру роста.
-  - `2_mentoring-power-meritocracy.md` — концепция вертикали: менторинг как развитие, доверие и меритократия. *(Приватный регистр, часть 1 трилогии.)*
-  - `3_mentoring-launch-strategy.md` — операционная стратегия запуска: бутстрап, нарратив, юридика. *(Приватный регистр, часть 2 трилогии.)*
-  - `4_real-estate-ai-collapse.md` — публичный лонгрид-иллюстрация: AI-коллапс недвижимости как инвестиционной стратегии.
-  - `5_synergy-of-conversations.md` — публичная феноменология: отложенные инсайты глубоких разговоров и AI как когнитивный партнёр.
+- **[`0_ideal-client-trillion-market.md`](Eng/3_Verticals/0_ideal-client-trillion-market.md)** — the external frame for partners: the ideal client (the 10–15% of people with non-latent demand for growth), the mechanics of hardcore games and elite accelerators, a TAM in the trillions, the growth scoring model as the moat.
+- **`Mentoring/`** — the first vertical, in reading order:
+  - [`1_state-corruption-collapse.md`](Eng/3_Verticals/Mentoring/1_state-corruption-collapse.md) — macro context: why the old trajectories (career, education, the state) are closing down and demand for growth infrastructure emerges.
+  - [`2_mentoring-power-meritocracy.md`](Eng/3_Verticals/Mentoring/2_mentoring-power-meritocracy.md) — the vertical's concept: mentoring as development, trust, and meritocracy. *(Private register, part 1 of the trilogy.)*
+  - [`3_mentoring-launch-strategy.md`](Eng/3_Verticals/Mentoring/3_mentoring-launch-strategy.md) — the operational launch strategy: bootstrap, narrative, legal frame. *(Private register, part 2 of the trilogy.)*
+  - [`4_real-estate-ai-collapse.md`](Eng/3_Verticals/Mentoring/4_real-estate-ai-collapse.md) — a public long-read illustration: the AI-driven collapse of real estate as an investment strategy.
+  - [`5_synergy-of-conversations.md`](Eng/3_Verticals/Mentoring/5_synergy-of-conversations.md) — public phenomenology: the delayed insights of deep conversations, and AI as a cognitive partner.
 
-### `Ru/4_MetaFoundation/` — фундамент
+### `Eng/4_MetaFoundation/` — the foundation
 
-- **`hallucination-as-filter.md`** — эпистемология: «галлюцинация» — оценка наблюдателя, а не свойство сигнала; главный фильтр познания — логистический, а не эпистемологический; AI впервые разгружает предтестовую стадию науки.
-- **`01-dramaturgia-bogov.md`** — метафизика (глава книги о симуляции): мир как сцена для возвращения дефицита и новизны; жизнь как уникальное «прохождение» — отсюда предельная ценность траектории.
+- **[`hallucination-as-filter.md`](Eng/4_MetaFoundation/hallucination-as-filter.md)** — epistemology: "hallucination" is an observer's judgment, not a property of the signal; the main filter of knowledge is logistical, not epistemological; AI for the first time unburdens the pre-test stage of science.
+- **[`01-dramaturgia-bogov.md`](Eng/4_MetaFoundation/01-dramaturgia-bogov.md)** — metaphysics (a chapter of a book on simulation): the world as a stage for restoring scarcity and novelty; a life as a unique "playthrough" — hence the ultimate value of a trajectory.
 
-### `Ru/AGI/` — книга о границе человек/AGI
+### `Eng/AGI/` — the book on the human/AGI boundary
 
-Связная книга-черновик (введение + 8 глав), выросшая из диалога автора с ИИ. Арка: «где человек сохранит преимущество перед AGI» → снос гуманитарных утешений → гипотеза о вычислительной незамкнутости человеческого интеллекта → экспериментальная программа её проверки.
+A coherent book draft (introduction + 8 chapters) that grew out of the author's dialogue with an AI. The arc: "where does a human keep an advantage over AGI" → demolition of the humanist consolations → the hypothesis that human intelligence is computationally non-closed → an experimental program to test it.
 
-| Глава | Файл | О чём |
+| Chapter | File | Subject |
 |---|---|---|
-| Введение + 1 | `01-iphone.md` | Ловушка ремесленничества: рынок вознаграждает автоматизацию |
-| 2 | `02-agi-not-llm.md` | Рабочее определение AGI (не LLM): функциональное, без метафизики |
-| 3 | `03-snos-ubezhish.md` | Снос семи «гуманитарных убежищ»: всё человеческое — функция |
-| 4 | `04-paradoks-intellekta.md` | Парадокс интеллекта; инсайт как катастрофа при недостаточности контекста |
-| 5 | `05-podkluchennost.md` | Гипотеза подключённости: незамкнутость человеческого интеллекта |
-| 6 | `06-fizika-realnosti.md` | «Не та физика»: вычисление — историческая рамка, не природа реальности |
-| 7 | `07-pipeline-otbora-ontologij.md` | Пайплайн из 11 звеньев: машина отбора онтологий |
-| 8 | `08-mashina-ontologicheskogo-poiska.md` | Экспериментальная установка: LLM-галлюцинации как онтологические мутанты |
-
-### `Eng/` — переводы
-
-| Английский файл | Русский оригинал |
-|---|---|
-| `ideal-client-trillion-market-en.md` | `Ru/3_Verticals/0_ideal-client-trillion-market.md` |
-| `mentoring-power-meritocracy-en.md` | `Ru/3_Verticals/Mentoring/2_mentoring-power-meritocracy.md` |
-| `mentoring-launch-strategy-en.md` | `Ru/3_Verticals/Mentoring/3_mentoring-launch-strategy.md` |
-| `mentoring-engine-architecture-en.md` | `Ru/2_tech level/mentoring-engine-architecture.md` |
-
-Перевод `1_state-corruption-collapse-en.md` лежит рядом с оригиналом в `Ru/3_Verticals/Mentoring/`.
+| Intro + 1 | [`01-iphone.md`](Eng/AGI/01-iphone.md) | The craftsmanship trap: the market rewards automation |
+| 2 | [`02-agi-not-llm.md`](Eng/AGI/02-agi-not-llm.md) | A working definition of AGI (not LLM): functional, no metaphysics |
+| 3 | [`03-snos-ubezhish.md`](Eng/AGI/03-snos-ubezhish.md) | Demolishing the seven "humanist sanctuaries": everything human is a function |
+| 4 | [`04-paradoks-intellekta.md`](Eng/AGI/04-paradoks-intellekta.md) | The paradox of intelligence; insight as a catastrophe under context insufficiency |
+| 5 | [`05-podkluchennost.md`](Eng/AGI/05-podkluchennost.md) | The connectedness hypothesis: the non-closure of human intelligence |
+| 6 | [`06-fizika-realnosti.md`](Eng/AGI/06-fizika-realnosti.md) | "The wrong physics": computation is a historical frame, not the nature of reality |
+| 7 | [`07-pipeline-otbora-ontologij.md`](Eng/AGI/07-pipeline-otbora-ontologij.md) | The 11-link pipeline: a machine for selecting ontologies |
+| 8 | [`08-mashina-ontologicheskogo-poiska.md`](Eng/AGI/08-mashina-ontologicheskogo-poiska.md) | The experimental rig: LLM hallucinations as ontological mutants |
 
 ---
 
-## 3. Порядок чтения
+## 3. Reading Order
 
-### Быстрый старт (3 текста, ~2 часа)
+### Quick start (3 texts, ~2 hours)
 
-1. `Ru/1_Concept/1_from-inferences-to-trajectories.md` — атом всей конструкции.
-2. `Ru/1_Concept/3_multidimensional-life-drift.md` — что строится в итоге.
-3. `Ru/2_tech level/from-apprenticeship-to-machine-experience.md` — почему это технически возможно.
+1. [`Eng/1_Concept/1_from-inferences-to-trajectories.md`](Eng/1_Concept/1_from-inferences-to-trajectories.md) — the atom of the whole construction.
+2. [`Eng/1_Concept/3_multidimensional-life-drift.md`](Eng/1_Concept/3_multidimensional-life-drift.md) — what is ultimately being built.
+3. [`Eng/2_tech level/from-apprenticeship-to-machine-experience.md`](Eng/2_tech%20level/from-apprenticeship-to-machine-experience.md) — why it is technically possible.
 
-### Полный маршрут (рекомендуемый)
+### Full route (recommended)
 
-Слои читаются от концепции к фундаменту — каждый следующий объясняет предыдущий на большей глубине:
+The layers are read from concept to foundation — each subsequent layer explains the previous one at greater depth:
 
-1. **Концепция:** `Ru/1_Concept/` — эссе 1 → 2 → 3 → 4 → 5 (варианты `.variant-game-drama` — опционально, это та же мысль в другом словаре).
-2. **Технология:** `Ru/2_tech level/` — `from-apprenticeship...` → `mentoring-engine-architecture`.
-3. **Рынок:** `Ru/3_Verticals/` — `0_ideal-client...` → `Mentoring/1` → `2` → `3` → `4` → `5`.
-4. **Исследовательская рамка:** `Ru/AGI/` — главы 01 → 08 строго по порядку (это книга).
-5. **Фундамент:** `Ru/4_MetaFoundation/` — `hallucination-as-filter` → `01-dramaturgia-bogov`.
+```mermaid
+flowchart LR
+    S1["<b>1. Concept</b><br/>essays 1 → 5"] --> S2["<b>2. Tech level</b><br/>apprenticeship →<br/>engine architecture"] --> S3["<b>3. Verticals</b><br/>0 → Mentoring 1 → 5"] --> S4["<b>4. AGI book</b><br/>chapters 01 → 08"] --> S5["<b>5. MetaFoundation</b><br/>hallucination →<br/>dramaturgy of gods"]
+```
 
-### Маршруты по ролям
+1. **Concept:** `Eng/1_Concept/` — essays 1 → 2 → 3 → 4 → 5 (the `.variant-game-drama` editions are optional: same idea, different vocabulary).
+2. **Technology:** `Eng/2_tech level/` — `from-apprenticeship...` → `mentoring-engine-architecture`.
+3. **Market:** `Eng/3_Verticals/` — `0_ideal-client...` → `Mentoring/1` → `2` → `3` → `4` → `5`.
+4. **Research frame:** `Eng/AGI/` — chapters 01 → 08 strictly in order (it is a book).
+5. **Foundation:** `Eng/4_MetaFoundation/` — `hallucination-as-filter` → `01-dramaturgia-bogov`.
 
-- **Партнёр / инвестор:** `3_Verticals/0_ideal-client...` → `1_Concept/4_personal-agi-osint...` → `Mentoring/1_state-corruption-collapse` → трилогия «Менторинг» (`Mentoring/2`, `Mentoring/3`, `2_tech level/mentoring-engine-architecture`).
-- **Инженер / архитектор AI:** `1_Concept/1` → `1_Concept/2` → `1_Concept/3` → `2_tech level/` (оба) → `AGI/07` → `AGI/08`.
-- **Философски настроенный читатель:** `Ru/AGI/` 01→08 → `4_MetaFoundation/` (оба) → `1_Concept/3`.
-- **Широкий читатель (публичные тексты):** `Mentoring/5_synergy-of-conversations` → `Mentoring/4_real-estate-ai-collapse` → `2_tech level/from-apprenticeship...` → `4_MetaFoundation/hallucination-as-filter`.
+### Routes by role
+
+- **Partner / investor:** `3_Verticals/0_ideal-client...` → `1_Concept/4_personal-agi-osint...` → `Mentoring/1_state-corruption-collapse` → the Mentoring trilogy (`Mentoring/2`, `Mentoring/3`, `2_tech level/mentoring-engine-architecture`).
+- **Engineer / AI architect:** `1_Concept/1` → `1_Concept/2` → `1_Concept/3` → `2_tech level/` (both) → `AGI/07` → `AGI/08`.
+- **Philosophically minded reader:** `Eng/AGI/` 01 → 08 → `4_MetaFoundation/` (both) → `1_Concept/3`.
+- **General reader (public texts):** `Mentoring/5_synergy-of-conversations` → `Mentoring/4_real-estate-ai-collapse` → `2_tech level/from-apprenticeship...` → `4_MetaFoundation/hallucination-as-filter`.
 
 ---
 
-## 4. Промпт для ИИ
+## 4. Prompt for AI
 
-Скопируйте промпт ниже, чтобы ИИ-ассистент усвоил суть проекта и работал внутри его системы понятий:
+Copy the prompt below so that an AI assistant absorbs the essence of the project and works inside its system of concepts:
 
 ```text
-Ты изучаешь проект Real AGI — корпус эссе Алекса Крола, проектирующий «настоящий AGI»:
-персональный навигатор жизненных траекторий и бизнес вокруг него.
+You are studying the Real AGI project — a corpus of essays by Alex Krol that designs
+"real AGI": a personal navigator of life trajectories and the business around it.
 
-ПРОЧИТАЙ файлы в этом порядке (пропускай *.variant-game-drama.md и переводы — это
-альтернативные редакции и дубли):
+READ the files in this order (skip *.variant-game-drama.md — they are alternative
+editions; Russian originals of every document live in Ru/ under identical paths):
 
-1. Ru/1_Concept/1_from-inferences-to-trajectories.md
-2. Ru/1_Concept/2_one-ontology-many-verticals.md
-3. Ru/1_Concept/3_multidimensional-life-drift.md
-4. Ru/1_Concept/4_personal-agi-osint-go-to-market.md
-5. Ru/1_Concept/5_two-levels-and-group-dynamics.md
-6. Ru/2_tech level/from-apprenticeship-to-machine-experience.md
-7. Ru/2_tech level/mentoring-engine-architecture.md
-8. Ru/3_Verticals/0_ideal-client-trillion-market.md
-9. Ru/3_Verticals/Mentoring/1_state-corruption-collapse.md
-10. Ru/3_Verticals/Mentoring/2_mentoring-power-meritocracy.md
-11. Ru/3_Verticals/Mentoring/3_mentoring-launch-strategy.md
-12. Ru/AGI/01..08 (по порядку — это главы одной книги)
-13. Ru/4_MetaFoundation/hallucination-as-filter.md
-14. Ru/4_MetaFoundation/01-dramaturgia-bogov.md
+1. Eng/1_Concept/1_from-inferences-to-trajectories.md
+2. Eng/1_Concept/2_one-ontology-many-verticals.md
+3. Eng/1_Concept/3_multidimensional-life-drift.md
+4. Eng/1_Concept/4_personal-agi-osint-go-to-market.md
+5. Eng/1_Concept/5_two-levels-and-group-dynamics.md
+6. Eng/2_tech level/from-apprenticeship-to-machine-experience.md
+7. Eng/2_tech level/mentoring-engine-architecture.md
+8. Eng/3_Verticals/0_ideal-client-trillion-market.md
+9. Eng/3_Verticals/Mentoring/1_state-corruption-collapse.md
+10. Eng/3_Verticals/Mentoring/2_mentoring-power-meritocracy.md
+11. Eng/3_Verticals/Mentoring/3_mentoring-launch-strategy.md
+12. Eng/AGI/01..08 (in order — these are chapters of one book)
+13. Eng/4_MetaFoundation/hallucination-as-filter.md
+14. Eng/4_MetaFoundation/01-dramaturgia-bogov.md
 
-ПОКА ЧИТАЕШЬ, построй карту проекта вокруг этих опорных конструкций:
-- Атом: ТРАЕКТОРИЯ (эпизод жизни с памятью и последствиями), не инференс «запрос→ответ».
-- Ядро (триада, порядок неизменен): модель реальности → пространство сценариев →
-  слой позиционирования. Цель — продуктивный вектор в веере сценариев, не лучший шаг.
-- Одна онтология, много ВЕРТИКАЛЕЙ: ядро одно, сферы жизни/рынки — сменная конкретика.
-- Многомерное пространство жизни: вертикали — оси, человек — точка, цель — конус
-  допустимых состояний; вход — поведение-как-сигнал («сигнал для навигации, не для оценки»).
-- Машинный опыт: самообучение из РАЗМЕЧЕННЫХ ПОСЛЕДСТВИЙ (ситуация→решение→результат→
-  корректировка), не из текстов; Знание < Опыт < Эволюционирующий опыт.
-- Архитектура бизнеса: самообучающееся ядро + смертные вертикали; moat — живой поток
-  отношений и приватная онтология роста (всё вычислимое дистиллируется).
-- Инвариант всей системы: фитнес-функция «ПОБЕДА = РАСЦВЕТ КЛИЕНТА».
-- Рамка AGI: AGI ≠ LLM (функциональное определение); гипотеза — человеческий интеллект
-  вычислительно НЕ ЗАМКНУТ (инсайт при недостаточности контекста, подключённость);
-  проверка — машина онтологического поиска (LLM-галлюцинации как мутации + физический
-  критерий отбора).
-- Фундамент: ценность уникальной траектории (драматургия богов); «невозможно» часто
-  значит «нет ресурсов проверить» (галлюцинация как фильтр).
+AS YOU READ, build a map of the project around these load-bearing constructions:
+- The atom: a TRAJECTORY (an episode of life with memory and consequences), not a
+  "query → answer" inference.
+- The core (a triad, order invariant): reality model → scenario space → positioning
+  layer. The goal is a productive vector in a fan of scenarios, not the best step.
+- One ontology, many VERTICALS: one core; spheres of life / markets are swappable
+  domain specifics.
+- The multidimensional space of life: verticals are axes, the person is a point, the
+  goal is a cone of admissible states; the input is behavior-as-signal ("a signal for
+  navigation, not for judgment").
+- Machine experience: self-learning from LABELED CONSEQUENCES (situation → decision →
+  outcome → correction), not from texts; Knowledge < Experience < Evolving Experience.
+- Business architecture: a self-learning core + mortal verticals; the moat is the
+  living stream of relationships and a proprietary ontology of growth (everything
+  computable gets distilled).
+- The invariant of the whole system: the fitness function "A WIN = THE CLIENT'S
+  FLOURISHING."
+- The AGI frame: AGI ≠ LLM (a functional definition); the hypothesis — human
+  intelligence is computationally NON-CLOSED (insight under context insufficiency,
+  connectedness); the test — the ontological search machine (LLM hallucinations as
+  mutations + a physical selection criterion).
+- The foundation: the value of a unique trajectory (the dramaturgy of gods);
+  "impossible" often means "no resources to verify" (hallucination as filter).
 
-ПРАВИЛА РАБОТЫ С КОРПУСОМ:
-- Используй терминологию проекта точно; термины вводятся в глоссариях эссе с пометкой,
-  какое эссе ими «владеет».
-- Различай статус (approved/draft) и регистр (публичное / private-core «не для
-  публикации»). Содержание private-core документов не пересказывай вовне.
-- Автор систематически маркирует «факт vs моя гипотеза vs спекуляция» — сохраняй эту
-  маркировку, не выдавай ставки за доказанное.
-- Серия 1_Concept и книга AGI — связные последовательности: эссе ссылаются друг на
-  друга, читать вразбивку нельзя.
+RULES FOR WORKING WITH THE CORPUS:
+- Use the project's terminology precisely; terms are introduced in the essays'
+  glossaries with a note on which essay "owns" them.
+- Distinguish status (approved/draft) and register (public / private-core "not for
+  publication"). Do not retell the content of private-core documents externally.
+- The author systematically marks "fact vs. my hypothesis vs. speculation" — preserve
+  this marking; do not present bets as proven.
+- The 1_Concept series and the AGI book are coherent sequences: the essays reference
+  one another and must not be read out of order.
 
-ПОСЛЕ ЧТЕНИЯ проверь себя: (1) чем траектория отличается от инференса и почему это
-смена атома; (2) почему вертикали — не отдельные ИИ; (3) что в системе невозможно
-украсть через API и почему; (4) что единственное детерминировано в «аморальном
-движке»; (5) в чём гипотеза незамкнутости и как её предлагается проверять.
+AFTER READING, check yourself: (1) how does a trajectory differ from an inference, and
+why is this a change of atom; (2) why are verticals not separate AIs; (3) what in the
+system cannot be stolen through an API, and why; (4) what is the only deterministic
+thing in the "amoral engine"; (5) what is the non-closure hypothesis, and how is it
+proposed to be tested?
 ```
 
 ---
 
-## 5. Статусы, регистры, права
+## 5. Statuses, Registers, Rights
 
-- Документы имеют YAML-frontmatter со статусом (`draft` / `approved`) и регистром. Тексты с пометкой **private-core** («не для открытой публикации») — внутренние концептуальные документы для автора и доверенного круга.
-- Все тексты © Alex Krol. Распространение — только с письменного согласия автора, если в самом документе не указано иное.
+- Documents carry YAML frontmatter with a status (`draft` / `approved`) and a register. Texts marked **private-core** ("not for open publication") are internal concept documents for the author and a trusted circle.
+- Every English document links to its Russian original (and vice versa); the folder trees `Eng/` and `Ru/` are identical.
+- All texts © Alex Krol. Distribution only with the author's written permission, unless stated otherwise in the document itself.
