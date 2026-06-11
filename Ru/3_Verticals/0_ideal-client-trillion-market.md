@@ -20,6 +20,7 @@ updated: 2026-05-26
 [![License](https://img.shields.io/badge/©%202026-Alex%20Krol-lightgrey?style=flat-square)](https://alexeykrol.com)
 
 > © 2026 Alex Krol. Все права защищены. Перепубликация, распространение и коммерческое использование — только с письменного согласия автора.
+
 ## Оглавление
 
 1. [TL;DR](#tldr)
