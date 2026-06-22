@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Zuurdesem &middot; Sourdough Bakery in Tilburg</title>
+  <meta name="description" content="Zuurdesem is a slow-fermented sourdough bakery in the heart of Tilburg. Naturally leavened bread, baked fresh every morning." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <!-- Progress bar -->
+  <div class="scroll-progress" id="scrollProgress" aria-hidden="true"></div>
+
+  <!-- Navigation -->
+  <header class="nav" id="nav">
+    <a href="#hero" class="nav__brand">Zuurdesem<span>.</span></a>
+    <nav class="nav__links" aria-label="Primary">
+      <a href="#story">Story</a>
+      <a href="#breads">Breads</a>
+      <a href="#process">Process</a>
+      <a href="#visit">Visit</a>
+    </nav>
+    <a href="#visit" class="nav__cta">Find us</a>
+  </header>
+
+  <!-- HERO — 3D parallax scene -->
+  <section class="hero" id="hero">
+    <div class="scene" id="scene">
+      <!-- layers move at different depths via mouse + scroll -->
+      <div class="layer layer--sky"   data-depth="0.10" data-scroll="0.15"></div>
+      <div class="layer layer--glow"  data-depth="0.18" data-scroll="0.25"></div>
+      <div class="layer layer--hills" data-depth="0.30" data-scroll="0.40"></div>
+
+      <div class="layer layer--steam" data-depth="0.45" data-scroll="0.50" aria-hidden="true">
+        <span></span><span></span><span></span>
+      </div>
+
+      <div class="layer layer--copy" data-depth="0.55" data-scroll="0.70">
+        <p class="hero__eyebrow">Tilburg &middot; est. 2026</p>
+        <h1 class="hero__title">Bread that<br />takes its time.</h1>
+        <p class="hero__sub">A slow-fermented sourdough bakery in the heart of Tilburg. Wild yeast, stone-milled flour, and a 36-hour rest — baked fresh before you wake.</p>
+        <div class="hero__actions">
+          <a href="#breads" class="btn btn--solid">See today's loaves</a>
+          <a href="#visit" class="btn btn--ghost">Visit the bakery</a>
+        </div>
+      </div>
+
+      <!-- the star loaf, closest to the viewer -->
+      <div class="layer layer--loaf" data-depth="0.90" data-scroll="1.10">
+        <div class="loaf-art" aria-hidden="true">
+          <svg viewBox="0 0 320 240" width="100%" height="100%" role="img" aria-label="Round sourdough loaf">
+            <defs>
+              <radialGradient id="crust" cx="42%" cy="35%" r="75%">
+                <stop offset="0%" stop-color="#e8b377" />
+                <stop offset="55%" stop-color="#c8854a" />
+                <stop offset="100%" stop-color="#8f5526" />
+              </radialGradient>
+              <linearGradient id="flour" x1="0" y1="0" x2="0" y2="1">
+                <stop offset="0%" stop-color="#fff8ec" stop-opacity="0.9" />
+                <stop offset="100%" stop-color="#fff8ec" stop-opacity="0" />
+              </linearGradient>
+            </defs>
+            <ellipse cx="160" cy="205" rx="135" ry="22" fill="#3a2415" opacity="0.35" />
+            <ellipse cx="160" cy="135" rx="148" ry="95" fill="url(#crust)" />
+            <ellipse cx="160" cy="120" rx="148" ry="95" fill="url(#flour)" />
+            <g stroke="#5e3618" stroke-width="6" stroke-linecap="round" fill="none" opacity="0.55">
+              <path d="M95 95 q65 28 130 0" />
+              <path d="M80 130 q80 30 160 0" />
+              <path d="M95 165 q65 24 130 0" />
+            </g>
+            <g fill="#fff8ec" opacity="0.7">
+              <circle cx="70" cy="95" r="2.2" /><circle cx="120" cy="70" r="1.8" />
+              <circle cx="210" cy="80" r="2.4" /><circle cx="250" cy="120" r="1.9" />
+              <circle cx="100" cy="180" r="2" /><circle cx="225" cy="175" r="2.2" />
+            </g>
+          </svg>
+        </div>
+      </div>
+    </div>
+
+    <a href="#story" class="hero__scroll" aria-label="Scroll down">
+      <span class="hero__scroll-dot"></span>
+      <span class="hero__scroll-label">scroll</span>
+    </a>
+  </section>
+
+  <!-- STORY -->
+  <section class="section story" id="story">
+    <div class="reveal">
+      <p class="section__kicker">Our story</p>
+      <h2 class="section__title">No shortcuts. Just flour, water, salt &amp; patience.</h2>
+      <p class="story__lead">We started Zuurdesem with a single jar of wild starter on a windowsill on the Korte Heuvel. Today that same starter — we call her <em>Truus</em> — leavens every loaf we sell. No commercial yeast, no additives, no rush. Just the quiet chemistry of time.</p>
+    </div>
+    <div class="story__stats reveal">
+      <div class="stat"><span class="stat__num" data-count="36">0</span><span class="stat__label">hour ferment</span></div>
+      <div class="stat"><span class="stat__num" data-count="3">0</span><span class="stat__label">simple ingredients</span></div>
+      <div class="stat"><span class="stat__num" data-count="100">0</span><span class="stat__label">% naturally leavened</span></div>
+      <div class="stat"><span class="stat__num" data-count="5">0</span><span class="stat__label">am we light the oven</span></div>
+    </div>
+  </section>
+
+  <!-- BREADS — 3D tilt cards -->
+  <section class="section breads" id="breads">
+    <div class="reveal">
+      <p class="section__kicker">Today's bench</p>
+      <h2 class="section__title">Freshly baked, while it lasts.</h2>
+    </div>
+    <div class="bread-grid">
+      <article class="bread-card reveal" data-tilt>
+        <div class="bread-card__art bread-card__art--country">
+          <span class="bread-emoji">🍞</span>
+        </div>
+        <div class="bread-card__body">
+          <div class="bread-card__head"><h3>Country Boule</h3><span class="price">€5,50</span></div>
+          <p>Our flagship. 20% stone-milled wholewheat, blistered crust, open crumb. The everyday loaf.</p>
+        </div>
+      </article>
+      <article class="bread-card reveal" data-tilt>
+        <div class="bread-card__art bread-card__art--rye">
+          <span class="bread-emoji">🥖</span>
+        </div>
+        <div class="bread-card__body">
+          <div class="bread-card__head"><h3>Dark Rye</h3><span class="price">€6,00</span></div>
+          <p>Dense, malty, faintly sweet. 100% rye with caraway and a 48-hour rest. Keeps for a week.</p>
+        </div>
+      </article>
+      <article class="bread-card reveal" data-tilt>
+        <div class="bread-card__art bread-card__art--seed">
+          <span class="bread-emoji">🌾</span>
+        </div>
+        <div class="bread-card__body">
+          <div class="bread-card__head"><h3>Seeded Spelt</h3><span class="price">€6,25</span></div>
+          <p>Sunflower, flax &amp; sesame folded through nutty ancient-grain spelt. Toasts like a dream.</p>
+        </div>
+      </article>
+      <article class="bread-card reveal" data-tilt>
+        <div class="bread-card__art bread-card__art--olive">
+          <span class="bread-emoji">🫒</span>
+        </div>
+        <div class="bread-card__body">
+          <div class="bread-card__head"><h3>Olive &amp; Thyme</h3><span class="price">€6,75</span></div>
+          <p>Kalamata olives and fresh thyme from the market. A weekend-only special.</p>
+        </div>
+      </article>
+      <article class="bread-card reveal" data-tilt>
+        <div class="bread-card__art bread-card__art--bun">
+          <span class="bread-emoji">🥐</span>
+        </div>
+        <div class="bread-card__body">
+          <div class="bread-card__head"><h3>Sourdough Croissant</h3><span class="price">€3,50</span></div>
+          <p>Laminated with slow-fermented dough &amp; Dutch butter. Shatteringly crisp.</p>
+        </div>
+      </article>
+      <article class="bread-card reveal" data-tilt>
+        <div class="bread-card__art bread-card__art--cin">
+          <span class="bread-emoji">🍩</span>
+        </div>
+        <div class="bread-card__body">
+          <div class="bread-card__head"><h3>Cinnamon Knot</h3><span class="price">€3,75</span></div>
+          <p>Cardamom &amp; cinnamon swirl, pearl sugar on top. Sells out by ten, every time.</p>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <!-- PROCESS — sticky parallax steps -->
+  <section class="section process" id="process">
+    <div class="reveal">
+      <p class="section__kicker">The 36 hours</p>
+      <h2 class="section__title">How a loaf comes to life.</h2>
+    </div>
+    <ol class="process__list">
+      <li class="process__step reveal"><span class="process__num">01</span><div><h3>Feed the starter</h3><p>Truus gets a meal of flour and water the evening before. By morning she's bubbling and alive.</p></div></li>
+      <li class="process__step reveal"><span class="process__num">02</span><div><h3>Mix &amp; autolyse</h3><p>Flour and water rest together for an hour so the gluten relaxes before salt and starter join.</p></div></li>
+      <li class="process__step reveal"><span class="process__num">03</span><div><h3>Fold &amp; bulk</h3><p>A series of gentle stretches over five hours builds strength without ever kneading.</p></div></li>
+      <li class="process__step reveal"><span class="process__num">04</span><div><h3>Cold proof</h3><p>Shaped loaves rest overnight in the chill — this is where the deep, sour flavour develops.</p></div></li>
+      <li class="process__step reveal"><span class="process__num">05</span><div><h3>Bake in steam</h3><p>At 5am the stone oven hits 250°C. Twenty minutes under steam, twenty to colour the crust.</p></div></li>
+    </ol>
+  </section>
+
+  <!-- VISIT -->
+  <section class="section visit" id="visit">
+    <div class="visit__inner">
+      <div class="visit__info reveal">
+        <p class="section__kicker">Visit us</p>
+        <h2 class="section__title">Come for the smell.<br />Stay for the crust.</h2>
+        <ul class="visit__details">
+          <li><strong>Address</strong>Korte Heuvel 14, 5038 GC Tilburg</li>
+          <li><strong>Open</strong>Wed–Fri 7:30–18:00 &middot; Sat 7:30–16:00 &middot; Sun 9:00–14:00</li>
+          <li><strong>Closed</strong>Monday &amp; Tuesday (we rest, Truus doesn't)</li>
+          <li><strong>Hello</strong><a href="mailto:hallo@zuurdesem.nl">hallo@zuurdesem.nl</a> &middot; <a href="tel:+31135550199">013 555 0199</a></li>
+        </ul>
+        <div class="visit__socials">
+          <a href="#" aria-label="Instagram">Instagram</a>
+          <a href="#" aria-label="Facebook">Facebook</a>
+          <a href="#" aria-label="Newsletter">Newsletter</a>
+        </div>
+      </div>
+      <div class="visit__map reveal" data-tilt>
+        <div class="map-card">
+          <div class="map-card__pin">📍</div>
+          <p class="map-card__city">Tilburg</p>
+          <p class="map-card__street">Korte Heuvel 14</p>
+          <span class="map-card__hint">Two minutes from the Heuvel</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <p class="footer__brand">Zuurdesem<span>.</span></p>
+    <p class="footer__note">Naturally leavened in Tilburg since 2026. Baked with patience by hand.</p>
+    <p class="footer__legal">&copy; 2026 Zuurdesem Bakkerij &middot; KvK 90000000 &middot; Made with flour-dusted hands.</p>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
