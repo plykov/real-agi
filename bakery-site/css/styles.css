@@ -1,0 +1,277 @@
+/* ============================================================
+   Zuurdesem — Sourdough Bakery, Tilburg
+   3D parallax single-page site
+   ============================================================ */
+
+:root {
+  --crust:      #8f5526;
+  --crust-deep: #5e3618;
+  --gold:       #e8b377;
+  --amber:      #c8854a;
+  --cream:      #fff8ec;
+  --cream-2:    #f5ead6;
+  --ink:        #2b1d12;
+  --ink-soft:   #6b5743;
+  --shadow:     rgba(58, 36, 21, 0.18);
+  --max:        1180px;
+  --ease:       cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: "Inter", system-ui, sans-serif;
+  color: var(--ink);
+  background: var(--cream);
+  line-height: 1.6;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3 { font-family: "Fraunces", Georgia, serif; font-weight: 600; line-height: 1.08; }
+a { color: inherit; text-decoration: none; }
+em { font-style: italic; color: var(--crust); }
+
+/* ---------- scroll progress + nav ---------- */
+.scroll-progress {
+  position: fixed; top: 0; left: 0; height: 3px; width: 0%;
+  background: linear-gradient(90deg, var(--amber), var(--crust));
+  z-index: 100; transition: width 0.1s linear;
+}
+
+.nav {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 90;
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 20px clamp(20px, 5vw, 56px);
+  transition: background 0.4s var(--ease), padding 0.4s var(--ease), box-shadow 0.4s var(--ease);
+}
+.nav.is-scrolled {
+  background: rgba(255, 248, 236, 0.86);
+  backdrop-filter: blur(12px);
+  padding-top: 14px; padding-bottom: 14px;
+  box-shadow: 0 6px 24px rgba(58, 36, 21, 0.08);
+}
+.nav__brand { font-family: "Fraunces", serif; font-size: 1.5rem; font-weight: 600; letter-spacing: -0.02em; }
+.nav__brand span { color: var(--amber); }
+.nav__links { display: flex; gap: 30px; }
+.nav__links a { font-size: 0.95rem; font-weight: 500; color: var(--ink-soft); transition: color 0.25s; }
+.nav__links a:hover { color: var(--crust); }
+.nav__cta {
+  font-size: 0.9rem; font-weight: 600; padding: 9px 20px; border-radius: 100px;
+  background: var(--crust); color: var(--cream); transition: transform 0.25s var(--ease), background 0.25s;
+}
+.nav__cta:hover { transform: translateY(-2px); background: var(--crust-deep); }
+@media (max-width: 720px) { .nav__links { display: none; } }
+
+/* ============================================================
+   HERO — the 3D parallax scene
+   ============================================================ */
+.hero {
+  position: relative; height: 100vh; min-height: 640px;
+  overflow: hidden;
+  perspective: 1000px;            /* gives the layers real depth */
+  background: linear-gradient(180deg, #ffe7c2 0%, #ffd9a8 40%, #f6c98a 100%);
+}
+.scene {
+  position: absolute; inset: 0;
+  transform-style: preserve-3d;
+  will-change: transform;
+}
+.layer {
+  position: absolute; inset: 0;
+  will-change: transform;
+  transition: transform 0.18s ease-out;   /* smooths the mouse parallax */
+}
+
+.layer--sky {
+  background:
+    radial-gradient(circle at 78% 18%, rgba(255,255,255,0.85) 0 8%, transparent 9%),
+    radial-gradient(circle at 78% 18%, rgba(255,236,196,0.6) 0 22%, transparent 23%);
+}
+.layer--glow {
+  background: radial-gradient(circle at 50% 75%, rgba(255, 245, 220, 0.55), transparent 60%);
+}
+.layer--hills {
+  background:
+    radial-gradient(120% 80% at 50% 130%, #d99a52 0 55%, transparent 56%),
+    radial-gradient(140% 70% at 20% 135%, #c8854a 0 50%, transparent 51%),
+    radial-gradient(140% 70% at 85% 135%, #e0a35f 0 50%, transparent 51%);
+}
+
+/* steam */
+.layer--steam { pointer-events: none; }
+.layer--steam span {
+  position: absolute; bottom: 26%; left: 50%;
+  width: 14px; height: 90px; border-radius: 50%;
+  background: linear-gradient(to top, rgba(255,255,255,0.55), transparent);
+  filter: blur(6px); opacity: 0;
+  animation: steam 5s ease-in-out infinite;
+}
+.layer--steam span:nth-child(1) { margin-left: -36px; animation-delay: 0s; }
+.layer--steam span:nth-child(2) { margin-left: 0;     animation-delay: 1.4s; }
+.layer--steam span:nth-child(3) { margin-left: 30px;  animation-delay: 2.6s; }
+@keyframes steam {
+  0%   { transform: translateY(20px) scale(0.8); opacity: 0; }
+  30%  { opacity: 0.8; }
+  100% { transform: translateY(-90px) scale(1.4); opacity: 0; }
+}
+
+.layer--copy {
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  text-align: center; padding: 0 24px; transform: translateZ(0);
+}
+.hero__eyebrow {
+  font-size: 0.85rem; font-weight: 600; letter-spacing: 0.28em; text-transform: uppercase;
+  color: var(--crust); margin-bottom: 18px;
+}
+.hero__title {
+  font-size: clamp(2.8rem, 8vw, 6rem); color: var(--ink);
+  text-shadow: 0 2px 0 rgba(255,255,255,0.25);
+}
+.hero__sub {
+  max-width: 540px; margin: 22px auto 0; font-size: clamp(1rem, 1.6vw, 1.18rem);
+  color: var(--ink-soft);
+}
+.hero__actions { display: flex; gap: 14px; margin-top: 34px; flex-wrap: wrap; justify-content: center; }
+
+.btn {
+  font-weight: 600; font-size: 0.98rem; padding: 14px 28px; border-radius: 100px;
+  transition: transform 0.25s var(--ease), box-shadow 0.25s var(--ease), background 0.25s;
+}
+.btn--solid { background: var(--crust); color: var(--cream); box-shadow: 0 10px 24px rgba(143, 85, 38, 0.32); }
+.btn--solid:hover { transform: translateY(-3px); box-shadow: 0 16px 32px rgba(143, 85, 38, 0.4); }
+.btn--ghost { background: rgba(255,255,255,0.55); color: var(--crust-deep); border: 1.5px solid rgba(143,85,38,0.35); }
+.btn--ghost:hover { transform: translateY(-3px); background: rgba(255,255,255,0.85); }
+
+.layer--loaf {
+  display: flex; align-items: flex-end; justify-content: center;
+  padding-bottom: 4vh; pointer-events: none;
+}
+.loaf-art { width: clamp(240px, 36vw, 460px); filter: drop-shadow(0 24px 30px rgba(58,36,21,0.35)); }
+
+.hero__scroll {
+  position: absolute; bottom: 26px; left: 50%; transform: translateX(-50%);
+  display: flex; flex-direction: column; align-items: center; gap: 8px; z-index: 5;
+}
+.hero__scroll-dot {
+  width: 22px; height: 36px; border: 2px solid var(--crust); border-radius: 14px; position: relative;
+}
+.hero__scroll-dot::after {
+  content: ""; position: absolute; top: 7px; left: 50%; transform: translateX(-50%);
+  width: 4px; height: 8px; border-radius: 4px; background: var(--crust);
+  animation: scrolldot 1.6s ease-in-out infinite;
+}
+@keyframes scrolldot { 0%,100% { opacity:0; transform: translate(-50%,0);} 50%{opacity:1; transform: translate(-50%,10px);} }
+.hero__scroll-label { font-size: 0.72rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--crust); }
+
+/* ============================================================
+   SECTIONS
+   ============================================================ */
+.section { max-width: var(--max); margin: 0 auto; padding: clamp(80px, 12vh, 150px) clamp(20px, 5vw, 40px); }
+.section__kicker {
+  font-size: 0.82rem; font-weight: 600; letter-spacing: 0.24em; text-transform: uppercase;
+  color: var(--amber); margin-bottom: 14px;
+}
+.section__title { font-size: clamp(1.9rem, 4.5vw, 3.2rem); max-width: 16ch; }
+
+/* reveal-on-scroll */
+.reveal { opacity: 0; transform: translateY(36px); transition: opacity 0.8s var(--ease), transform 0.8s var(--ease); }
+.reveal.is-visible { opacity: 1; transform: none; }
+
+/* story */
+.story__lead { max-width: 620px; margin-top: 26px; font-size: 1.12rem; color: var(--ink-soft); }
+.story__stats {
+  display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; margin-top: 64px;
+}
+.stat { text-align: left; border-left: 3px solid var(--gold); padding-left: 18px; }
+.stat__num { display: block; font-family: "Fraunces", serif; font-size: clamp(2rem, 4vw, 3rem); color: var(--crust); line-height: 1; }
+.stat__label { font-size: 0.9rem; color: var(--ink-soft); }
+@media (max-width: 720px) { .story__stats { grid-template-columns: repeat(2, 1fr); } }
+
+/* ---------- breads — 3D tilt cards ---------- */
+.breads { perspective: 1200px; }
+.bread-grid {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 28px; margin-top: 50px;
+}
+.bread-card {
+  background: var(--cream); border-radius: 22px; overflow: hidden;
+  box-shadow: 0 14px 40px var(--shadow);
+  transform-style: preserve-3d; will-change: transform;
+  transition: box-shadow 0.3s var(--ease);
+}
+.bread-card:hover { box-shadow: 0 28px 60px rgba(58,36,21,0.26); }
+.bread-card__art {
+  height: 180px; display: flex; align-items: center; justify-content: center;
+  position: relative; transform: translateZ(40px);
+}
+.bread-emoji { font-size: 4.6rem; filter: drop-shadow(0 10px 14px rgba(58,36,21,0.3)); transform: translateZ(50px); }
+.bread-card__art--country { background: radial-gradient(circle at 50% 40%, #f0c993, #d99a52); }
+.bread-card__art--rye     { background: radial-gradient(circle at 50% 40%, #c79a6b, #8f5526); }
+.bread-card__art--seed    { background: radial-gradient(circle at 50% 40%, #e6d3a3, #c2a35e); }
+.bread-card__art--olive   { background: radial-gradient(circle at 50% 40%, #cdbf8f, #8a8a4e); }
+.bread-card__art--bun     { background: radial-gradient(circle at 50% 40%, #f3cf9a, #e0a35f); }
+.bread-card__art--cin     { background: radial-gradient(circle at 50% 40%, #e9bd86, #b9763c); }
+.bread-card__body { padding: 22px 24px 28px; transform: translateZ(24px); }
+.bread-card__head { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; }
+.bread-card__head h3 { font-size: 1.32rem; }
+.price { font-family: "Fraunces", serif; font-weight: 600; color: var(--crust); white-space: nowrap; }
+.bread-card__body p { margin-top: 8px; font-size: 0.96rem; color: var(--ink-soft); }
+
+/* ---------- process ---------- */
+.process__list { list-style: none; margin-top: 50px; display: flex; flex-direction: column; gap: 4px; }
+.process__step {
+  display: flex; gap: 28px; align-items: flex-start;
+  padding: 28px 0; border-top: 1px solid rgba(143,85,38,0.16);
+}
+.process__num {
+  font-family: "Fraunces", serif; font-size: clamp(2rem, 5vw, 3.4rem); color: var(--gold);
+  min-width: 90px; line-height: 1;
+}
+.process__step h3 { font-size: 1.4rem; }
+.process__step p { margin-top: 6px; color: var(--ink-soft); max-width: 56ch; }
+
+/* ---------- visit ---------- */
+.visit { perspective: 1000px; }
+.visit__inner { display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 60px; align-items: center; }
+@media (max-width: 860px) { .visit__inner { grid-template-columns: 1fr; gap: 40px; } }
+.visit__details { list-style: none; margin-top: 30px; display: flex; flex-direction: column; gap: 18px; }
+.visit__details li { display: flex; flex-direction: column; gap: 2px; }
+.visit__details strong { font-size: 0.78rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--amber); }
+.visit__details a { color: var(--crust); border-bottom: 1px solid transparent; transition: border-color 0.2s; }
+.visit__details a:hover { border-color: var(--crust); }
+.visit__socials { display: flex; gap: 22px; margin-top: 32px; }
+.visit__socials a { font-weight: 600; color: var(--ink-soft); transition: color 0.2s; }
+.visit__socials a:hover { color: var(--crust); }
+
+.visit__map { transform-style: preserve-3d; }
+.map-card {
+  background: linear-gradient(150deg, var(--crust), var(--crust-deep));
+  color: var(--cream); border-radius: 26px; padding: 56px 40px; text-align: center;
+  box-shadow: 0 24px 60px rgba(58,36,21,0.4);
+  position: relative; overflow: hidden;
+}
+.map-card::before {
+  content: ""; position: absolute; inset: 0;
+  background:
+    repeating-linear-gradient(45deg, rgba(255,255,255,0.04) 0 12px, transparent 12px 24px);
+}
+.map-card__pin { font-size: 3rem; transform: translateZ(40px); }
+.map-card__city { font-family: "Fraunces", serif; font-size: 2.2rem; margin-top: 10px; transform: translateZ(30px); }
+.map-card__street { opacity: 0.85; transform: translateZ(20px); }
+.map-card__hint { display: inline-block; margin-top: 18px; font-size: 0.85rem; opacity: 0.7; }
+
+/* ---------- footer ---------- */
+.footer { text-align: center; padding: 70px 24px 56px; background: var(--ink); color: var(--cream-2); }
+.footer__brand { font-family: "Fraunces", serif; font-size: 1.8rem; }
+.footer__brand span { color: var(--amber); }
+.footer__note { margin-top: 10px; opacity: 0.8; }
+.footer__legal { margin-top: 26px; font-size: 0.82rem; opacity: 0.5; }
+
+/* reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; scroll-behavior: auto; }
+  .reveal { opacity: 1; transform: none; }
+}
