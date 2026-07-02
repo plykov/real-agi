@@ -1,0 +1,948 @@
+{
+ "version": 0.6,
+ "generator": "SYNTHETIC-FIXTURE (not real OSM data)",
+ "elements": [
+  {
+   "type": "node",
+   "id": 9900000000,
+   "lat": 51.55086,
+   "lon": 5.077636,
+   "tags": {
+    "name": "Bakkerij De Korenschoof",
+    "shop": "bakery",
+    "addr:street": "Noordstraat",
+    "addr:housenumber": "104",
+    "addr:postcode": "5038 GM",
+    "addr:city": "Tilburg",
+    "phone": "+31135994554"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000001,
+   "lat": 51.556796,
+   "lon": 5.070156,
+   "tags": {
+    "name": "Slagerij van den Broek",
+    "shop": "butcher",
+    "addr:street": "Tuinstraat",
+    "addr:housenumber": "64",
+    "addr:postcode": "5038 EK",
+    "addr:city": "Tilburg",
+    "phone": "+31135695984"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000002,
+   "lat": 51.550431,
+   "lon": 5.072544,
+   "tags": {
+    "name": "Kapsalon Knip & Klaar",
+    "shop": "hairdresser",
+    "addr:street": "Willem II-straat",
+    "addr:housenumber": "33",
+    "addr:postcode": "5038 LP",
+    "addr:city": "Tilburg"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000003,
+   "lat": 51.553885,
+   "lon": 5.085806,
+   "tags": {
+    "name": "Haarstudio Meike",
+    "shop": "hairdresser",
+    "addr:street": "Bredaseweg",
+    "addr:housenumber": "100",
+    "addr:postcode": "5038 EK",
+    "addr:city": "Tilburg",
+    "phone": "+31134498375",
+    "website": "https://www.haarstudiomeike.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000004,
+   "lat": 51.556012,
+   "lon": 5.073516,
+   "tags": {
+    "name": "Bloemsierkunst 't Boeketje",
+    "shop": "florist",
+    "addr:street": "Tuinstraat",
+    "addr:housenumber": "105",
+    "addr:postcode": "5038 EK",
+    "addr:city": "Tilburg",
+    "phone": "+31134432271"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000005,
+   "lat": 51.559779,
+   "lon": 5.076296,
+   "tags": {
+    "name": "Tweewielers Peeters",
+    "shop": "bicycle",
+    "addr:street": "Stationsstraat",
+    "addr:housenumber": "8",
+    "addr:postcode": "5038 JN",
+    "addr:city": "Tilburg",
+    "phone": "+31135804301",
+    "website": "https://www.tweewielerspeeters.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000006,
+   "lat": 51.555492,
+   "lon": 5.083737,
+   "tags": {
+    "name": "Rijwielhandel De Ketting",
+    "shop": "bicycle",
+    "addr:street": "Noordstraat",
+    "addr:housenumber": "150",
+    "addr:postcode": "5038 GM",
+    "addr:city": "Tilburg",
+    "phone": "+31135880312"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000007,
+   "lat": 51.55898,
+   "lon": 5.068841,
+   "tags": {
+    "name": "Albert Heijn",
+    "shop": "supermarket",
+    "addr:street": "Tuinstraat",
+    "addr:housenumber": "31",
+    "addr:postcode": "5038 CD",
+    "addr:city": "Tilburg",
+    "phone": "+31134079169",
+    "website": "https://www.albertheijn.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000008,
+   "lat": 51.561736,
+   "lon": 5.08686,
+   "tags": {
+    "name": "Jumbo Verstappen",
+    "shop": "supermarket",
+    "addr:street": "Heuvelring",
+    "addr:housenumber": "87",
+    "addr:postcode": "5038 EK",
+    "addr:city": "Tilburg",
+    "phone": "+31135876542",
+    "website": "https://www.jumboverstappen.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000009,
+   "lat": 51.556019,
+   "lon": 5.077893,
+   "tags": {
+    "name": "Kruidvat",
+    "shop": "chemist",
+    "addr:street": "Heuvelring",
+    "addr:housenumber": "30",
+    "addr:postcode": "5038 EK",
+    "addr:city": "Tilburg",
+    "website": "https://www.kruidvat.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000010,
+   "lat": 51.54919,
+   "lon": 5.071272,
+   "tags": {
+    "name": "Boekhandel Livius",
+    "shop": "books",
+    "addr:street": "Nieuwlandstraat",
+    "addr:housenumber": "115",
+    "addr:postcode": "5038 JN",
+    "addr:city": "Tilburg",
+    "phone": "+31134649263",
+    "website": "https://www.boekhandellivius.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000011,
+   "lat": 51.555735,
+   "lon": 5.082857,
+   "tags": {
+    "name": "Kledingzaak Mode van Mari",
+    "shop": "clothes",
+    "addr:street": "Heuvelring",
+    "addr:housenumber": "85",
+    "addr:postcode": "5038 JN",
+    "addr:city": "Tilburg",
+    "phone": "+31134885194"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000012,
+   "lat": 51.561439,
+   "lon": 5.074908,
+   "tags": {
+    "name": "Zeeman",
+    "shop": "clothes",
+    "addr:street": "Nieuwlandstraat",
+    "addr:housenumber": "108",
+    "addr:postcode": "5038 JN",
+    "addr:city": "Tilburg",
+    "website": "https://www.zeeman.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000013,
+   "lat": 51.551453,
+   "lon": 5.08254,
+   "tags": {
+    "name": "Juwelier Goudappel",
+    "shop": "jewelry",
+    "addr:street": "Willem II-straat",
+    "addr:housenumber": "120",
+    "addr:postcode": "5038 GM",
+    "addr:city": "Tilburg",
+    "phone": "+31134367728",
+    "website": "https://www.juweliergoudappel.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000014,
+   "lat": 51.563657,
+   "lon": 5.083139,
+   "tags": {
+    "name": "Optiek Helder Zicht",
+    "shop": "optician",
+    "addr:street": "Nieuwlandstraat",
+    "addr:housenumber": "121",
+    "addr:postcode": "5038 AB",
+    "addr:city": "Tilburg",
+    "phone": "+31134613687",
+    "website": "https://www.optiekhelderzicht.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000015,
+   "lat": 51.557277,
+   "lon": 5.080739,
+   "tags": {
+    "name": "Hans Anders",
+    "shop": "optician",
+    "addr:street": "Schouwburgring",
+    "addr:housenumber": "109",
+    "addr:postcode": "5038 CD",
+    "addr:city": "Tilburg",
+    "phone": "+31135453715",
+    "website": "https://www.hansanders.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000016,
+   "lat": 51.548594,
+   "lon": 5.070954,
+   "tags": {
+    "name": "Dierenspeciaalzaak Vachtje",
+    "shop": "pet",
+    "addr:street": "Willem II-straat",
+    "addr:housenumber": "28",
+    "addr:postcode": "5038 JN",
+    "addr:city": "Tilburg",
+    "phone": "+31134641744"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000017,
+   "lat": 51.55626,
+   "lon": 5.081798,
+   "tags": {
+    "name": "Wijnhandel Bacchus Tilburg",
+    "shop": "alcohol",
+    "addr:street": "Bredaseweg",
+    "addr:housenumber": "34",
+    "addr:postcode": "5038 AB",
+    "addr:city": "Tilburg",
+    "phone": "+31135568893",
+    "website": "https://www.wijnhandelbacchustilburg.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000018,
+   "lat": 51.563157,
+   "lon": 5.087206,
+   "tags": {
+    "name": "Schoenmakerij Zolen & Hakken",
+    "shop": "shoe_repair",
+    "addr:street": "Bredaseweg",
+    "addr:housenumber": "88",
+    "addr:postcode": "5038 GM",
+    "addr:city": "Tilburg"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000019,
+   "lat": 51.560578,
+   "lon": 5.077963,
+   "tags": {
+    "name": "Fotostudio Lichtbeeld",
+    "shop": "photo",
+    "addr:street": "Stationsstraat",
+    "addr:housenumber": "136",
+    "addr:postcode": "5038 EK",
+    "addr:city": "Tilburg",
+    "phone": "+31134532189",
+    "website": "https://www.fotostudiolichtbeeld.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000020,
+   "lat": 51.549514,
+   "lon": 5.086599,
+   "tags": {
+    "name": "IJzerwaren Gebr. Smulders",
+    "shop": "hardware",
+    "addr:street": "Willem II-straat",
+    "addr:housenumber": "139",
+    "addr:postcode": "5038 EK",
+    "addr:city": "Tilburg",
+    "phone": "+31134528813"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000021,
+   "lat": 51.5621,
+   "lon": 5.074144,
+   "tags": {
+    "name": "Kaashandel De Zuivelhoeve Tilburg",
+    "shop": "cheese",
+    "addr:street": "Tuinstraat",
+    "addr:housenumber": "77",
+    "addr:postcode": "5038 EK",
+    "addr:city": "Tilburg",
+    "phone": "+31135341152"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000022,
+   "lat": 51.551728,
+   "lon": 5.070044,
+   "tags": {
+    "name": "Autobedrijf Van Gorp",
+    "shop": "car_repair",
+    "addr:street": "Stationsstraat",
+    "addr:housenumber": "126",
+    "addr:postcode": "5038 LP",
+    "addr:city": "Tilburg",
+    "phone": "+31134395147",
+    "website": "https://www.autobedrijfvangorp.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000023,
+   "lat": 51.553549,
+   "lon": 5.081609,
+   "tags": {
+    "name": "Garage De Cilinder",
+    "shop": "car_repair",
+    "addr:street": "Nieuwlandstraat",
+    "addr:housenumber": "80",
+    "addr:postcode": "5038 CD",
+    "addr:city": "Tilburg",
+    "phone": "+31134649405"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000024,
+   "lat": 51.549663,
+   "lon": 5.084907,
+   "tags": {
+    "name": "Kwik-Fit",
+    "shop": "car_repair",
+    "addr:street": "Willem II-straat",
+    "addr:housenumber": "164",
+    "addr:postcode": "5038 JN",
+    "addr:city": "Tilburg",
+    "phone": "+31134228639",
+    "website": "https://www.kwik-fit.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000025,
+   "lat": 51.562158,
+   "lon": 5.08775,
+   "tags": {
+    "name": "Naaimachinehuis Steek Vast",
+    "shop": "sewing",
+    "addr:street": "Noordstraat",
+    "addr:housenumber": "78",
+    "addr:postcode": "5038 LP",
+    "addr:city": "Tilburg"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000026,
+   "lat": 51.555472,
+   "lon": 5.08784,
+   "tags": {
+    "name": "Speelgoedwinkel De Blokkendoos",
+    "shop": "toys",
+    "addr:street": "Nieuwlandstraat",
+    "addr:housenumber": "65",
+    "addr:postcode": "5038 GM",
+    "addr:city": "Tilburg",
+    "phone": "+31134937103"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000027,
+   "lat": 51.549031,
+   "lon": 5.08014,
+   "tags": {
+    "name": "Delicatessen Puur & Eerlijk",
+    "shop": "deli",
+    "addr:street": "Tuinstraat",
+    "addr:housenumber": "163",
+    "addr:postcode": "5038 EK",
+    "addr:city": "Tilburg",
+    "phone": "+31135475412",
+    "website": "https://www.delicatessenpuureneerlij.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000028,
+   "lat": 51.552585,
+   "lon": 5.068062,
+   "tags": {
+    "name": "Muziekhandel Fortissimo",
+    "shop": "musical_instrument",
+    "addr:street": "Tuinstraat",
+    "addr:housenumber": "91",
+    "addr:postcode": "5038 EK",
+    "addr:city": "Tilburg",
+    "phone": "+31135779364",
+    "website": "https://www.muziekhandelfortissimo.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000029,
+   "lat": 51.556451,
+   "lon": 5.083237,
+   "tags": {
+    "name": "Tabak & Gemak Centrum",
+    "shop": "tobacco",
+    "addr:street": "Willem II-straat",
+    "addr:housenumber": "125",
+    "addr:postcode": "5038 EK",
+    "addr:city": "Tilburg",
+    "phone": "+31134805340"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000030,
+   "lat": 51.562361,
+   "lon": 5.079248,
+   "tags": {
+    "name": "Restaurant De Gouden Lepel",
+    "amenity": "restaurant",
+    "addr:street": "Noordstraat",
+    "addr:housenumber": "143",
+    "addr:postcode": "5038 EK",
+    "addr:city": "Tilburg",
+    "phone": "+31134814133",
+    "website": "https://www.restaurantdegoudenlepel.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000031,
+   "lat": 51.561807,
+   "lon": 5.071545,
+   "tags": {
+    "name": "Eetcafé Bij Tante Toos",
+    "amenity": "restaurant",
+    "addr:street": "Noordstraat",
+    "addr:housenumber": "21",
+    "addr:postcode": "5038 GM",
+    "addr:city": "Tilburg",
+    "phone": "+31134373765"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000032,
+   "lat": 51.557027,
+   "lon": 5.069703,
+   "tags": {
+    "name": "Bistro Noordhoek",
+    "amenity": "restaurant",
+    "addr:street": "Stationsstraat",
+    "addr:housenumber": "180",
+    "addr:postcode": "5038 LP",
+    "addr:city": "Tilburg",
+    "phone": "+31135305913",
+    "website": "https://www.bistronoordhoek.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000033,
+   "lat": 51.552991,
+   "lon": 5.086216,
+   "tags": {
+    "name": "Pizzeria La Fontana",
+    "amenity": "restaurant",
+    "addr:street": "Willem II-straat",
+    "addr:housenumber": "145",
+    "addr:postcode": "5038 GM",
+    "addr:city": "Tilburg",
+    "phone": "+31134990763"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000034,
+   "lat": 51.549375,
+   "lon": 5.080211,
+   "tags": {
+    "name": "Domino's Pizza",
+    "amenity": "fast_food",
+    "addr:street": "Willem II-straat",
+    "addr:housenumber": "128",
+    "addr:postcode": "5038 LP",
+    "addr:city": "Tilburg",
+    "phone": "+31134557941",
+    "website": "https://www.dominospizza.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000035,
+   "lat": 51.551847,
+   "lon": 5.087768,
+   "tags": {
+    "name": "Cafetaria 't Pleintje",
+    "amenity": "fast_food",
+    "addr:street": "Schouwburgring",
+    "addr:housenumber": "88",
+    "addr:postcode": "5038 AB",
+    "addr:city": "Tilburg",
+    "phone": "+31135642709"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000036,
+   "lat": 51.556176,
+   "lon": 5.075307,
+   "tags": {
+    "name": "Snackbar De Smulhoek",
+    "amenity": "fast_food",
+    "addr:street": "Bredaseweg",
+    "addr:housenumber": "72",
+    "addr:postcode": "5038 GM",
+    "addr:city": "Tilburg"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000037,
+   "lat": 51.551743,
+   "lon": 5.080775,
+   "tags": {
+    "name": "Café De Boekanier",
+    "amenity": "cafe",
+    "addr:street": "Willem II-straat",
+    "addr:housenumber": "15",
+    "addr:postcode": "5038 AB",
+    "addr:city": "Tilburg",
+    "phone": "+31135302035"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000038,
+   "lat": 51.550545,
+   "lon": 5.068747,
+   "tags": {
+    "name": "Koffiehuis Bonen & Zo",
+    "amenity": "cafe",
+    "addr:street": "Schouwburgring",
+    "addr:housenumber": "68",
+    "addr:postcode": "5038 LP",
+    "addr:city": "Tilburg",
+    "phone": "+31134907433",
+    "website": "https://www.koffiehuisbonenenzo.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000039,
+   "lat": 51.555691,
+   "lon": 5.07622,
+   "tags": {
+    "name": "Grand Café Wilhelmina",
+    "amenity": "cafe",
+    "addr:street": "Noordstraat",
+    "addr:housenumber": "144",
+    "addr:postcode": "5038 LP",
+    "addr:city": "Tilburg",
+    "phone": "+31135826634",
+    "website": "https://www.grandcafewilhelmina.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000040,
+   "lat": 51.561504,
+   "lon": 5.085554,
+   "tags": {
+    "name": "Tandartspraktijk Molenaar",
+    "amenity": "dentist",
+    "addr:street": "Bredaseweg",
+    "addr:housenumber": "110",
+    "addr:postcode": "5038 JN",
+    "addr:city": "Tilburg",
+    "phone": "+31135870179",
+    "website": "https://www.tandartspraktijkmolenaar.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000041,
+   "lat": 51.559285,
+   "lon": 5.086109,
+   "tags": {
+    "name": "Tandartsen aan de Ring",
+    "amenity": "dentist",
+    "addr:street": "Bredaseweg",
+    "addr:housenumber": "119",
+    "addr:postcode": "5038 GM",
+    "addr:city": "Tilburg",
+    "phone": "+31134637861",
+    "website": "https://www.tandartsenaandering.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000042,
+   "lat": 51.563147,
+   "lon": 5.07366,
+   "tags": {
+    "name": "Huisartsenpraktijk Centrum-West",
+    "amenity": "doctors",
+    "addr:street": "Bredaseweg",
+    "addr:housenumber": "46",
+    "addr:postcode": "5038 JN",
+    "addr:city": "Tilburg",
+    "phone": "+31135549063",
+    "website": "https://www.huisartsenpraktijkcentru.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000043,
+   "lat": 51.549145,
+   "lon": 5.086591,
+   "tags": {
+    "name": "Apotheek De Vijzel",
+    "amenity": "pharmacy",
+    "addr:street": "Nieuwlandstraat",
+    "addr:housenumber": "108",
+    "addr:postcode": "5038 CD",
+    "addr:city": "Tilburg",
+    "phone": "+31134929266",
+    "website": "https://www.apotheekdevijzel.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000044,
+   "lat": 51.559909,
+   "lon": 5.084178,
+   "tags": {
+    "name": "Dierenkliniek Beestenboel",
+    "amenity": "veterinary",
+    "addr:street": "Tuinstraat",
+    "addr:housenumber": "142",
+    "addr:postcode": "5038 LP",
+    "addr:city": "Tilburg",
+    "phone": "+31134132720",
+    "website": "https://www.dierenkliniekbeestenboel.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000045,
+   "lat": 51.563811,
+   "lon": 5.074102,
+   "tags": {
+    "name": "Sportschool IJzersterk",
+    "amenity": "gym",
+    "addr:street": "Heuvelring",
+    "addr:housenumber": "22",
+    "addr:postcode": "5038 EK",
+    "addr:city": "Tilburg",
+    "phone": "+31134070579"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000046,
+   "lat": 51.560601,
+   "lon": 5.076029,
+   "tags": {
+    "name": "Basic-Fit",
+    "amenity": "gym",
+    "addr:street": "Nieuwlandstraat",
+    "addr:housenumber": "69",
+    "addr:postcode": "5038 GM",
+    "addr:city": "Tilburg",
+    "website": "https://www.basic-fit.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000047,
+   "lat": 51.551755,
+   "lon": 5.068501,
+   "tags": {
+    "name": "Autorijschool De Groene Kaart",
+    "amenity": "driving_school",
+    "addr:street": "Bredaseweg",
+    "addr:housenumber": "69",
+    "addr:postcode": "5038 EK",
+    "addr:city": "Tilburg",
+    "phone": "+31134667376"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000048,
+   "lat": 51.559723,
+   "lon": 5.086313,
+   "tags": {
+    "name": "Fysiotherapie Corpus Tilburg",
+    "healthcare": "physiotherapist",
+    "addr:street": "Noordstraat",
+    "addr:housenumber": "81",
+    "addr:postcode": "5038 JN",
+    "addr:city": "Tilburg",
+    "phone": "+31135441244"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000049,
+   "lat": 51.554198,
+   "lon": 5.083267,
+   "tags": {
+    "name": "Praktijk voor Fysiotherapie Rugsteun",
+    "healthcare": "physiotherapist",
+    "addr:street": "Tuinstraat",
+    "addr:housenumber": "107",
+    "addr:postcode": "5038 GM",
+    "addr:city": "Tilburg",
+    "phone": "+31134123640",
+    "website": "https://www.praktijkvoorfysiotherapi.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000050,
+   "lat": 51.551104,
+   "lon": 5.084785,
+   "tags": {
+    "name": "Podotherapie Voetenwerk",
+    "healthcare": "podiatrist",
+    "addr:street": "Tuinstraat",
+    "addr:housenumber": "82",
+    "addr:postcode": "5038 JN",
+    "addr:city": "Tilburg",
+    "phone": "+31134300520"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000051,
+   "lat": 51.563354,
+   "lon": 5.083823,
+   "tags": {
+    "name": "Advocatenkantoor Hendrickx & Partners",
+    "office": "lawyer",
+    "addr:street": "Bredaseweg",
+    "addr:housenumber": "4",
+    "addr:postcode": "5038 AB",
+    "addr:city": "Tilburg",
+    "phone": "+31135217369",
+    "website": "https://www.advocatenkantoorhendrick.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000052,
+   "lat": 51.560937,
+   "lon": 5.06814,
+   "tags": {
+    "name": "Notariskantoor Van der Zanden",
+    "office": "notary",
+    "addr:street": "Stationsstraat",
+    "addr:housenumber": "131",
+    "addr:postcode": "5038 LP",
+    "addr:city": "Tilburg",
+    "phone": "+31135565062",
+    "website": "https://www.notariskantoorvanderzand.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000053,
+   "lat": 51.553774,
+   "lon": 5.075581,
+   "tags": {
+    "name": "Administratiekantoor Cijfers op Orde",
+    "office": "accountant",
+    "addr:street": "Nieuwlandstraat",
+    "addr:housenumber": "102",
+    "addr:postcode": "5038 JN",
+    "addr:city": "Tilburg",
+    "phone": "+31134217231"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000054,
+   "lat": 51.551084,
+   "lon": 5.078044,
+   "tags": {
+    "name": "Accountants Brabant Zuid",
+    "office": "accountant",
+    "addr:street": "Nieuwlandstraat",
+    "addr:housenumber": "162",
+    "addr:postcode": "5038 AB",
+    "addr:city": "Tilburg",
+    "phone": "+31134255276",
+    "website": "https://www.accountantsbrabantzuid.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000055,
+   "lat": 51.556841,
+   "lon": 5.069995,
+   "tags": {
+    "name": "Makelaardij Huis & Haard Tilburg",
+    "office": "estate_agent",
+    "addr:street": "Heuvelring",
+    "addr:housenumber": "170",
+    "addr:postcode": "5038 JN",
+    "addr:city": "Tilburg",
+    "phone": "+31135344901",
+    "website": "https://www.makelaardijhuisenhaardti.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000056,
+   "lat": 51.559793,
+   "lon": 5.083983,
+   "tags": {
+    "name": "Assurantiekantoor De Polder",
+    "office": "insurance",
+    "addr:street": "Nieuwlandstraat",
+    "addr:housenumber": "126",
+    "addr:postcode": "5038 CD",
+    "addr:city": "Tilburg",
+    "phone": "+31135075125"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000057,
+   "lat": 51.552431,
+   "lon": 5.074734,
+   "tags": {
+    "name": "Uitzendbureau WerkDirect",
+    "office": "employment_agency",
+    "addr:street": "Nieuwlandstraat",
+    "addr:housenumber": "94",
+    "addr:postcode": "5038 AB",
+    "addr:city": "Tilburg",
+    "phone": "+31134292642",
+    "website": "https://www.uitzendbureauwerkdirect.nl"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000058,
+   "lat": 51.555184,
+   "lon": 5.083435,
+   "tags": {
+    "name": "Installatiebedrijf Warmtebron",
+    "craft": "plumber",
+    "addr:street": "Tuinstraat",
+    "addr:housenumber": "82",
+    "addr:postcode": "5038 LP",
+    "addr:city": "Tilburg",
+    "phone": "+31135411924"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000059,
+   "lat": 51.560134,
+   "lon": 5.075449,
+   "tags": {
+    "name": "Elektro Van Riel",
+    "craft": "electrician",
+    "addr:street": "Heuvelring",
+    "addr:housenumber": "156",
+    "addr:postcode": "5038 EK",
+    "addr:city": "Tilburg",
+    "phone": "+31134063595"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9900000060,
+   "lat": 51.554261,
+   "lon": 5.077707,
+   "tags": {
+    "name": "Schildersbedrijf Kleurrijk",
+    "craft": "painter",
+    "addr:street": "Stationsstraat",
+    "addr:housenumber": "129",
+    "addr:postcode": "5038 AB",
+    "addr:city": "Tilburg",
+    "phone": "+31135574466",
+    "website": "https://www.schildersbedrijfkleurrij.nl"
+   }
+  }
+ ]
+}
